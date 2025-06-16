@@ -1,0 +1,3937 @@
+City,Insurer,Q1,Q2,Q5a,Q8,Q13
+MUMBAI,New India Assurance,4,,3.0,5.0,5.0
+BANGALORE,HDFC Ergo,10,,,,10.0
+KOLKATA,Niva Bupa,9,,,,10.0
+BANGALORE,ICICI Lombard,10,,,,9.0
+KANPUR,Star Health,6,,5.0,6.0,7.0
+INDORE,Star Health,9,,,,9.0
+LUDHIANA,New India Assurance,7,,8.0,9.0,8.0
+AHMEDABAD,Aditya Birla Health,9,,10.0,9.0,10.0
+HYDERABAD,Aditya Birla Health,5,,7.0,7.0,2.0
+DELHI,HDFC Ergo,9,,,,9.0
+AHMEDABAD,Care Health,9,,,,10.0
+KANPUR,Bagic,9,,,,8.0
+KANPUR,ICICI Lombard,9,,,,10.0
+JAIPUR,Care Health,9,,,,10.0
+LUDHIANA,Care Health,10,,,,8.0
+JAIPUR,ICICI Lombard,9,,,,10.0
+DELHI,ICICI Lombard,9,10.0,,,
+MUMBAI,HDFC Ergo,9,9.0,,,
+INDORE,Care Health,7,,,,8.0
+MUMBAI,Aditya Birla Health,6,,,,3.0
+KOLKATA,Care Health,7,9.0,,,
+KANPUR,HDFC Ergo,9,9.0,10.0,10.0,
+JAIPUR,Niva Bupa,6,,,,6.0
+LUDHIANA,Aditya Birla Health,10,,,,8.0
+PUNE,Care Health,7,,,,8.0
+KANPUR,HDFC Ergo,8,,,,9.0
+KANPUR,Bagic,9,,10.0,9.0,10.0
+DELHI,ICICI Lombard,8,,9.0,10.0,9.0
+AHMEDABAD,Star Health,9,,,,10.0
+AHMEDABAD,New India Assurance,9,,,,10.0
+CHENNAI,ICICI Lombard,9,9.0,9.0,10.0,
+DELHI,Aditya Birla Health,7,,,,9.0
+LUDHIANA,Aditya Birla Health,7,,,,8.0
+PUNE,Niva Bupa,9,,,,10.0
+HYDERABAD,Star Health,9,,,,9.0
+MUMBAI,Bagic,9,,8.0,8.0,9.0
+CHENNAI,New India Assurance,8,10.0,7.0,9.0,
+LUDHIANA,Care Health,3,8.0,,,
+JAIPUR,Aditya Birla Health,6,,,,3.0
+DELHI,Niva Bupa,9,,,,10.0
+MUMBAI,Aditya Birla Health,10,,,,9.0
+CHENNAI,Bagic,9,,9.0,8.0,9.0
+KOLKATA,ICICI Lombard,3,,,,5.0
+BANGALORE,HDFC Ergo,10,,,,9.0
+CHENNAI,Niva Bupa,9,,,,10.0
+PUNE,New India Assurance,10,,10.0,10.0,9.0
+DELHI,HDFC Ergo,7,,,,7.0
+PUNE,ICICI Lombard,3,10.0,,,
+KANPUR,Care Health,7,,9.0,8.0,6.0
+LUDHIANA,Niva Bupa,8,,,,7.0
+CHENNAI,HDFC Ergo,8,,,,10.0
+PUNE,Bagic,9,,,,10.0
+LUDHIANA,Care Health,8,,,,10.0
+KOLKATA,Niva Bupa,7,,5.0,7.0,8.0
+CHENNAI,Aditya Birla Health,8,,,,10.0
+HYDERABAD,Bagic,9,9.0,9.0,10.0,
+DELHI,HDFC Ergo,9,6.0,,,
+BANGALORE,Star Health,7,,,,5.0
+INDORE,Care Health,8,,,,6.0
+PUNE,Aditya Birla Health,10,7.0,,,
+INDORE,ICICI Lombard,9,,10.0,10.0,10.0
+KOLKATA,Aditya Birla Health,5,,8.0,7.0,4.0
+PUNE,Star Health,5,,,,6.0
+DELHI,New India Assurance,9,,7.0,8.0,10.0
+JAIPUR,Care Health,4,,,,3.0
+DELHI,Bagic,9,,,,8.0
+BANGALORE,ICICI Lombard,9,,,,10.0
+CHENNAI,Aditya Birla Health,9,9.0,10.0,10.0,
+JAIPUR,HDFC Ergo,10,10.0,10.0,9.0,
+HYDERABAD,Star Health,10,,9.0,9.0,9.0
+PUNE,Niva Bupa,7,4.0,,,
+PUNE,HDFC Ergo,9,,,,10.0
+KANPUR,Aditya Birla Health,7,,,,9.0
+MUMBAI,Niva Bupa,9,,,,10.0
+BANGALORE,Niva Bupa,10,,,,9.0
+MUMBAI,ICICI Lombard,9,,,,10.0
+HYDERABAD,Care Health,6,,,,7.0
+KOLKATA,Bagic,9,,10.0,9.0,10.0
+LUDHIANA,New India Assurance,6,,,,7.0
+KANPUR,New India Assurance,10,,10.0,9.0,8.0
+INDORE,Aditya Birla Health,9,,,,10.0
+BANGALORE,Aditya Birla Health,9,,,,9.0
+LUDHIANA,New India Assurance,9,,10.0,9.0,10.0
+AHMEDABAD,HDFC Ergo,5,,7.0,7.0,4.0
+INDORE,Niva Bupa,10,10.0,10.0,9.0,
+LUDHIANA,Niva Bupa,9,,10.0,10.0,10.0
+CHENNAI,Star Health,8,8.0,,,
+INDORE,Aditya Birla Health,9,10.0,10.0,9.0,
+DELHI,Star Health,10,10.0,,,
+KANPUR,Star Health,8,,,,10.0
+BANGALORE,Star Health,9,,,,9.0
+BANGALORE,Aditya Birla Health,9,8.0,,,
+JAIPUR,Aditya Birla Health,9,9.0,10.0,10.0,
+PUNE,Star Health,9,,10.0,9.0,10.0
+MUMBAI,Star Health,10,7.0,,,
+AHMEDABAD,HDFC Ergo,3,,,,5.0
+MUMBAI,Aditya Birla Health,9,,,,9.0
+PUNE,Aditya Birla Health,9,,,,8.0
+DELHI,New India Assurance,5,,,,7.0
+KANPUR,Bagic,9,10.0,,,
+JAIPUR,Star Health,10,9.0,,,
+BANGALORE,Niva Bupa,9,,10.0,9.0,10.0
+HYDERABAD,New India Assurance,8,,7.0,9.0,9.0
+CHENNAI,Aditya Birla Health,9,,,,8.0
+KANPUR,New India Assurance,9,10.0,,,
+CHENNAI,HDFC Ergo,9,,8.0,9.0,10.0
+PUNE,New India Assurance,6,,,,8.0
+BANGALORE,Care Health,7,,,,8.0
+KOLKATA,HDFC Ergo,8,,,,9.0
+JAIPUR,HDFC Ergo,9,,,,10.0
+INDORE,Care Health,7,,7.0,8.0,9.0
+INDORE,Bagic,9,,,,8.0
+HYDERABAD,Aditya Birla Health,10,,,,9.0
+MUMBAI,Niva Bupa,9,,9.0,10.0,9.0
+KANPUR,Care Health,8,,9.0,9.0,9.0
+KANPUR,New India Assurance,9,,,,10.0
+AHMEDABAD,ICICI Lombard,9,8.0,,,
+AHMEDABAD,Star Health,9,,,,10.0
+AHMEDABAD,Star Health,9,,,,9.0
+DELHI,New India Assurance,8,,,,9.0
+INDORE,Aditya Birla Health,7,,6.0,6.0,8.0
+AHMEDABAD,Niva Bupa,9,,,,10.0
+AHMEDABAD,Care Health,9,,7.0,9.0,9.0
+HYDERABAD,ICICI Lombard,9,,,,10.0
+JAIPUR,Star Health,10,,,,9.0
+JAIPUR,Aditya Birla Health,9,,,,9.0
+JAIPUR,Star Health,9,,,,9.0
+DELHI,Star Health,7,,,,9.0
+INDORE,Bagic,8,,7.0,7.0,7.0
+CHENNAI,Aditya Birla Health,9,,,,9.0
+DELHI,Bagic,9,,,,10.0
+JAIPUR,New India Assurance,10,,,,8.0
+KOLKATA,New India Assurance,8,,9.0,9.0,9.0
+MUMBAI,Niva Bupa,9,,9.0,9.0,7.0
+CHENNAI,Care Health,6,,,,8.0
+JAIPUR,Aditya Birla Health,7,,,,8.0
+LUDHIANA,Aditya Birla Health,10,,9.0,9.0,9.0
+MUMBAI,ICICI Lombard,7,,,,9.0
+LUDHIANA,HDFC Ergo,8,,,,6.0
+PUNE,Aditya Birla Health,10,,10.0,8.0,9.0
+JAIPUR,Bagic,10,,10.0,9.0,9.0
+JAIPUR,Bagic,9,,,,9.0
+KOLKATA,Bagic,9,,,,10.0
+INDORE,ICICI Lombard,8,,,,10.0
+LUDHIANA,New India Assurance,8,8.0,,,
+KANPUR,Aditya Birla Health,6,,,,4.0
+KOLKATA,Niva Bupa,10,10.0,10.0,9.0,
+PUNE,Bagic,10,,,,9.0
+DELHI,Niva Bupa,6,,,,8.0
+INDORE,Niva Bupa,7,,,,6.0
+KOLKATA,Aditya Birla Health,10,9.0,,,
+INDORE,HDFC Ergo,7,,5.0,9.0,8.0
+BANGALORE,Aditya Birla Health,9,9.0,7.0,9.0,
+BANGALORE,HDFC Ergo,8,10.0,,,
+CHENNAI,Care Health,7,,,,8.0
+MUMBAI,Care Health,7,,9.0,5.0,7.0
+LUDHIANA,ICICI Lombard,8,,,,10.0
+JAIPUR,Star Health,9,,,,10.0
+KANPUR,New India Assurance,6,,,,7.0
+KOLKATA,HDFC Ergo,6,,,,5.0
+KOLKATA,Niva Bupa,10,,9.0,8.0,10.0
+PUNE,ICICI Lombard,7,8.0,,,
+BANGALORE,New India Assurance,10,,,,9.0
+BANGALORE,Bagic,10,,,,9.0
+KANPUR,HDFC Ergo,6,,,,3.0
+MUMBAI,Aditya Birla Health,9,,,,8.0
+KANPUR,Bagic,6,,7.0,5.0,7.0
+DELHI,New India Assurance,10,10.0,,,
+BANGALORE,Star Health,10,,,,9.0
+AHMEDABAD,Niva Bupa,9,,,,10.0
+KOLKATA,Care Health,9,,,,8.0
+PUNE,Aditya Birla Health,8,,,,10.0
+AHMEDABAD,Aditya Birla Health,4,,,,3.0
+MUMBAI,Bagic,10,,10.0,8.0,9.0
+PUNE,Aditya Birla Health,8,,,,10.0
+DELHI,Aditya Birla Health,6,,5.0,4.0,5.0
+HYDERABAD,HDFC Ergo,7,,,,8.0
+LUDHIANA,Care Health,10,,,,8.0
+HYDERABAD,Bagic,9,,,,9.0
+CHENNAI,Star Health,9,9.0,,,
+KANPUR,HDFC Ergo,9,,9.0,8.0,8.0
+JAIPUR,Star Health,6,,,,4.0
+MUMBAI,Niva Bupa,9,,,,10.0
+HYDERABAD,ICICI Lombard,9,,,,8.0
+JAIPUR,ICICI Lombard,10,,10.0,9.0,9.0
+CHENNAI,Star Health,10,,,,9.0
+LUDHIANA,ICICI Lombard,9,,7.0,8.0,8.0
+HYDERABAD,Care Health,9,,,,10.0
+INDORE,HDFC Ergo,9,,,,10.0
+LUDHIANA,New India Assurance,6,6.0,,,
+HYDERABAD,New India Assurance,6,,,,7.0
+JAIPUR,New India Assurance,7,,,,7.0
+PUNE,Niva Bupa,10,8.0,8.0,10.0,
+DELHI,Bagic,9,,,,9.0
+JAIPUR,New India Assurance,8,,8.0,9.0,9.0
+CHENNAI,Aditya Birla Health,10,,,,9.0
+JAIPUR,Niva Bupa,4,,,,5.0
+HYDERABAD,ICICI Lombard,7,,,,8.0
+DELHI,Care Health,2,6.0,4.0,6.0,
+LUDHIANA,ICICI Lombard,9,,,,10.0
+BANGALORE,Care Health,9,,10.0,10.0,10.0
+MUMBAI,New India Assurance,10,10.0,10.0,9.0,
+AHMEDABAD,ICICI Lombard,8,10.0,10.0,7.0,
+AHMEDABAD,Niva Bupa,7,,,,8.0
+AHMEDABAD,Care Health,7,,,,7.0
+CHENNAI,Bagic,9,9.0,9.0,8.0,
+LUDHIANA,Niva Bupa,9,,,,10.0
+JAIPUR,New India Assurance,9,,,,8.0
+AHMEDABAD,ICICI Lombard,9,9.0,10.0,10.0,
+JAIPUR,HDFC Ergo,10,,9.0,10.0,9.0
+MUMBAI,Bagic,9,10.0,7.0,10.0,
+LUDHIANA,HDFC Ergo,9,,,,10.0
+DELHI,HDFC Ergo,10,,10.0,9.0,9.0
+DELHI,Niva Bupa,3,,5.0,6.0,5.0
+BANGALORE,Bagic,10,,9.0,10.0,9.0
+INDORE,New India Assurance,9,,,,10.0
+HYDERABAD,Bagic,9,7.0,10.0,10.0,
+DELHI,Aditya Birla Health,8,9.0,,,
+AHMEDABAD,New India Assurance,9,,9.0,10.0,10.0
+INDORE,Niva Bupa,8,,,,7.0
+BANGALORE,Care Health,8,9.0,,,
+PUNE,Care Health,8,,,,7.0
+PUNE,Star Health,9,10.0,,,
+PUNE,New India Assurance,10,,,,8.0
+KANPUR,Star Health,9,,,,10.0
+MUMBAI,HDFC Ergo,9,,,,9.0
+AHMEDABAD,Bagic,9,,,,10.0
+BANGALORE,Bagic,9,,,,8.0
+INDORE,Star Health,10,,,,8.0
+DELHI,Care Health,7,,,,8.0
+KOLKATA,Aditya Birla Health,9,,,,10.0
+BANGALORE,Star Health,8,,,,6.0
+JAIPUR,ICICI Lombard,10,,10.0,8.0,9.0
+LUDHIANA,New India Assurance,9,,,,10.0
+CHENNAI,ICICI Lombard,10,,,,9.0
+JAIPUR,Niva Bupa,10,,,,9.0
+LUDHIANA,Star Health,9,,,,9.0
+INDORE,New India Assurance,9,,,,9.0
+LUDHIANA,HDFC Ergo,9,,,,10.0
+KANPUR,Care Health,1,3.0,3.0,6.0,
+CHENNAI,Care Health,8,,,,7.0
+CHENNAI,Niva Bupa,8,,,,9.0
+PUNE,Bagic,9,,,,9.0
+KANPUR,Care Health,3,3.0,,,
+HYDERABAD,Aditya Birla Health,9,,,,10.0
+JAIPUR,Bagic,9,,,,10.0
+JAIPUR,Niva Bupa,7,,6.0,6.0,8.0
+MUMBAI,ICICI Lombard,10,,,,9.0
+LUDHIANA,Aditya Birla Health,8,7.0,,,
+LUDHIANA,ICICI Lombard,8,,,,10.0
+LUDHIANA,Aditya Birla Health,6,,,,4.0
+PUNE,ICICI Lombard,7,,7.0,5.0,7.0
+PUNE,Aditya Birla Health,6,,7.0,6.0,3.0
+KOLKATA,ICICI Lombard,10,,9.0,10.0,9.0
+AHMEDABAD,ICICI Lombard,9,,10.0,10.0,9.0
+DELHI,Bagic,9,,,,9.0
+PUNE,Bagic,9,,,,10.0
+LUDHIANA,Niva Bupa,10,,,,9.0
+LUDHIANA,Care Health,4,,,,5.0
+LUDHIANA,Niva Bupa,9,,,,10.0
+HYDERABAD,Care Health,9,,10.0,9.0,10.0
+AHMEDABAD,Bagic,10,10.0,,,
+MUMBAI,Care Health,9,,,,10.0
+MUMBAI,Niva Bupa,9,,,,8.0
+INDORE,HDFC Ergo,9,,,,9.0
+HYDERABAD,Care Health,7,,8.0,5.0,8.0
+HYDERABAD,Aditya Birla Health,9,,8.0,8.0,10.0
+LUDHIANA,HDFC Ergo,9,,,,10.0
+BANGALORE,Star Health,9,,,,10.0
+AHMEDABAD,Bagic,10,,,,9.0
+MUMBAI,Bagic,6,,9.0,7.0,8.0
+KOLKATA,Care Health,10,,10.0,8.0,9.0
+INDORE,ICICI Lombard,10,,,,8.0
+BANGALORE,Aditya Birla Health,9,,,,9.0
+BANGALORE,Aditya Birla Health,5,,,,6.0
+HYDERABAD,Bagic,9,,,,10.0
+KANPUR,Bagic,10,,,,9.0
+AHMEDABAD,Niva Bupa,9,,,,10.0
+AHMEDABAD,Aditya Birla Health,9,,,,8.0
+LUDHIANA,Care Health,9,,8.0,10.0,10.0
+PUNE,Care Health,7,,,,9.0
+KOLKATA,Care Health,8,10.0,8.0,10.0,
+MUMBAI,Bagic,9,,,,9.0
+MUMBAI,HDFC Ergo,9,,10.0,9.0,9.0
+MUMBAI,Care Health,9,,10.0,9.0,8.0
+CHENNAI,Bagic,9,10.0,10.0,9.0,
+INDORE,Niva Bupa,10,,,,9.0
+KANPUR,New India Assurance,9,,,,10.0
+AHMEDABAD,Niva Bupa,7,,,,7.0
+HYDERABAD,Niva Bupa,9,,,,10.0
+KANPUR,Star Health,8,8.0,,,
+INDORE,Star Health,9,,,,10.0
+DELHI,HDFC Ergo,9,,,,8.0
+BANGALORE,New India Assurance,10,9.0,,,
+CHENNAI,ICICI Lombard,7,,,,5.0
+PUNE,HDFC Ergo,7,,,,7.0
+MUMBAI,New India Assurance,2,,,,4.0
+BANGALORE,New India Assurance,10,,9.0,10.0,8.0
+KANPUR,HDFC Ergo,7,,,,7.0
+AHMEDABAD,Star Health,9,,,,9.0
+JAIPUR,Star Health,8,,10.0,8.0,7.0
+LUDHIANA,Bagic,10,,,,9.0
+KANPUR,Bagic,9,,,,10.0
+DELHI,New India Assurance,8,,7.0,10.0,9.0
+MUMBAI,HDFC Ergo,9,,,,10.0
+DELHI,Niva Bupa,8,,10.0,10.0,7.0
+KANPUR,Bagic,9,,,,9.0
+PUNE,Star Health,9,,10.0,8.0,10.0
+CHENNAI,Niva Bupa,9,,10.0,9.0,9.0
+JAIPUR,ICICI Lombard,4,6.0,,,
+DELHI,Star Health,9,,,,10.0
+DELHI,Star Health,10,,,,9.0
+PUNE,Niva Bupa,9,9.0,,,
+JAIPUR,Aditya Birla Health,8,,,,9.0
+JAIPUR,ICICI Lombard,9,,,,10.0
+BANGALORE,ICICI Lombard,10,,,,9.0
+LUDHIANA,Niva Bupa,9,,,,10.0
+KANPUR,Star Health,10,10.0,,,
+HYDERABAD,Care Health,6,,8.0,7.0,5.0
+DELHI,Aditya Birla Health,10,,,,9.0
+PUNE,New India Assurance,9,10.0,,,
+INDORE,Aditya Birla Health,9,,,,8.0
+MUMBAI,Care Health,7,,,,7.0
+MUMBAI,Aditya Birla Health,9,,,,10.0
+KOLKATA,HDFC Ergo,8,,9.0,9.0,10.0
+BANGALORE,ICICI Lombard,8,,,,5.0
+CHENNAI,Aditya Birla Health,8,,,,7.0
+CHENNAI,New India Assurance,8,,7.0,9.0,9.0
+INDORE,Niva Bupa,10,,,,10.0
+LUDHIANA,New India Assurance,9,,,,8.0
+INDORE,Niva Bupa,8,,,,9.0
+AHMEDABAD,Star Health,8,,,,7.0
+BANGALORE,New India Assurance,9,,,,9.0
+JAIPUR,Star Health,9,,10.0,10.0,10.0
+PUNE,Care Health,9,,,,9.0
+HYDERABAD,Care Health,10,,10.0,9.0,9.0
+HYDERABAD,New India Assurance,9,,,,9.0
+JAIPUR,Aditya Birla Health,8,,,,7.0
+KOLKATA,Aditya Birla Health,10,,9.0,8.0,9.0
+BANGALORE,Aditya Birla Health,7,,5.0,9.0,5.0
+HYDERABAD,Bagic,9,,,,10.0
+PUNE,New India Assurance,10,,,,9.0
+HYDERABAD,Star Health,6,,,,8.0
+DELHI,Star Health,10,,,,9.0
+KOLKATA,Care Health,6,,,,7.0
+PUNE,New India Assurance,9,,,,10.0
+CHENNAI,Bagic,9,,,,9.0
+DELHI,Niva Bupa,5,,,,2.0
+LUDHIANA,ICICI Lombard,9,8.0,,,
+HYDERABAD,Niva Bupa,6,,,,8.0
+BANGALORE,Niva Bupa,9,10.0,,,
+KANPUR,HDFC Ergo,9,8.0,,,
+AHMEDABAD,Care Health,8,10.0,9.0,7.0,
+HYDERABAD,Star Health,10,10.0,,,
+HYDERABAD,New India Assurance,9,9.0,8.0,8.0,
+CHENNAI,Aditya Birla Health,9,,,,8.0
+CHENNAI,New India Assurance,7,,,,9.0
+INDORE,New India Assurance,9,,,,9.0
+KOLKATA,New India Assurance,4,,,,3.0
+CHENNAI,HDFC Ergo,7,,7.0,6.0,9.0
+INDORE,ICICI Lombard,9,,,,10.0
+CHENNAI,Aditya Birla Health,9,,,,9.0
+DELHI,HDFC Ergo,10,,,,9.0
+INDORE,New India Assurance,9,,,,10.0
+INDORE,Care Health,9,,,,10.0
+CHENNAI,Aditya Birla Health,3,2.0,3.0,4.0,
+PUNE,ICICI Lombard,7,8.0,,,
+MUMBAI,HDFC Ergo,9,,10.0,9.0,10.0
+BANGALORE,Niva Bupa,6,,,,8.0
+BANGALORE,HDFC Ergo,8,,,,9.0
+INDORE,Star Health,9,,,,10.0
+MUMBAI,Bagic,9,,10.0,10.0,10.0
+KOLKATA,HDFC Ergo,8,,10.0,8.0,7.0
+MUMBAI,Aditya Birla Health,9,10.0,,,
+PUNE,Aditya Birla Health,6,,,,5.0
+JAIPUR,HDFC Ergo,10,,,,9.0
+INDORE,Star Health,10,,,,10.0
+PUNE,ICICI Lombard,9,,7.0,8.0,10.0
+LUDHIANA,HDFC Ergo,3,1.0,2.0,5.0,
+PUNE,New India Assurance,8,,,,9.0
+MUMBAI,Care Health,10,,8.0,8.0,9.0
+CHENNAI,ICICI Lombard,10,,,,8.0
+BANGALORE,Bagic,9,,,,9.0
+HYDERABAD,Niva Bupa,9,,9.0,10.0,10.0
+AHMEDABAD,Star Health,9,,10.0,9.0,8.0
+MUMBAI,ICICI Lombard,9,,,,10.0
+INDORE,ICICI Lombard,9,,,,10.0
+HYDERABAD,Niva Bupa,9,,,,10.0
+KANPUR,Aditya Birla Health,7,,,,9.0
+INDORE,Aditya Birla Health,10,,,,10.0
+MUMBAI,Care Health,6,,,,8.0
+KANPUR,Niva Bupa,9,9.0,,,
+PUNE,Star Health,10,,10.0,9.0,9.0
+KOLKATA,New India Assurance,8,,7.0,9.0,9.0
+INDORE,Niva Bupa,3,,,,4.0
+LUDHIANA,Star Health,9,,,,10.0
+AHMEDABAD,HDFC Ergo,9,,,,10.0
+PUNE,Bagic,7,9.0,,,
+KANPUR,Star Health,9,,,,9.0
+KOLKATA,Niva Bupa,10,9.0,,,
+KANPUR,ICICI Lombard,9,,,,10.0
+MUMBAI,Care Health,8,10.0,,,
+JAIPUR,Care Health,10,,,,9.0
+HYDERABAD,Bagic,9,,,,9.0
+KANPUR,Aditya Birla Health,9,10.0,,,
+PUNE,Care Health,6,,,,8.0
+HYDERABAD,New India Assurance,7,,6.0,8.0,9.0
+DELHI,Care Health,7,,,,7.0
+JAIPUR,Aditya Birla Health,9,,9.0,8.0,9.0
+PUNE,HDFC Ergo,6,,,,4.0
+KOLKATA,HDFC Ergo,7,,,,9.0
+HYDERABAD,Star Health,8,,,,7.0
+LUDHIANA,ICICI Lombard,5,4.0,,,
+BANGALORE,HDFC Ergo,6,,6.0,5.0,3.0
+KANPUR,Aditya Birla Health,4,,,,5.0
+AHMEDABAD,Bagic,10,10.0,9.0,10.0,
+HYDERABAD,Niva Bupa,8,,9.0,9.0,10.0
+CHENNAI,HDFC Ergo,4,,,,6.0
+INDORE,ICICI Lombard,9,,10.0,10.0,10.0
+MUMBAI,HDFC Ergo,9,,,,10.0
+BANGALORE,Care Health,7,,9.0,7.0,8.0
+JAIPUR,New India Assurance,8,,,,6.0
+DELHI,Bagic,10,,,,9.0
+AHMEDABAD,Aditya Birla Health,4,,,,2.0
+CHENNAI,Care Health,9,,,,10.0
+KOLKATA,Niva Bupa,5,,7.0,6.0,4.0
+KOLKATA,New India Assurance,9,,,,10.0
+CHENNAI,Aditya Birla Health,10,,,,9.0
+DELHI,HDFC Ergo,10,,10.0,9.0,8.0
+DELHI,ICICI Lombard,6,,,,4.0
+HYDERABAD,Niva Bupa,9,,,,9.0
+DELHI,Aditya Birla Health,8,,,,9.0
+BANGALORE,Bagic,9,,,,10.0
+CHENNAI,Star Health,10,,,,9.0
+PUNE,Aditya Birla Health,8,,,,10.0
+DELHI,HDFC Ergo,8,,,,9.0
+BANGALORE,Niva Bupa,9,,9.0,10.0,10.0
+LUDHIANA,Bagic,7,,7.0,5.0,7.0
+BANGALORE,Aditya Birla Health,9,,,,8.0
+DELHI,Niva Bupa,10,,,,9.0
+AHMEDABAD,Star Health,9,,10.0,9.0,9.0
+HYDERABAD,New India Assurance,6,,7.0,4.0,8.0
+JAIPUR,Bagic,9,,,,10.0
+INDORE,Care Health,5,,7.0,5.0,4.0
+BANGALORE,New India Assurance,8,,9.0,9.0,8.0
+JAIPUR,Aditya Birla Health,9,,,,8.0
+AHMEDABAD,Star Health,5,,,,2.0
+AHMEDABAD,Star Health,9,,8.0,9.0,10.0
+AHMEDABAD,Star Health,9,,,,9.0
+BANGALORE,Bagic,9,10.0,,,
+INDORE,New India Assurance,6,9.0,,,
+AHMEDABAD,Care Health,10,,,,10.0
+LUDHIANA,Aditya Birla Health,9,,,,8.0
+LUDHIANA,HDFC Ergo,9,9.0,,,
+AHMEDABAD,Care Health,9,8.0,10.0,9.0,
+HYDERABAD,Care Health,9,,,,9.0
+INDORE,Bagic,9,,10.0,9.0,8.0
+LUDHIANA,Care Health,10,,,,9.0
+CHENNAI,New India Assurance,10,,,,9.0
+INDORE,ICICI Lombard,9,,,,8.0
+MUMBAI,ICICI Lombard,6,,4.0,6.0,3.0
+MUMBAI,ICICI Lombard,9,,,,10.0
+DELHI,Bagic,9,,,,9.0
+INDORE,Aditya Birla Health,8,6.0,7.0,10.0,
+DELHI,Aditya Birla Health,10,,10.0,8.0,9.0
+JAIPUR,Niva Bupa,10,10.0,,,
+BANGALORE,Aditya Birla Health,8,,,,9.0
+KANPUR,New India Assurance,10,,,,9.0
+AHMEDABAD,ICICI Lombard,8,,,,8.0
+MUMBAI,Niva Bupa,8,,10.0,10.0,8.0
+DELHI,Star Health,9,,,,9.0
+BANGALORE,HDFC Ergo,8,,,,8.0
+DELHI,New India Assurance,8,,,,9.0
+LUDHIANA,Care Health,9,,10.0,10.0,10.0
+KOLKATA,Star Health,9,,10.0,9.0,10.0
+CHENNAI,Star Health,9,9.0,,,
+MUMBAI,Care Health,8,,8.0,10.0,9.0
+HYDERABAD,HDFC Ergo,9,,,,10.0
+PUNE,Niva Bupa,10,,,,10.0
+LUDHIANA,Niva Bupa,7,9.0,,,
+HYDERABAD,Aditya Birla Health,9,,9.0,10.0,10.0
+PUNE,Bagic,10,,,,9.0
+AHMEDABAD,HDFC Ergo,7,,5.0,7.0,6.0
+PUNE,HDFC Ergo,6,6.0,,,
+HYDERABAD,New India Assurance,7,,7.0,8.0,9.0
+DELHI,New India Assurance,4,,4.0,5.0,3.0
+HYDERABAD,New India Assurance,7,,,,9.0
+DELHI,Star Health,7,,,,8.0
+KOLKATA,New India Assurance,10,,,,8.0
+KANPUR,Star Health,10,,,,9.0
+BANGALORE,Bagic,9,,8.0,9.0,10.0
+CHENNAI,Star Health,10,,9.0,8.0,9.0
+AHMEDABAD,Star Health,10,,,,9.0
+MUMBAI,ICICI Lombard,8,10.0,9.0,9.0,
+MUMBAI,HDFC Ergo,6,9.0,,,
+AHMEDABAD,Aditya Birla Health,9,10.0,,,
+INDORE,Bagic,9,,,,8.0
+HYDERABAD,Star Health,9,,,,9.0
+BANGALORE,Aditya Birla Health,6,,7.0,8.0,8.0
+PUNE,Star Health,9,,,,10.0
+BANGALORE,ICICI Lombard,9,9.0,,,
+MUMBAI,Niva Bupa,6,,,,4.0
+LUDHIANA,HDFC Ergo,8,9.0,10.0,10.0,
+PUNE,HDFC Ergo,9,,,,9.0
+AHMEDABAD,Care Health,7,8.0,,,
+MUMBAI,Niva Bupa,9,10.0,10.0,9.0,
+MUMBAI,Niva Bupa,10,,10.0,8.0,9.0
+LUDHIANA,Aditya Birla Health,9,10.0,,,
+CHENNAI,ICICI Lombard,8,,10.0,10.0,10.0
+PUNE,ICICI Lombard,9,,,,10.0
+KANPUR,Bagic,10,,,,9.0
+INDORE,Bagic,9,,,,10.0
+DELHI,Niva Bupa,6,,7.0,8.0,8.0
+INDORE,Bagic,9,,,,10.0
+KOLKATA,Star Health,9,,,,10.0
+BANGALORE,Aditya Birla Health,8,,,,10.0
+PUNE,New India Assurance,7,,7.0,5.0,9.0
+LUDHIANA,HDFC Ergo,9,10.0,,,
+DELHI,ICICI Lombard,9,10.0,9.0,8.0,
+KANPUR,Bagic,6,,4.0,7.0,8.0
+BANGALORE,Niva Bupa,8,7.0,,,
+HYDERABAD,Care Health,10,,10.0,9.0,9.0
+LUDHIANA,Bagic,10,,,,9.0
+INDORE,New India Assurance,6,,,,7.0
+KOLKATA,Care Health,9,9.0,,,
+AHMEDABAD,ICICI Lombard,9,7.0,10.0,8.0,
+JAIPUR,Bagic,9,10.0,,,
+KANPUR,Aditya Birla Health,6,,7.0,6.0,4.0
+KOLKATA,Bagic,9,,,,8.0
+BANGALORE,Care Health,9,,,,10.0
+LUDHIANA,Aditya Birla Health,9,10.0,,,
+PUNE,Bagic,7,8.0,,,
+JAIPUR,HDFC Ergo,10,,,,9.0
+JAIPUR,Aditya Birla Health,4,,,,5.0
+PUNE,Aditya Birla Health,10,,,,8.0
+PUNE,Bagic,9,,,,9.0
+KANPUR,Aditya Birla Health,8,,,,7.0
+BANGALORE,Niva Bupa,6,9.0,7.0,5.0,
+CHENNAI,Aditya Birla Health,10,,,,8.0
+PUNE,Aditya Birla Health,8,,7.0,10.0,9.0
+BANGALORE,HDFC Ergo,10,,,,8.0
+LUDHIANA,Star Health,5,,5.0,6.0,6.0
+KANPUR,Bagic,9,,9.0,9.0,10.0
+HYDERABAD,New India Assurance,9,10.0,,,
+JAIPUR,HDFC Ergo,7,9.0,7.0,8.0,
+LUDHIANA,Aditya Birla Health,9,10.0,,,
+PUNE,Bagic,9,,,,10.0
+LUDHIANA,Aditya Birla Health,6,6.0,7.0,5.0,
+HYDERABAD,Care Health,9,,,,10.0
+PUNE,Niva Bupa,9,,,,9.0
+LUDHIANA,Star Health,6,,4.0,4.0,8.0
+LUDHIANA,Care Health,10,,,,10.0
+HYDERABAD,Star Health,9,,,,9.0
+BANGALORE,Star Health,9,10.0,,,
+CHENNAI,New India Assurance,7,,,,5.0
+HYDERABAD,Bagic,9,,,,10.0
+CHENNAI,Bagic,10,,10.0,9.0,9.0
+KOLKATA,Bagic,10,,,,9.0
+JAIPUR,Aditya Birla Health,8,9.0,,,
+JAIPUR,Star Health,9,,,,9.0
+BANGALORE,Care Health,6,,,,7.0
+DELHI,New India Assurance,8,,7.0,7.0,9.0
+CHENNAI,HDFC Ergo,10,,10.0,8.0,9.0
+HYDERABAD,ICICI Lombard,8,,,,9.0
+DELHI,Aditya Birla Health,9,,,,10.0
+KOLKATA,Star Health,10,,,,10.0
+AHMEDABAD,Niva Bupa,9,,,,9.0
+DELHI,HDFC Ergo,9,,,,10.0
+JAIPUR,Aditya Birla Health,10,9.0,9.0,10.0,
+INDORE,Aditya Birla Health,6,,,,4.0
+BANGALORE,New India Assurance,9,,,,8.0
+MUMBAI,Aditya Birla Health,7,,,,9.0
+PUNE,Niva Bupa,7,,,,7.0
+JAIPUR,ICICI Lombard,8,,7.0,7.0,9.0
+MUMBAI,Aditya Birla Health,4,,,,6.0
+PUNE,Care Health,1,,,,3.0
+DELHI,Bagic,10,10.0,,,
+JAIPUR,HDFC Ergo,4,,,,5.0
+INDORE,New India Assurance,9,,,,10.0
+CHENNAI,Bagic,10,8.0,9.0,10.0,
+JAIPUR,ICICI Lombard,10,,9.0,9.0,9.0
+DELHI,Care Health,8,,8.0,9.0,7.0
+KOLKATA,ICICI Lombard,9,,,,10.0
+AHMEDABAD,Bagic,10,10.0,,,
+MUMBAI,Bagic,8,9.0,,,
+MUMBAI,Star Health,9,9.0,,,
+JAIPUR,Niva Bupa,9,,,,10.0
+AHMEDABAD,New India Assurance,9,,8.0,8.0,10.0
+PUNE,Bagic,8,,8.0,9.0,7.0
+KANPUR,Care Health,9,,,,10.0
+AHMEDABAD,HDFC Ergo,9,,10.0,9.0,10.0
+KOLKATA,New India Assurance,9,,,,9.0
+DELHI,Bagic,8,9.0,,,
+HYDERABAD,Niva Bupa,9,,,,10.0
+AHMEDABAD,Star Health,7,,,,5.0
+MUMBAI,New India Assurance,9,,,,10.0
+HYDERABAD,Bagic,9,,,,9.0
+CHENNAI,ICICI Lombard,8,,10.0,9.0,7.0
+HYDERABAD,Niva Bupa,9,,,,9.0
+KANPUR,Niva Bupa,9,,,,10.0
+BANGALORE,Niva Bupa,3,,,,4.0
+HYDERABAD,Care Health,10,,,,8.0
+DELHI,Niva Bupa,3,3.0,,,
+JAIPUR,HDFC Ergo,9,,10.0,10.0,10.0
+KOLKATA,Niva Bupa,10,,10.0,8.0,9.0
+LUDHIANA,Bagic,7,,8.0,9.0,9.0
+AHMEDABAD,New India Assurance,9,,,,10.0
+LUDHIANA,Star Health,10,10.0,,,
+JAIPUR,Star Health,10,,,,8.0
+LUDHIANA,HDFC Ergo,9,,,,9.0
+HYDERABAD,ICICI Lombard,6,,7.0,4.0,5.0
+AHMEDABAD,Star Health,8,7.0,,,
+AHMEDABAD,Bagic,9,8.0,,,
+MUMBAI,ICICI Lombard,9,7.0,7.0,10.0,
+JAIPUR,ICICI Lombard,9,,,,10.0
+PUNE,Care Health,7,,5.0,7.0,8.0
+AHMEDABAD,Aditya Birla Health,10,,,,9.0
+INDORE,Star Health,6,,,,8.0
+PUNE,Niva Bupa,5,,5.0,3.0,3.0
+AHMEDABAD,Care Health,9,,9.0,10.0,9.0
+BANGALORE,Niva Bupa,3,,5.0,5.0,4.0
+KANPUR,Aditya Birla Health,9,,10.0,8.0,9.0
+KANPUR,New India Assurance,10,7.0,,,
+KANPUR,ICICI Lombard,9,,,,9.0
+KOLKATA,Star Health,10,,,,9.0
+INDORE,ICICI Lombard,9,,10.0,10.0,10.0
+KANPUR,Aditya Birla Health,7,7.0,,,
+DELHI,HDFC Ergo,7,,,,8.0
+CHENNAI,Bagic,9,,7.0,10.0,9.0
+JAIPUR,Star Health,8,,,,7.0
+LUDHIANA,Care Health,10,,,,9.0
+MUMBAI,Bagic,9,,10.0,8.0,10.0
+HYDERABAD,HDFC Ergo,9,9.0,,,
+MUMBAI,ICICI Lombard,9,,,,8.0
+JAIPUR,Star Health,10,,9.0,9.0,9.0
+BANGALORE,Aditya Birla Health,9,,8.0,9.0,10.0
+LUDHIANA,Niva Bupa,10,,,,10.0
+KOLKATA,Care Health,3,8.0,5.0,6.0,
+MUMBAI,ICICI Lombard,5,,5.0,4.0,5.0
+AHMEDABAD,Aditya Birla Health,10,,,,9.0
+BANGALORE,HDFC Ergo,9,5.0,,,
+CHENNAI,Niva Bupa,9,9.0,,,
+CHENNAI,New India Assurance,9,,,,10.0
+LUDHIANA,HDFC Ergo,2,,,,4.0
+BANGALORE,ICICI Lombard,8,,,,9.0
+HYDERABAD,Niva Bupa,9,,,,10.0
+MUMBAI,Aditya Birla Health,10,,9.0,10.0,9.0
+HYDERABAD,Bagic,7,,,,8.0
+DELHI,Star Health,10,,,,9.0
+LUDHIANA,HDFC Ergo,9,,9.0,10.0,10.0
+KOLKATA,Care Health,3,7.0,,,
+KOLKATA,Bagic,8,10.0,,,
+BANGALORE,Care Health,7,6.0,,,
+BANGALORE,Niva Bupa,9,,,,8.0
+AHMEDABAD,Bagic,8,,,,9.0
+PUNE,Star Health,10,,9.0,9.0,9.0
+PUNE,Niva Bupa,10,8.0,10.0,8.0,
+JAIPUR,Care Health,10,,9.0,8.0,9.0
+LUDHIANA,Care Health,4,,,,5.0
+CHENNAI,Aditya Birla Health,9,9.0,,,
+CHENNAI,New India Assurance,10,10.0,9.0,8.0,
+MUMBAI,Bagic,10,,10.0,10.0,9.0
+MUMBAI,Care Health,9,,,,9.0
+DELHI,Care Health,10,,10.0,9.0,10.0
+HYDERABAD,Care Health,10,,9.0,8.0,9.0
+CHENNAI,Care Health,9,,8.0,10.0,10.0
+KOLKATA,Aditya Birla Health,8,7.0,,,
+JAIPUR,Niva Bupa,9,10.0,,,
+DELHI,Care Health,9,,,,9.0
+DELHI,Niva Bupa,6,9.0,,,
+INDORE,HDFC Ergo,8,,,,7.0
+BANGALORE,Bagic,9,,,,9.0
+BANGALORE,ICICI Lombard,7,10.0,,,
+BANGALORE,Care Health,8,,6.0,10.0,7.0
+BANGALORE,Care Health,4,7.0,,,
+MUMBAI,HDFC Ergo,8,,7.0,10.0,7.0
+LUDHIANA,Star Health,8,,,,9.0
+DELHI,Star Health,9,10.0,,,
+INDORE,Aditya Birla Health,10,,9.0,10.0,9.0
+KOLKATA,Niva Bupa,6,,7.0,4.0,5.0
+KANPUR,Bagic,7,8.0,,,
+CHENNAI,HDFC Ergo,6,,,,8.0
+BANGALORE,New India Assurance,7,,,,8.0
+KOLKATA,HDFC Ergo,9,,,,10.0
+JAIPUR,ICICI Lombard,8,,,,9.0
+JAIPUR,Care Health,9,,9.0,10.0,10.0
+HYDERABAD,New India Assurance,6,,,,7.0
+CHENNAI,Niva Bupa,8,,10.0,9.0,10.0
+AHMEDABAD,Niva Bupa,9,,,,10.0
+JAIPUR,New India Assurance,8,,,,9.0
+INDORE,Aditya Birla Health,9,,8.0,9.0,10.0
+AHMEDABAD,ICICI Lombard,9,,8.0,10.0,9.0
+AHMEDABAD,Star Health,9,,,,9.0
+AHMEDABAD,ICICI Lombard,7,,,,9.0
+MUMBAI,New India Assurance,10,,,,9.0
+LUDHIANA,HDFC Ergo,8,,,,9.0
+KOLKATA,HDFC Ergo,10,,,,9.0
+JAIPUR,Bagic,10,10.0,,,
+INDORE,HDFC Ergo,7,6.0,,,
+LUDHIANA,HDFC Ergo,9,,,,8.0
+MUMBAI,Star Health,10,,9.0,9.0,9.0
+LUDHIANA,Niva Bupa,4,,,,6.0
+KOLKATA,Aditya Birla Health,9,,10.0,10.0,8.0
+JAIPUR,New India Assurance,9,,,,8.0
+KANPUR,Care Health,8,,,,9.0
+PUNE,Aditya Birla Health,9,,,,9.0
+LUDHIANA,ICICI Lombard,10,,,,9.0
+MUMBAI,New India Assurance,3,,3.0,4.0,4.0
+HYDERABAD,Aditya Birla Health,9,9.0,10.0,9.0,
+HYDERABAD,HDFC Ergo,6,,7.0,6.0,3.0
+INDORE,Niva Bupa,9,,,,9.0
+JAIPUR,New India Assurance,7,,,,9.0
+HYDERABAD,Bagic,9,,10.0,9.0,10.0
+DELHI,HDFC Ergo,7,,9.0,10.0,7.0
+KANPUR,Aditya Birla Health,10,,,,9.0
+JAIPUR,Bagic,9,10.0,,,
+DELHI,Star Health,10,,9.0,9.0,9.0
+KANPUR,New India Assurance,9,,,,10.0
+AHMEDABAD,Aditya Birla Health,9,10.0,9.0,8.0,
+LUDHIANA,Star Health,8,,,,6.0
+MUMBAI,Niva Bupa,10,,9.0,9.0,9.0
+PUNE,ICICI Lombard,10,,,,9.0
+AHMEDABAD,Bagic,9,10.0,10.0,10.0,
+PUNE,ICICI Lombard,9,,9.0,10.0,9.0
+JAIPUR,HDFC Ergo,10,9.0,,,
+JAIPUR,New India Assurance,9,,,,10.0
+BANGALORE,HDFC Ergo,8,,,,6.0
+KANPUR,HDFC Ergo,5,,,,4.0
+PUNE,HDFC Ergo,7,,,,6.0
+LUDHIANA,ICICI Lombard,9,,,,10.0
+JAIPUR,HDFC Ergo,8,,,,9.0
+HYDERABAD,Star Health,7,,6.0,8.0,9.0
+JAIPUR,Niva Bupa,8,,,,9.0
+KOLKATA,Bagic,9,,9.0,9.0,10.0
+INDORE,Star Health,10,,,,9.0
+PUNE,ICICI Lombard,8,8.0,,,
+KOLKATA,Star Health,9,10.0,10.0,9.0,
+PUNE,Star Health,10,,,,8.0
+JAIPUR,ICICI Lombard,9,,,,10.0
+BANGALORE,Care Health,7,,,,9.0
+HYDERABAD,Niva Bupa,10,,,,9.0
+JAIPUR,HDFC Ergo,4,,5.0,4.0,5.0
+DELHI,ICICI Lombard,9,,10.0,10.0,9.0
+DELHI,Niva Bupa,9,,,,9.0
+CHENNAI,Bagic,10,,,,9.0
+LUDHIANA,ICICI Lombard,5,,,,6.0
+PUNE,New India Assurance,8,,7.0,9.0,6.0
+PUNE,Niva Bupa,9,,9.0,10.0,9.0
+KANPUR,New India Assurance,10,,,,9.0
+KOLKATA,New India Assurance,3,,,,5.0
+KANPUR,Niva Bupa,9,,,,9.0
+KOLKATA,Niva Bupa,9,,,,9.0
+KOLKATA,Niva Bupa,10,,9.0,10.0,9.0
+BANGALORE,Niva Bupa,10,,,,9.0
+PUNE,Aditya Birla Health,9,,,,8.0
+KANPUR,HDFC Ergo,9,,,,9.0
+BANGALORE,Bagic,9,9.0,,,
+AHMEDABAD,ICICI Lombard,9,,,,10.0
+KOLKATA,Care Health,9,,10.0,9.0,10.0
+CHENNAI,ICICI Lombard,8,,,,9.0
+LUDHIANA,Star Health,8,,,,9.0
+DELHI,Aditya Birla Health,9,,,,10.0
+CHENNAI,Care Health,10,10.0,,,
+PUNE,ICICI Lombard,7,9.0,5.0,6.0,
+MUMBAI,Bagic,10,,,,9.0
+AHMEDABAD,New India Assurance,6,,,,8.0
+DELHI,Care Health,5,,8.0,3.0,3.0
+BANGALORE,New India Assurance,10,,9.0,10.0,8.0
+PUNE,Aditya Birla Health,10,,,,8.0
+BANGALORE,ICICI Lombard,5,,,,2.0
+KANPUR,New India Assurance,8,9.0,9.0,8.0,
+LUDHIANA,Star Health,10,,,,9.0
+AHMEDABAD,Care Health,7,,,,8.0
+CHENNAI,ICICI Lombard,9,,10.0,8.0,10.0
+DELHI,Aditya Birla Health,9,,,,10.0
+PUNE,Bagic,9,,,,10.0
+LUDHIANA,Bagic,10,,,,9.0
+DELHI,Bagic,10,,10.0,9.0,9.0
+HYDERABAD,Star Health,8,,8.0,9.0,10.0
+AHMEDABAD,HDFC Ergo,9,,,,9.0
+AHMEDABAD,Aditya Birla Health,8,,,,7.0
+HYDERABAD,Niva Bupa,5,,,,6.0
+BANGALORE,Care Health,9,,10.0,10.0,10.0
+BANGALORE,New India Assurance,9,,9.0,8.0,10.0
+LUDHIANA,ICICI Lombard,9,,,,9.0
+LUDHIANA,Bagic,9,,10.0,8.0,9.0
+HYDERABAD,Niva Bupa,3,,,,5.0
+KOLKATA,Aditya Birla Health,10,,9.0,10.0,8.0
+JAIPUR,Bagic,9,,,,10.0
+KANPUR,HDFC Ergo,9,,,,9.0
+KOLKATA,Aditya Birla Health,9,9.0,,,
+MUMBAI,Care Health,9,,,,8.0
+BANGALORE,New India Assurance,8,,,,7.0
+JAIPUR,Aditya Birla Health,10,,,,9.0
+KANPUR,Care Health,3,,,,2.0
+KOLKATA,Star Health,9,,10.0,10.0,10.0
+PUNE,Star Health,10,10.0,,,
+DELHI,Bagic,8,,,,7.0
+JAIPUR,Niva Bupa,10,,10.0,10.0,8.0
+CHENNAI,ICICI Lombard,9,,,,10.0
+AHMEDABAD,New India Assurance,9,9.0,,,
+DELHI,Care Health,10,7.0,,,
+BANGALORE,Star Health,9,9.0,8.0,10.0,
+KOLKATA,New India Assurance,10,9.0,,,
+AHMEDABAD,ICICI Lombard,9,10.0,,,
+INDORE,Aditya Birla Health,7,,,,8.0
+PUNE,New India Assurance,9,,10.0,10.0,10.0
+MUMBAI,Bagic,9,,,,10.0
+INDORE,Aditya Birla Health,9,,,,10.0
+DELHI,Care Health,9,10.0,9.0,10.0,
+JAIPUR,Niva Bupa,10,,,,8.0
+KANPUR,Niva Bupa,9,,,,10.0
+MUMBAI,Bagic,9,9.0,,,
+INDORE,Star Health,10,,,,9.0
+JAIPUR,Care Health,10,,,,9.0
+PUNE,ICICI Lombard,5,,5.0,7.0,6.0
+KANPUR,Care Health,2,,3.0,4.0,4.0
+KANPUR,Niva Bupa,8,8.0,,,
+PUNE,HDFC Ergo,9,,9.0,10.0,10.0
+KOLKATA,HDFC Ergo,10,,,,10.0
+BANGALORE,New India Assurance,3,,2.0,5.0,4.0
+KOLKATA,ICICI Lombard,8,,,,7.0
+PUNE,New India Assurance,9,,,,9.0
+PUNE,ICICI Lombard,10,,,,9.0
+MUMBAI,HDFC Ergo,9,,10.0,9.0,10.0
+DELHI,Niva Bupa,6,,,,4.0
+BANGALORE,Aditya Birla Health,6,,6.0,4.0,5.0
+HYDERABAD,New India Assurance,10,,10.0,9.0,8.0
+CHENNAI,Care Health,7,,,,8.0
+MUMBAI,Bagic,10,10.0,,,
+INDORE,Aditya Birla Health,9,,,,9.0
+MUMBAI,ICICI Lombard,9,,9.0,10.0,10.0
+AHMEDABAD,Care Health,8,,,,9.0
+INDORE,ICICI Lombard,9,9.0,9.0,10.0,
+KOLKATA,ICICI Lombard,10,,,,9.0
+KOLKATA,ICICI Lombard,6,,,,5.0
+AHMEDABAD,HDFC Ergo,9,9.0,,,
+KOLKATA,ICICI Lombard,10,,,,9.0
+JAIPUR,New India Assurance,9,,,,9.0
+MUMBAI,Star Health,10,,9.0,9.0,9.0
+HYDERABAD,Care Health,10,10.0,,,
+CHENNAI,Niva Bupa,9,,,,10.0
+HYDERABAD,Care Health,9,,7.0,9.0,10.0
+PUNE,Bagic,10,,,,9.0
+CHENNAI,Bagic,9,,,,9.0
+CHENNAI,Care Health,6,,6.0,5.0,3.0
+KANPUR,Care Health,10,,,,9.0
+BANGALORE,Care Health,7,,7.0,5.0,7.0
+MUMBAI,ICICI Lombard,9,10.0,10.0,9.0,
+BANGALORE,Star Health,8,,,,9.0
+AHMEDABAD,Care Health,7,,,,8.0
+DELHI,Bagic,9,10.0,10.0,8.0,
+KANPUR,Care Health,6,,7.0,7.0,7.0
+PUNE,Niva Bupa,6,,5.0,6.0,7.0
+KANPUR,Aditya Birla Health,8,,,,10.0
+JAIPUR,New India Assurance,7,,,,9.0
+BANGALORE,ICICI Lombard,6,,,,4.0
+PUNE,Bagic,10,,10.0,9.0,9.0
+PUNE,Care Health,10,,,,8.0
+KOLKATA,Care Health,9,,,,10.0
+MUMBAI,Care Health,4,,,,2.0
+KOLKATA,Aditya Birla Health,7,,6.0,9.0,7.0
+JAIPUR,HDFC Ergo,10,,,,9.0
+KOLKATA,Star Health,5,,6.0,3.0,4.0
+INDORE,ICICI Lombard,8,,9.0,9.0,9.0
+PUNE,Care Health,6,,8.0,4.0,7.0
+KANPUR,Star Health,8,,,,10.0
+AHMEDABAD,Niva Bupa,9,,,,9.0
+HYDERABAD,HDFC Ergo,9,,,,10.0
+DELHI,HDFC Ergo,9,,,,10.0
+DELHI,New India Assurance,7,,,,9.0
+KANPUR,Care Health,9,,,,10.0
+CHENNAI,ICICI Lombard,5,,4.0,7.0,6.0
+INDORE,HDFC Ergo,9,,10.0,9.0,9.0
+MUMBAI,Bagic,10,,,,9.0
+JAIPUR,Niva Bupa,9,,9.0,10.0,9.0
+BANGALORE,ICICI Lombard,9,,7.0,9.0,10.0
+HYDERABAD,HDFC Ergo,8,,,,9.0
+KOLKATA,Bagic,7,,,,8.0
+HYDERABAD,ICICI Lombard,8,,,,10.0
+KOLKATA,ICICI Lombard,7,9.0,,,
+JAIPUR,Star Health,5,,6.0,4.0,6.0
+JAIPUR,Bagic,10,,9.0,8.0,9.0
+AHMEDABAD,ICICI Lombard,9,,,,10.0
+CHENNAI,Care Health,10,,,,10.0
+PUNE,HDFC Ergo,10,,9.0,9.0,10.0
+DELHI,ICICI Lombard,9,9.0,,,
+MUMBAI,New India Assurance,9,,10.0,9.0,10.0
+MUMBAI,Bagic,10,,,,9.0
+DELHI,Niva Bupa,6,8.0,,,
+JAIPUR,Aditya Birla Health,6,6.0,,,
+HYDERABAD,Niva Bupa,7,,,,7.0
+DELHI,Care Health,9,,,,9.0
+BANGALORE,Niva Bupa,9,,10.0,10.0,10.0
+INDORE,Care Health,7,,8.0,8.0,7.0
+KANPUR,HDFC Ergo,10,,,,9.0
+AHMEDABAD,Care Health,10,,,,9.0
+MUMBAI,Care Health,4,,,,4.0
+KOLKATA,Star Health,7,,8.0,9.0,5.0
+MUMBAI,Star Health,9,,10.0,8.0,10.0
+KANPUR,Star Health,9,,9.0,10.0,9.0
+DELHI,ICICI Lombard,7,,,,9.0
+INDORE,Aditya Birla Health,8,,9.0,8.0,9.0
+KANPUR,Care Health,4,,,,3.0
+HYDERABAD,New India Assurance,8,,,,9.0
+KANPUR,HDFC Ergo,9,,,,9.0
+HYDERABAD,HDFC Ergo,9,10.0,,,
+MUMBAI,Bagic,9,,,,9.0
+LUDHIANA,Aditya Birla Health,5,,,,6.0
+INDORE,Care Health,9,7.0,,,
+AHMEDABAD,Aditya Birla Health,6,,,,4.0
+INDORE,Bagic,8,,,,10.0
+KANPUR,Aditya Birla Health,9,,,,8.0
+PUNE,Bagic,10,,,,9.0
+PUNE,Star Health,10,,10.0,8.0,9.0
+LUDHIANA,Star Health,10,,9.0,9.0,8.0
+CHENNAI,Aditya Birla Health,9,,,,8.0
+INDORE,Star Health,10,,,,10.0
+KOLKATA,Bagic,7,,,,6.0
+PUNE,ICICI Lombard,9,,,,10.0
+LUDHIANA,HDFC Ergo,8,,,,10.0
+INDORE,ICICI Lombard,9,,,,10.0
+CHENNAI,Aditya Birla Health,9,,,,8.0
+AHMEDABAD,Bagic,9,9.0,,,
+JAIPUR,Care Health,9,,,,9.0
+INDORE,ICICI Lombard,9,9.0,,,
+KANPUR,New India Assurance,6,,,,8.0
+JAIPUR,ICICI Lombard,9,9.0,,,
+CHENNAI,Niva Bupa,9,,8.0,10.0,9.0
+HYDERABAD,Niva Bupa,9,,10.0,10.0,10.0
+MUMBAI,Star Health,9,,,,10.0
+LUDHIANA,Niva Bupa,10,,,,8.0
+KOLKATA,New India Assurance,6,,,,5.0
+JAIPUR,New India Assurance,2,,,,4.0
+PUNE,Aditya Birla Health,8,,,,8.0
+AHMEDABAD,Bagic,10,,,,9.0
+MUMBAI,Aditya Birla Health,9,9.0,,,
+DELHI,ICICI Lombard,8,,,,9.0
+LUDHIANA,New India Assurance,9,,,,8.0
+BANGALORE,Star Health,10,,,,9.0
+LUDHIANA,New India Assurance,9,9.0,9.0,10.0,
+HYDERABAD,Care Health,10,,,,9.0
+HYDERABAD,Bagic,9,,,,9.0
+BANGALORE,New India Assurance,9,,9.0,8.0,10.0
+DELHI,ICICI Lombard,9,9.0,,,
+DELHI,Star Health,10,,,,9.0
+KOLKATA,Niva Bupa,9,,,,10.0
+CHENNAI,Care Health,8,,,,6.0
+BANGALORE,HDFC Ergo,7,,7.0,8.0,8.0
+JAIPUR,Star Health,10,,,,8.0
+AHMEDABAD,Bagic,9,,9.0,10.0,10.0
+KOLKATA,Aditya Birla Health,9,,,,8.0
+AHMEDABAD,Bagic,7,,,,8.0
+AHMEDABAD,Aditya Birla Health,9,,7.0,8.0,8.0
+MUMBAI,HDFC Ergo,9,,,,10.0
+MUMBAI,ICICI Lombard,10,,,,9.0
+AHMEDABAD,Care Health,7,,7.0,8.0,9.0
+HYDERABAD,Care Health,6,,,,8.0
+JAIPUR,Aditya Birla Health,9,,,,10.0
+LUDHIANA,Care Health,9,9.0,,,
+JAIPUR,Bagic,9,,,,10.0
+INDORE,Aditya Birla Health,10,,,,9.0
+INDORE,New India Assurance,8,,,,7.0
+PUNE,ICICI Lombard,6,7.0,,,
+MUMBAI,HDFC Ergo,7,,,,8.0
+LUDHIANA,Star Health,9,9.0,,,
+KANPUR,Star Health,10,,,,9.0
+PUNE,Niva Bupa,10,,10.0,9.0,9.0
+MUMBAI,Niva Bupa,6,,7.0,4.0,4.0
+KOLKATA,Star Health,10,10.0,,,
+MUMBAI,New India Assurance,4,,,,2.0
+KANPUR,Care Health,3,,,,5.0
+MUMBAI,New India Assurance,9,,,,10.0
+JAIPUR,Bagic,10,9.0,,,
+LUDHIANA,Niva Bupa,3,,3.0,4.0,5.0
+INDORE,Niva Bupa,6,,,,6.0
+KOLKATA,Niva Bupa,8,,,,9.0
+KANPUR,HDFC Ergo,7,,,,7.0
+JAIPUR,New India Assurance,8,,,,10.0
+KOLKATA,Star Health,10,,,,9.0
+CHENNAI,New India Assurance,7,,,,9.0
+CHENNAI,Aditya Birla Health,9,,,,10.0
+HYDERABAD,Niva Bupa,9,,10.0,10.0,10.0
+BANGALORE,Niva Bupa,10,7.0,,,
+KANPUR,Care Health,9,9.0,,,
+PUNE,Star Health,9,,,,10.0
+KANPUR,Bagic,5,,6.0,6.0,2.0
+KANPUR,Care Health,7,9.0,,,
+PUNE,Star Health,10,,,,9.0
+LUDHIANA,Aditya Birla Health,9,,,,9.0
+INDORE,Niva Bupa,9,,,,8.0
+AHMEDABAD,Star Health,9,,10.0,10.0,10.0
+BANGALORE,ICICI Lombard,9,,,,10.0
+JAIPUR,Aditya Birla Health,8,,10.0,8.0,6.0
+PUNE,HDFC Ergo,10,,,,9.0
+HYDERABAD,New India Assurance,9,,,,10.0
+CHENNAI,HDFC Ergo,7,9.0,,,
+CHENNAI,Bagic,6,,,,7.0
+JAIPUR,Star Health,9,10.0,,,
+PUNE,Star Health,9,,7.0,9.0,10.0
+KANPUR,HDFC Ergo,7,9.0,,,
+AHMEDABAD,Bagic,9,,,,9.0
+INDORE,New India Assurance,2,,,,4.0
+LUDHIANA,Bagic,9,,,,9.0
+PUNE,Bagic,8,9.0,,,
+CHENNAI,Bagic,7,,8.0,5.0,9.0
+LUDHIANA,HDFC Ergo,8,,,,9.0
+AHMEDABAD,Aditya Birla Health,5,,,,6.0
+INDORE,New India Assurance,9,,,,10.0
+HYDERABAD,HDFC Ergo,9,,,,9.0
+KANPUR,Aditya Birla Health,10,,,,9.0
+KOLKATA,HDFC Ergo,8,10.0,9.0,10.0,
+DELHI,Niva Bupa,9,,9.0,10.0,9.0
+LUDHIANA,Niva Bupa,7,,8.0,9.0,8.0
+MUMBAI,Care Health,10,,,,8.0
+INDORE,Aditya Birla Health,9,,,,9.0
+KOLKATA,Star Health,9,,,,10.0
+PUNE,Bagic,10,,,,9.0
+DELHI,ICICI Lombard,9,,,,9.0
+AHMEDABAD,HDFC Ergo,9,,,,10.0
+KOLKATA,Bagic,9,,,,10.0
+INDORE,HDFC Ergo,10,,10.0,10.0,9.0
+LUDHIANA,Star Health,10,10.0,10.0,9.0,
+INDORE,Star Health,10,,,,9.0
+KOLKATA,HDFC Ergo,9,,10.0,10.0,10.0
+AHMEDABAD,New India Assurance,6,,7.0,5.0,7.0
+BANGALORE,Care Health,8,,9.0,8.0,8.0
+AHMEDABAD,New India Assurance,9,9.0,,,
+BANGALORE,Star Health,9,,10.0,10.0,10.0
+PUNE,Care Health,7,,,,7.0
+JAIPUR,Care Health,8,9.0,9.0,7.0,
+JAIPUR,HDFC Ergo,9,,,,9.0
+JAIPUR,ICICI Lombard,7,,,,8.0
+AHMEDABAD,ICICI Lombard,8,8.0,,,
+KOLKATA,Niva Bupa,7,,,,5.0
+KANPUR,Star Health,9,,10.0,9.0,10.0
+DELHI,Niva Bupa,9,,,,10.0
+BANGALORE,Niva Bupa,9,,,,10.0
+LUDHIANA,New India Assurance,6,,5.0,7.0,7.0
+AHMEDABAD,ICICI Lombard,7,,8.0,8.0,5.0
+MUMBAI,ICICI Lombard,5,,,,6.0
+LUDHIANA,Star Health,10,,,,9.0
+INDORE,Care Health,9,,,,9.0
+CHENNAI,Bagic,4,,,,5.0
+MUMBAI,HDFC Ergo,9,,,,10.0
+PUNE,HDFC Ergo,9,,,,10.0
+KANPUR,Star Health,10,,,,9.0
+HYDERABAD,HDFC Ergo,3,,,,3.0
+PUNE,Care Health,8,,,,7.0
+KOLKATA,HDFC Ergo,9,10.0,9.0,9.0,
+BANGALORE,Star Health,9,,9.0,10.0,9.0
+DELHI,HDFC Ergo,10,10.0,10.0,9.0,
+PUNE,Aditya Birla Health,10,,,,9.0
+HYDERABAD,Bagic,9,,,,10.0
+BANGALORE,Bagic,9,,10.0,9.0,10.0
+HYDERABAD,Care Health,9,,10.0,8.0,10.0
+AHMEDABAD,New India Assurance,9,,,,10.0
+PUNE,Niva Bupa,6,,,,8.0
+AHMEDABAD,Niva Bupa,10,,10.0,9.0,9.0
+AHMEDABAD,Bagic,9,,10.0,10.0,10.0
+LUDHIANA,Bagic,9,,9.0,10.0,10.0
+KANPUR,HDFC Ergo,9,,,,10.0
+MUMBAI,Aditya Birla Health,9,,,,10.0
+KANPUR,Star Health,6,,6.0,4.0,7.0
+HYDERABAD,Star Health,10,9.0,9.0,9.0,
+INDORE,HDFC Ergo,6,,5.0,5.0,8.0
+INDORE,Care Health,9,,9.0,8.0,9.0
+AHMEDABAD,HDFC Ergo,6,3.0,,,
+PUNE,Bagic,6,,,,5.0
+DELHI,Aditya Birla Health,8,,,,8.0
+HYDERABAD,ICICI Lombard,5,,6.0,7.0,4.0
+DELHI,Aditya Birla Health,10,,10.0,8.0,9.0
+AHMEDABAD,ICICI Lombard,5,,7.0,3.0,3.0
+HYDERABAD,Care Health,8,,,,10.0
+AHMEDABAD,Niva Bupa,10,,9.0,8.0,8.0
+HYDERABAD,New India Assurance,9,,,,9.0
+JAIPUR,HDFC Ergo,9,,,,10.0
+BANGALORE,Aditya Birla Health,9,,9.0,8.0,8.0
+HYDERABAD,Niva Bupa,9,,9.0,10.0,9.0
+BANGALORE,Aditya Birla Health,7,8.0,,,
+LUDHIANA,Aditya Birla Health,10,,,,10.0
+AHMEDABAD,ICICI Lombard,9,9.0,,,
+DELHI,Star Health,8,,,,10.0
+KANPUR,Care Health,2,4.0,3.0,4.0,
+MUMBAI,ICICI Lombard,10,10.0,9.0,8.0,
+JAIPUR,Star Health,9,,,,9.0
+PUNE,New India Assurance,9,,,,8.0
+AHMEDABAD,Bagic,8,,,,9.0
+AHMEDABAD,Star Health,9,9.0,,,
+HYDERABAD,Care Health,9,,,,10.0
+INDORE,Bagic,10,,,,9.0
+DELHI,Bagic,6,,,,5.0
+MUMBAI,Niva Bupa,7,,6.0,9.0,9.0
+MUMBAI,ICICI Lombard,10,,10.0,9.0,9.0
+KANPUR,HDFC Ergo,7,,,,9.0
+KOLKATA,Star Health,5,7.0,7.0,6.0,
+BANGALORE,Bagic,6,2.0,,,
+PUNE,New India Assurance,8,,,,9.0
+CHENNAI,Aditya Birla Health,6,,,,5.0
+DELHI,New India Assurance,9,,,,9.0
+AHMEDABAD,Bagic,10,,9.0,10.0,9.0
+HYDERABAD,Care Health,9,,,,9.0
+JAIPUR,HDFC Ergo,9,10.0,,,
+MUMBAI,Care Health,10,,,,9.0
+AHMEDABAD,ICICI Lombard,5,,5.0,7.0,6.0
+AHMEDABAD,New India Assurance,6,,,,7.0
+MUMBAI,HDFC Ergo,10,,,,9.0
+JAIPUR,Niva Bupa,6,,,,7.0
+DELHI,HDFC Ergo,9,,,,10.0
+JAIPUR,HDFC Ergo,9,,8.0,10.0,10.0
+HYDERABAD,Aditya Birla Health,8,,,,7.0
+AHMEDABAD,Care Health,10,,8.0,8.0,10.0
+KANPUR,HDFC Ergo,4,,6.0,4.0,2.0
+MUMBAI,Aditya Birla Health,5,5.0,,,
+CHENNAI,Niva Bupa,9,,10.0,8.0,10.0
+LUDHIANA,HDFC Ergo,10,9.0,,,
+MUMBAI,New India Assurance,8,,7.0,9.0,9.0
+KANPUR,Aditya Birla Health,5,,,,2.0
+BANGALORE,Care Health,9,7.0,,,
+CHENNAI,Care Health,10,,9.0,10.0,9.0
+MUMBAI,Aditya Birla Health,8,,9.0,7.0,8.0
+KANPUR,Bagic,9,,,,10.0
+MUMBAI,Niva Bupa,9,,,,10.0
+INDORE,Star Health,10,,9.0,10.0,9.0
+AHMEDABAD,Care Health,9,,,,10.0
+PUNE,HDFC Ergo,6,,,,8.0
+JAIPUR,Star Health,10,10.0,,,
+INDORE,Niva Bupa,9,,,,10.0
+DELHI,New India Assurance,7,,,,5.0
+MUMBAI,Care Health,10,8.0,9.0,9.0,
+DELHI,New India Assurance,8,,,,7.0
+HYDERABAD,Care Health,10,,,,9.0
+INDORE,ICICI Lombard,7,,5.0,8.0,9.0
+CHENNAI,Star Health,10,,,,9.0
+INDORE,Aditya Birla Health,8,,,,9.0
+AHMEDABAD,ICICI Lombard,7,,,,9.0
+CHENNAI,HDFC Ergo,9,10.0,,,
+KANPUR,Star Health,7,,,,9.0
+LUDHIANA,Niva Bupa,3,,4.0,5.0,4.0
+LUDHIANA,Bagic,10,10.0,10.0,9.0,
+CHENNAI,Care Health,3,,,,2.0
+LUDHIANA,ICICI Lombard,9,,,,9.0
+AHMEDABAD,Care Health,8,,9.0,10.0,7.0
+PUNE,Star Health,9,,,,10.0
+MUMBAI,Aditya Birla Health,9,,10.0,9.0,10.0
+LUDHIANA,Bagic,9,,,,9.0
+KANPUR,Bagic,10,,,,9.0
+KANPUR,HDFC Ergo,10,10.0,,,
+MUMBAI,New India Assurance,9,,,,8.0
+KANPUR,Aditya Birla Health,9,9.0,,,
+DELHI,Bagic,10,,,,9.0
+KANPUR,Care Health,10,,10.0,9.0,9.0
+PUNE,Star Health,10,,,,9.0
+BANGALORE,New India Assurance,10,,,,9.0
+JAIPUR,ICICI Lombard,10,10.0,,,
+BANGALORE,New India Assurance,9,,,,10.0
+PUNE,Niva Bupa,10,,,,9.0
+HYDERABAD,Aditya Birla Health,6,,,,4.0
+DELHI,Niva Bupa,9,,10.0,9.0,10.0
+BANGALORE,Bagic,10,,,,9.0
+HYDERABAD,Bagic,9,,,,10.0
+PUNE,ICICI Lombard,10,,,,9.0
+BANGALORE,ICICI Lombard,6,,,,4.0
+JAIPUR,Care Health,10,10.0,9.0,8.0,
+PUNE,ICICI Lombard,4,,,,2.0
+PUNE,ICICI Lombard,7,,,,5.0
+AHMEDABAD,Star Health,8,,,,6.0
+MUMBAI,New India Assurance,9,,,,9.0
+KANPUR,Niva Bupa,6,,5.0,6.0,8.0
+BANGALORE,Care Health,10,,9.0,10.0,9.0
+BANGALORE,New India Assurance,10,,,,9.0
+DELHI,New India Assurance,9,,,,10.0
+KOLKATA,Bagic,9,,,,8.0
+PUNE,New India Assurance,7,,,,9.0
+HYDERABAD,Star Health,10,10.0,9.0,9.0,
+KOLKATA,HDFC Ergo,9,,,,9.0
+MUMBAI,Star Health,10,,,,9.0
+KOLKATA,Bagic,8,,,,10.0
+LUDHIANA,ICICI Lombard,9,,,,10.0
+LUDHIANA,ICICI Lombard,8,,9.0,9.0,7.0
+LUDHIANA,HDFC Ergo,8,8.0,,,
+KOLKATA,HDFC Ergo,9,,9.0,9.0,9.0
+MUMBAI,Niva Bupa,6,8.0,,,
+KANPUR,Niva Bupa,10,,,,9.0
+KOLKATA,Bagic,10,10.0,,,
+KOLKATA,Bagic,9,,,,10.0
+INDORE,Bagic,9,,,,9.0
+DELHI,HDFC Ergo,9,,9.0,9.0,10.0
+JAIPUR,Bagic,10,,,,9.0
+INDORE,Care Health,10,8.0,,,
+DELHI,Niva Bupa,9,,,,10.0
+INDORE,HDFC Ergo,10,,,,9.0
+JAIPUR,HDFC Ergo,8,,9.0,10.0,9.0
+DELHI,Star Health,8,8.0,,,
+PUNE,Bagic,9,,9.0,10.0,10.0
+BANGALORE,ICICI Lombard,9,9.0,,,
+DELHI,Care Health,9,,,,10.0
+JAIPUR,Care Health,9,,,,9.0
+AHMEDABAD,Niva Bupa,8,9.0,,,
+HYDERABAD,Care Health,7,,9.0,6.0,9.0
+JAIPUR,Niva Bupa,9,,,,9.0
+DELHI,Niva Bupa,9,,,,10.0
+MUMBAI,Bagic,9,10.0,9.0,10.0,
+PUNE,Star Health,9,,,,10.0
+INDORE,HDFC Ergo,8,,9.0,9.0,7.0
+AHMEDABAD,New India Assurance,10,8.0,,,
+KANPUR,New India Assurance,5,,,,8.0
+DELHI,Bagic,10,,,,9.0
+CHENNAI,Bagic,9,,,,10.0
+BANGALORE,Bagic,4,,,,2.0
+DELHI,HDFC Ergo,10,,10.0,10.0,10.0
+INDORE,ICICI Lombard,9,,10.0,9.0,8.0
+KANPUR,Bagic,9,10.0,,,
+INDORE,Niva Bupa,10,,,,9.0
+CHENNAI,New India Assurance,6,7.0,,,
+AHMEDABAD,Bagic,9,,,,9.0
+AHMEDABAD,Niva Bupa,9,,10.0,9.0,10.0
+AHMEDABAD,Star Health,9,,,,10.0
+AHMEDABAD,Niva Bupa,6,,,,4.0
+HYDERABAD,HDFC Ergo,9,,,,10.0
+LUDHIANA,New India Assurance,6,,,,8.0
+AHMEDABAD,Bagic,10,,,,10.0
+HYDERABAD,Aditya Birla Health,6,,,,3.0
+JAIPUR,Care Health,9,10.0,8.0,9.0,
+MUMBAI,HDFC Ergo,9,,,,10.0
+PUNE,Niva Bupa,9,,,,10.0
+INDORE,HDFC Ergo,8,,10.0,9.0,6.0
+LUDHIANA,Aditya Birla Health,7,,,,8.0
+KOLKATA,Bagic,6,6.0,,,
+AHMEDABAD,Aditya Birla Health,7,,,,8.0
+MUMBAI,Niva Bupa,4,,3.0,3.0,2.0
+JAIPUR,Niva Bupa,9,,,,10.0
+BANGALORE,Niva Bupa,7,,,,8.0
+BANGALORE,Care Health,10,10.0,,,
+MUMBAI,Star Health,9,,10.0,10.0,10.0
+AHMEDABAD,Niva Bupa,9,10.0,,,
+MUMBAI,ICICI Lombard,8,,,,8.0
+MUMBAI,New India Assurance,9,,10.0,9.0,10.0
+KANPUR,Niva Bupa,10,,,,9.0
+MUMBAI,Niva Bupa,8,,,,10.0
+BANGALORE,Star Health,10,9.0,,,
+PUNE,Aditya Birla Health,9,10.0,,,
+LUDHIANA,Aditya Birla Health,8,,,,9.0
+AHMEDABAD,Niva Bupa,6,,,,8.0
+LUDHIANA,Bagic,9,,,,10.0
+LUDHIANA,Bagic,10,,10.0,10.0,9.0
+MUMBAI,Care Health,8,,7.0,9.0,8.0
+KOLKATA,Care Health,8,,,,7.0
+HYDERABAD,ICICI Lombard,10,,9.0,9.0,9.0
+JAIPUR,Niva Bupa,9,9.0,,,
+HYDERABAD,Bagic,10,10.0,9.0,9.0,
+KOLKATA,Aditya Birla Health,9,9.0,,,
+HYDERABAD,Star Health,7,,,,8.0
+KOLKATA,ICICI Lombard,7,,,,9.0
+LUDHIANA,Niva Bupa,9,,9.0,10.0,10.0
+CHENNAI,ICICI Lombard,10,,,,8.0
+INDORE,HDFC Ergo,10,,,,8.0
+AHMEDABAD,HDFC Ergo,9,,,,9.0
+INDORE,Care Health,5,,,,4.0
+AHMEDABAD,New India Assurance,9,,,,8.0
+CHENNAI,HDFC Ergo,9,,,,10.0
+HYDERABAD,HDFC Ergo,5,7.0,6.0,4.0,
+DELHI,HDFC Ergo,8,,,,9.0
+BANGALORE,Star Health,7,,9.0,9.0,6.0
+DELHI,ICICI Lombard,9,,9.0,8.0,9.0
+PUNE,ICICI Lombard,9,,10.0,10.0,10.0
+KOLKATA,Star Health,9,,,,10.0
+KANPUR,Niva Bupa,10,10.0,,,
+DELHI,Star Health,10,,,,9.0
+INDORE,HDFC Ergo,8,,,,9.0
+LUDHIANA,Star Health,10,,,,9.0
+CHENNAI,Bagic,9,,,,9.0
+KANPUR,Aditya Birla Health,6,6.0,,,
+INDORE,Bagic,7,,,,6.0
+CHENNAI,Bagic,9,,,,8.0
+CHENNAI,Star Health,9,9.0,10.0,10.0,
+LUDHIANA,Star Health,10,10.0,,,
+KANPUR,New India Assurance,9,,,,10.0
+DELHI,ICICI Lombard,7,,,,8.0
+PUNE,ICICI Lombard,9,,10.0,8.0,9.0
+KOLKATA,Star Health,7,,,,8.0
+DELHI,Niva Bupa,10,,,,9.0
+AHMEDABAD,Aditya Birla Health,9,,9.0,8.0,8.0
+BANGALORE,Bagic,10,,,,9.0
+CHENNAI,Niva Bupa,6,,,,8.0
+MUMBAI,Aditya Birla Health,8,,7.0,8.0,7.0
+PUNE,HDFC Ergo,7,,,,8.0
+DELHI,Aditya Birla Health,10,,,,9.0
+PUNE,Niva Bupa,10,,9.0,8.0,9.0
+HYDERABAD,Niva Bupa,10,,,,10.0
+PUNE,Star Health,10,,,,9.0
+BANGALORE,Bagic,9,,,,10.0
+INDORE,New India Assurance,10,,,,9.0
+INDORE,Aditya Birla Health,8,9.0,,,
+HYDERABAD,ICICI Lombard,9,,,,10.0
+INDORE,Bagic,9,,,,8.0
+LUDHIANA,ICICI Lombard,9,,9.0,10.0,9.0
+CHENNAI,Star Health,9,,,,9.0
+CHENNAI,Bagic,5,,6.0,6.0,3.0
+KOLKATA,Bagic,10,,,,9.0
+BANGALORE,New India Assurance,8,,,,9.0
+AHMEDABAD,New India Assurance,10,,,,10.0
+KANPUR,Bagic,10,,9.0,9.0,9.0
+INDORE,New India Assurance,7,,,,9.0
+HYDERABAD,Star Health,9,,,,9.0
+KANPUR,HDFC Ergo,9,,10.0,10.0,10.0
+MUMBAI,HDFC Ergo,7,,7.0,6.0,7.0
+JAIPUR,Bagic,9,,,,10.0
+INDORE,Bagic,10,10.0,,,
+MUMBAI,HDFC Ergo,2,,,,4.0
+LUDHIANA,New India Assurance,9,9.0,7.0,10.0,
+INDORE,ICICI Lombard,10,,,,8.0
+KANPUR,Niva Bupa,9,,9.0,10.0,9.0
+BANGALORE,Care Health,9,,,,10.0
+MUMBAI,HDFC Ergo,10,,,,9.0
+INDORE,HDFC Ergo,8,,,,7.0
+HYDERABAD,New India Assurance,10,,,,8.0
+CHENNAI,ICICI Lombard,9,,,,10.0
+AHMEDABAD,Aditya Birla Health,9,,,,10.0
+BANGALORE,Star Health,9,,,,10.0
+DELHI,Bagic,9,,9.0,9.0,9.0
+PUNE,Care Health,8,,,,9.0
+LUDHIANA,HDFC Ergo,10,,,,9.0
+KANPUR,Bagic,9,,8.0,9.0,9.0
+LUDHIANA,Star Health,9,,,,8.0
+LUDHIANA,HDFC Ergo,8,10.0,9.0,10.0,
+HYDERABAD,Aditya Birla Health,5,,,,2.0
+JAIPUR,Care Health,10,,,,9.0
+INDORE,Niva Bupa,7,,5.0,5.0,9.0
+KANPUR,Star Health,10,,,,9.0
+AHMEDABAD,Care Health,9,9.0,8.0,9.0,
+JAIPUR,Aditya Birla Health,4,,,,5.0
+AHMEDABAD,New India Assurance,8,,,,10.0
+KANPUR,Bagic,9,10.0,,,
+HYDERABAD,Aditya Birla Health,6,,7.0,6.0,8.0
+LUDHIANA,Aditya Birla Health,2,,,,4.0
+INDORE,Bagic,9,,,,10.0
+AHMEDABAD,ICICI Lombard,9,,9.0,10.0,10.0
+INDORE,Niva Bupa,9,,,,10.0
+CHENNAI,Star Health,10,7.0,10.0,9.0,
+INDORE,Star Health,8,,,,7.0
+MUMBAI,Bagic,9,,,,10.0
+KANPUR,Aditya Birla Health,9,,8.0,8.0,9.0
+LUDHIANA,Bagic,9,9.0,10.0,9.0,
+JAIPUR,ICICI Lombard,10,,,,9.0
+DELHI,ICICI Lombard,7,,7.0,9.0,9.0
+HYDERABAD,Bagic,9,,,,9.0
+DELHI,ICICI Lombard,9,,10.0,10.0,10.0
+LUDHIANA,HDFC Ergo,9,,10.0,9.0,10.0
+DELHI,New India Assurance,10,,,,8.0
+AHMEDABAD,HDFC Ergo,10,8.0,,,
+PUNE,New India Assurance,1,,,,3.0
+BANGALORE,Niva Bupa,9,,,,10.0
+BANGALORE,HDFC Ergo,7,,,,8.0
+KOLKATA,HDFC Ergo,10,,,,9.0
+AHMEDABAD,New India Assurance,7,7.0,,,
+BANGALORE,Care Health,9,,9.0,10.0,8.0
+AHMEDABAD,New India Assurance,8,8.0,8.0,9.0,
+INDORE,Niva Bupa,10,9.0,,,
+BANGALORE,ICICI Lombard,9,,,,10.0
+PUNE,Niva Bupa,7,,7.0,8.0,7.0
+KOLKATA,Care Health,10,,,,9.0
+PUNE,Care Health,9,,9.0,10.0,9.0
+BANGALORE,Bagic,10,,9.0,10.0,9.0
+MUMBAI,Star Health,9,,9.0,10.0,9.0
+PUNE,Care Health,4,,,,1.0
+AHMEDABAD,Aditya Birla Health,10,,,,9.0
+KOLKATA,ICICI Lombard,8,,,,10.0
+KOLKATA,Care Health,8,,,,10.0
+AHMEDABAD,ICICI Lombard,9,10.0,,,
+CHENNAI,HDFC Ergo,8,,,,9.0
+CHENNAI,Aditya Birla Health,9,,9.0,10.0,8.0
+MUMBAI,Bagic,9,10.0,,,
+AHMEDABAD,Star Health,8,,9.0,9.0,10.0
+INDORE,ICICI Lombard,9,,10.0,9.0,10.0
+DELHI,Star Health,6,,5.0,8.0,8.0
+HYDERABAD,ICICI Lombard,7,,6.0,7.0,6.0
+HYDERABAD,Aditya Birla Health,10,,,,9.0
+HYDERABAD,Star Health,10,,,,9.0
+DELHI,Care Health,4,,3.0,6.0,3.0
+INDORE,New India Assurance,1,,,,3.0
+KANPUR,Bagic,9,,,,10.0
+DELHI,Star Health,10,,,,8.0
+AHMEDABAD,Aditya Birla Health,8,6.0,,,
+BANGALORE,Star Health,9,,,,9.0
+PUNE,Care Health,9,,,,8.0
+PUNE,HDFC Ergo,9,,,,10.0
+DELHI,ICICI Lombard,9,,,,9.0
+KOLKATA,HDFC Ergo,2,,,,4.0
+AHMEDABAD,HDFC Ergo,7,,5.0,7.0,9.0
+AHMEDABAD,HDFC Ergo,8,,,,7.0
+HYDERABAD,HDFC Ergo,9,,,,9.0
+PUNE,Niva Bupa,9,,,,10.0
+BANGALORE,Star Health,6,,,,8.0
+DELHI,Care Health,9,,10.0,9.0,10.0
+HYDERABAD,Care Health,6,,8.0,4.0,7.0
+PUNE,Care Health,10,,9.0,9.0,9.0
+AHMEDABAD,Bagic,9,,,,10.0
+LUDHIANA,Bagic,10,,,,9.0
+KANPUR,Care Health,10,,,,9.0
+DELHI,Care Health,9,,,,10.0
+HYDERABAD,Bagic,9,,,,10.0
+CHENNAI,Bagic,9,,10.0,9.0,10.0
+KANPUR,ICICI Lombard,9,,,,9.0
+DELHI,Aditya Birla Health,10,,,,9.0
+DELHI,HDFC Ergo,10,9.0,9.0,9.0,
+LUDHIANA,New India Assurance,9,,,,10.0
+KANPUR,HDFC Ergo,8,,,,9.0
+JAIPUR,HDFC Ergo,9,,,,8.0
+JAIPUR,Bagic,9,,9.0,9.0,10.0
+JAIPUR,ICICI Lombard,7,,,,8.0
+MUMBAI,Bagic,9,8.0,,,
+BANGALORE,ICICI Lombard,9,10.0,,,
+LUDHIANA,Care Health,10,,,,9.0
+PUNE,Bagic,9,,,,10.0
+AHMEDABAD,New India Assurance,5,,,,8.0
+MUMBAI,HDFC Ergo,9,,,,9.0
+HYDERABAD,Aditya Birla Health,9,,,,9.0
+PUNE,Aditya Birla Health,7,8.0,,,
+INDORE,Aditya Birla Health,10,,10.0,9.0,9.0
+INDORE,Care Health,9,,,,10.0
+KOLKATA,ICICI Lombard,4,,,,5.0
+AHMEDABAD,Care Health,10,,,,9.0
+DELHI,Star Health,8,,9.0,9.0,10.0
+MUMBAI,HDFC Ergo,7,,8.0,9.0,8.0
+JAIPUR,Niva Bupa,7,,,,8.0
+INDORE,Star Health,9,,,,10.0
+INDORE,Star Health,7,9.0,,,
+CHENNAI,HDFC Ergo,7,,,,6.0
+CHENNAI,ICICI Lombard,9,,,,10.0
+BANGALORE,Niva Bupa,10,,,,9.0
+INDORE,HDFC Ergo,9,,,,10.0
+LUDHIANA,Niva Bupa,9,,10.0,10.0,10.0
+CHENNAI,Bagic,8,,7.0,10.0,10.0
+DELHI,Niva Bupa,9,,9.0,9.0,10.0
+CHENNAI,Niva Bupa,7,9.0,,,
+JAIPUR,Care Health,4,,,,5.0
+LUDHIANA,Bagic,7,,,,5.0
+KANPUR,Care Health,8,10.0,9.0,7.0,
+JAIPUR,Aditya Birla Health,7,10.0,,,
+HYDERABAD,HDFC Ergo,8,,,,9.0
+KANPUR,Star Health,10,,9.0,9.0,9.0
+CHENNAI,Star Health,9,,,,10.0
+HYDERABAD,Niva Bupa,9,,10.0,9.0,10.0
+KANPUR,Niva Bupa,6,,,,8.0
+DELHI,New India Assurance,9,,,,10.0
+HYDERABAD,Star Health,9,,,,9.0
+LUDHIANA,HDFC Ergo,9,10.0,,,
+PUNE,Star Health,8,9.0,7.0,10.0,
+CHENNAI,Care Health,8,,,,9.0
+KANPUR,Niva Bupa,9,,,,9.0
+JAIPUR,Bagic,8,,,,6.0
+DELHI,New India Assurance,8,,7.0,10.0,6.0
+PUNE,HDFC Ergo,7,,,,8.0
+INDORE,Care Health,6,,,,7.0
+PUNE,HDFC Ergo,6,,,,8.0
+LUDHIANA,HDFC Ergo,9,,,,10.0
+CHENNAI,HDFC Ergo,9,,,,10.0
+KOLKATA,Niva Bupa,9,,10.0,9.0,9.0
+MUMBAI,Bagic,10,,,,8.0
+LUDHIANA,Care Health,9,,,,10.0
+KANPUR,Care Health,6,,,,8.0
+PUNE,New India Assurance,8,,,,9.0
+BANGALORE,Niva Bupa,6,,,,7.0
+KOLKATA,New India Assurance,10,,,,9.0
+CHENNAI,Care Health,6,,8.0,6.0,8.0
+KOLKATA,New India Assurance,6,9.0,,,
+CHENNAI,New India Assurance,9,,,,10.0
+HYDERABAD,New India Assurance,6,,,,5.0
+MUMBAI,ICICI Lombard,9,,,,10.0
+KOLKATA,Star Health,9,9.0,10.0,9.0,
+KOLKATA,Star Health,9,,,,9.0
+LUDHIANA,Aditya Birla Health,10,,,,9.0
+BANGALORE,HDFC Ergo,9,,,,9.0
+INDORE,Care Health,8,,,,10.0
+DELHI,ICICI Lombard,4,,,,5.0
+JAIPUR,Aditya Birla Health,10,,10.0,9.0,9.0
+LUDHIANA,ICICI Lombard,10,,,,9.0
+DELHI,New India Assurance,6,6.0,,,
+KANPUR,Niva Bupa,6,6.0,5.0,4.0,
+AHMEDABAD,New India Assurance,8,,,,9.0
+BANGALORE,Aditya Birla Health,9,,,,10.0
+CHENNAI,Star Health,6,,,,5.0
+BANGALORE,New India Assurance,10,10.0,,,
+KOLKATA,Aditya Birla Health,10,9.0,9.0,8.0,
+LUDHIANA,Bagic,9,9.0,,,
+AHMEDABAD,Bagic,9,10.0,,,
+CHENNAI,HDFC Ergo,10,,10.0,9.0,9.0
+PUNE,Star Health,9,,10.0,9.0,9.0
+HYDERABAD,Bagic,9,8.0,,,
+DELHI,HDFC Ergo,4,,3.0,5.0,2.0
+BANGALORE,New India Assurance,5,,4.0,3.0,8.0
+CHENNAI,Bagic,9,9.0,,,
+HYDERABAD,New India Assurance,3,,,,2.0
+MUMBAI,Niva Bupa,8,,9.0,10.0,7.0
+BANGALORE,Star Health,10,,,,9.0
+INDORE,New India Assurance,9,,10.0,10.0,10.0
+AHMEDABAD,Star Health,6,,7.0,5.0,8.0
+CHENNAI,Star Health,10,,9.0,9.0,9.0
+LUDHIANA,Care Health,8,,,,7.0
+KANPUR,New India Assurance,9,,,,8.0
+KOLKATA,Bagic,5,4.0,,,
+DELHI,Bagic,9,,,,10.0
+INDORE,Star Health,7,10.0,,,
+CHENNAI,New India Assurance,10,,,,9.0
+KOLKATA,New India Assurance,9,,9.0,10.0,10.0
+AHMEDABAD,Care Health,7,,,,7.0
+PUNE,HDFC Ergo,10,,,,9.0
+AHMEDABAD,Aditya Birla Health,8,,7.0,8.0,7.0
+DELHI,New India Assurance,9,,,,10.0
+KOLKATA,HDFC Ergo,7,7.0,,,
+BANGALORE,HDFC Ergo,9,,,,8.0
+MUMBAI,Care Health,6,,6.0,7.0,7.0
+KOLKATA,Star Health,10,10.0,9.0,9.0,
+AHMEDABAD,Aditya Birla Health,8,10.0,,,
+MUMBAI,Bagic,9,,10.0,9.0,10.0
+INDORE,Star Health,9,,,,7.0
+CHENNAI,Bagic,9,,7.0,10.0,9.0
+MUMBAI,Aditya Birla Health,7,8.0,,,
+HYDERABAD,Bagic,10,,,,9.0
+BANGALORE,Care Health,10,,,,10.0
+INDORE,HDFC Ergo,9,,,,9.0
+MUMBAI,Star Health,9,,,,8.0
+AHMEDABAD,Niva Bupa,9,,9.0,8.0,9.0
+BANGALORE,Star Health,9,,,,9.0
+JAIPUR,ICICI Lombard,10,10.0,,,
+KOLKATA,ICICI Lombard,9,,,,10.0
+LUDHIANA,Aditya Birla Health,9,,,,10.0
+PUNE,ICICI Lombard,9,,8.0,9.0,10.0
+BANGALORE,Star Health,9,,,,10.0
+DELHI,New India Assurance,9,,,,10.0
+BANGALORE,New India Assurance,10,9.0,,,
+INDORE,ICICI Lombard,10,,,,9.0
+BANGALORE,Niva Bupa,9,,,,7.0
+MUMBAI,Star Health,10,,,,9.0
+BANGALORE,New India Assurance,10,,9.0,8.0,9.0
+PUNE,Niva Bupa,9,,,,10.0
+INDORE,ICICI Lombard,4,,,,2.0
+INDORE,ICICI Lombard,7,,,,5.0
+BANGALORE,Care Health,10,,9.0,10.0,9.0
+DELHI,Care Health,7,,,,6.0
+MUMBAI,Bagic,10,7.0,,,
+AHMEDABAD,Niva Bupa,7,,,,5.0
+BANGALORE,HDFC Ergo,9,,,,10.0
+DELHI,Bagic,10,,,,9.0
+PUNE,Care Health,7,5.0,,,
+KOLKATA,HDFC Ergo,6,,8.0,10.0,5.0
+KOLKATA,Niva Bupa,8,,,,7.0
+MUMBAI,Niva Bupa,9,,,,10.0
+MUMBAI,Aditya Birla Health,9,,,,9.0
+HYDERABAD,Aditya Birla Health,9,,8.0,10.0,9.0
+KANPUR,Care Health,7,,,,8.0
+LUDHIANA,New India Assurance,10,,,,9.0
+AHMEDABAD,Star Health,10,,,,8.0
+PUNE,Star Health,8,,,,10.0
+JAIPUR,Niva Bupa,10,,,,9.0
+JAIPUR,ICICI Lombard,7,,,,6.0
+JAIPUR,HDFC Ergo,9,7.0,,,
+KANPUR,New India Assurance,3,,2.0,6.0,4.0
+CHENNAI,Star Health,8,,,,7.0
+LUDHIANA,Niva Bupa,9,10.0,10.0,8.0,
+PUNE,New India Assurance,10,9.0,9.0,9.0,
+BANGALORE,Care Health,9,,10.0,8.0,10.0
+LUDHIANA,Niva Bupa,10,9.0,10.0,8.0,
+MUMBAI,Bagic,9,,10.0,10.0,9.0
+JAIPUR,Bagic,9,,,,10.0
+KANPUR,Aditya Birla Health,7,,6.0,7.0,9.0
+HYDERABAD,HDFC Ergo,10,10.0,9.0,10.0,
+INDORE,New India Assurance,9,,,,10.0
+INDORE,New India Assurance,4,,,,3.0
+PUNE,Niva Bupa,7,,8.0,5.0,6.0
+CHENNAI,Bagic,10,,,,9.0
+BANGALORE,ICICI Lombard,8,,,,7.0
+KOLKATA,Aditya Birla Health,9,,,,10.0
+PUNE,Aditya Birla Health,6,,7.0,5.0,3.0
+CHENNAI,Aditya Birla Health,10,10.0,,,
+MUMBAI,ICICI Lombard,9,,,,9.0
+BANGALORE,Care Health,10,10.0,10.0,9.0,
+AHMEDABAD,ICICI Lombard,10,,9.0,10.0,9.0
+MUMBAI,New India Assurance,7,,,,6.0
+LUDHIANA,New India Assurance,8,9.0,,,
+AHMEDABAD,Star Health,8,3.0,,,
+KANPUR,Niva Bupa,10,,,,9.0
+CHENNAI,Aditya Birla Health,9,,,,10.0
+HYDERABAD,Aditya Birla Health,10,,9.0,10.0,9.0
+MUMBAI,Aditya Birla Health,6,,7.0,7.0,5.0
+LUDHIANA,Care Health,10,10.0,9.0,9.0,
+DELHI,New India Assurance,9,,,,10.0
+CHENNAI,Bagic,10,,,,9.0
+CHENNAI,Star Health,9,,,,9.0
+INDORE,Niva Bupa,9,,,,10.0
+KOLKATA,Aditya Birla Health,8,,,,7.0
+KOLKATA,HDFC Ergo,9,,7.0,10.0,10.0
+INDORE,New India Assurance,3,,,,2.0
+INDORE,Aditya Birla Health,8,,,,7.0
+INDORE,ICICI Lombard,5,,,,4.0
+KANPUR,ICICI Lombard,7,9.0,,,
+INDORE,Niva Bupa,9,9.0,8.0,8.0,
+AHMEDABAD,New India Assurance,10,,,,9.0
+LUDHIANA,Aditya Birla Health,8,,,,6.0
+HYDERABAD,New India Assurance,4,,,,6.0
+INDORE,New India Assurance,3,9.0,,,
+KANPUR,Care Health,9,,,,9.0
+BANGALORE,HDFC Ergo,9,,,,10.0
+JAIPUR,ICICI Lombard,9,,,,8.0
+BANGALORE,Niva Bupa,7,,,,8.0
+BANGALORE,Aditya Birla Health,7,,,,8.0
+BANGALORE,New India Assurance,8,,7.0,9.0,10.0
+INDORE,HDFC Ergo,10,,,,9.0
+LUDHIANA,Star Health,9,10.0,,,
+DELHI,Niva Bupa,10,,10.0,8.0,8.0
+BANGALORE,Bagic,5,,,,3.0
+JAIPUR,ICICI Lombard,9,,,,10.0
+HYDERABAD,Bagic,10,,,,9.0
+AHMEDABAD,ICICI Lombard,8,,,,7.0
+JAIPUR,Bagic,10,,,,9.0
+KOLKATA,Aditya Birla Health,6,,8.0,4.0,4.0
+LUDHIANA,HDFC Ergo,10,,,,9.0
+KOLKATA,Niva Bupa,10,9.0,,,
+KOLKATA,Aditya Birla Health,9,9.0,,,
+KANPUR,Aditya Birla Health,9,8.0,,,
+MUMBAI,Care Health,9,,10.0,9.0,9.0
+INDORE,Aditya Birla Health,8,,,,6.0
+KANPUR,ICICI Lombard,10,,10.0,10.0,9.0
+LUDHIANA,New India Assurance,10,,,,9.0
+BANGALORE,Bagic,10,,8.0,10.0,10.0
+PUNE,Bagic,9,,,,8.0
+KANPUR,Bagic,10,,,,9.0
+AHMEDABAD,Bagic,9,,10.0,10.0,10.0
+CHENNAI,New India Assurance,10,,,,8.0
+BANGALORE,ICICI Lombard,6,,,,6.0
+AHMEDABAD,Aditya Birla Health,4,,,,6.0
+LUDHIANA,Niva Bupa,4,,,,3.0
+PUNE,HDFC Ergo,7,9.0,,,
+KOLKATA,ICICI Lombard,9,,,,9.0
+CHENNAI,New India Assurance,3,,,,5.0
+KANPUR,ICICI Lombard,9,7.0,,,
+PUNE,Star Health,10,9.0,,,
+INDORE,ICICI Lombard,10,,,,9.0
+AHMEDABAD,Star Health,10,,,,9.0
+KANPUR,Bagic,9,,,,10.0
+KOLKATA,HDFC Ergo,10,,10.0,9.0,9.0
+KOLKATA,ICICI Lombard,9,,,,10.0
+KOLKATA,New India Assurance,5,,6.0,7.0,3.0
+LUDHIANA,ICICI Lombard,9,9.0,10.0,8.0,
+JAIPUR,New India Assurance,9,,,,8.0
+MUMBAI,New India Assurance,9,,8.0,9.0,10.0
+HYDERABAD,New India Assurance,8,,,,9.0
+PUNE,ICICI Lombard,7,8.0,,,
+INDORE,HDFC Ergo,5,,,,4.0
+MUMBAI,New India Assurance,6,,,,7.0
+CHENNAI,Niva Bupa,8,,10.0,10.0,7.0
+PUNE,ICICI Lombard,7,8.0,,,
+BANGALORE,Star Health,8,,,,6.0
+KANPUR,ICICI Lombard,5,,,,3.0
+AHMEDABAD,Aditya Birla Health,8,8.0,7.0,7.0,
+INDORE,Bagic,9,,10.0,10.0,10.0
+KANPUR,Bagic,9,9.0,,,
+CHENNAI,Aditya Birla Health,10,,,,9.0
+MUMBAI,Bagic,8,,9.0,9.0,10.0
+BANGALORE,HDFC Ergo,10,,10.0,9.0,8.0
+KANPUR,ICICI Lombard,8,,,,9.0
+LUDHIANA,Care Health,9,,9.0,10.0,8.0
+MUMBAI,New India Assurance,9,,9.0,10.0,10.0
+MUMBAI,HDFC Ergo,7,,,,9.0
+BANGALORE,Bagic,9,,10.0,10.0,10.0
+JAIPUR,Niva Bupa,10,,,,9.0
+CHENNAI,Care Health,7,7.0,,,
+PUNE,New India Assurance,8,,,,9.0
+MUMBAI,Aditya Birla Health,8,,,,7.0
+JAIPUR,Star Health,10,10.0,,,
+MUMBAI,ICICI Lombard,8,,,,10.0
+DELHI,New India Assurance,8,9.0,,,
+JAIPUR,Care Health,10,,,,9.0
+MUMBAI,Niva Bupa,6,9.0,,,
+PUNE,ICICI Lombard,7,,,,8.0
+CHENNAI,Care Health,9,,8.0,10.0,9.0
+HYDERABAD,Bagic,8,,,,10.0
+CHENNAI,Niva Bupa,10,,,,10.0
+BANGALORE,Bagic,9,,,,10.0
+KOLKATA,New India Assurance,8,,,,9.0
+BANGALORE,Bagic,8,,9.0,7.0,7.0
+CHENNAI,HDFC Ergo,7,,,,8.0
+PUNE,Bagic,9,8.0,,,
+KOLKATA,Aditya Birla Health,9,,,,9.0
+AHMEDABAD,Star Health,8,,,,7.0
+DELHI,New India Assurance,9,,,,10.0
+DELHI,ICICI Lombard,7,,5.0,5.0,8.0
+BANGALORE,Aditya Birla Health,9,10.0,,,
+PUNE,Star Health,10,,,,8.0
+LUDHIANA,Bagic,9,,10.0,9.0,10.0
+LUDHIANA,Aditya Birla Health,9,,,,8.0
+MUMBAI,ICICI Lombard,9,,,,10.0
+CHENNAI,HDFC Ergo,10,,,,9.0
+DELHI,Care Health,4,,,,3.0
+LUDHIANA,Star Health,10,,10.0,9.0,9.0
+DELHI,ICICI Lombard,9,,,,10.0
+CHENNAI,ICICI Lombard,5,,,,4.0
+DELHI,Aditya Birla Health,5,,,,4.0
+INDORE,Star Health,9,,10.0,10.0,10.0
+AHMEDABAD,Bagic,9,,,,9.0
+DELHI,Bagic,10,,,,9.0
+KANPUR,Niva Bupa,6,4.0,7.0,5.0,
+BANGALORE,Bagic,9,,,,10.0
+KANPUR,Bagic,10,,10.0,10.0,9.0
+JAIPUR,Niva Bupa,7,,,,7.0
+AHMEDABAD,HDFC Ergo,9,,,,9.0
+CHENNAI,Aditya Birla Health,9,,8.0,10.0,9.0
+INDORE,Niva Bupa,9,,9.0,10.0,10.0
+AHMEDABAD,Bagic,9,,10.0,10.0,10.0
+AHMEDABAD,HDFC Ergo,9,,,,10.0
+KANPUR,HDFC Ergo,8,,9.0,9.0,9.0
+KOLKATA,Aditya Birla Health,8,,,,9.0
+MUMBAI,Care Health,8,,,,7.0
+JAIPUR,Care Health,9,,,,10.0
+HYDERABAD,Aditya Birla Health,9,,7.0,9.0,9.0
+MUMBAI,Niva Bupa,6,,,,4.0
+JAIPUR,Bagic,9,,,,10.0
+CHENNAI,ICICI Lombard,10,,,,9.0
+KANPUR,Aditya Birla Health,3,,,,5.0
+HYDERABAD,HDFC Ergo,9,,10.0,10.0,10.0
+PUNE,Bagic,9,,,,10.0
+KOLKATA,Bagic,9,,,,10.0
+KANPUR,ICICI Lombard,9,,,,9.0
+BANGALORE,Aditya Birla Health,9,8.0,,,
+JAIPUR,Niva Bupa,10,8.0,9.0,8.0,
+PUNE,New India Assurance,9,8.0,10.0,8.0,
+MUMBAI,Care Health,9,,7.0,9.0,10.0
+KOLKATA,ICICI Lombard,7,,,,9.0
+JAIPUR,ICICI Lombard,8,,10.0,10.0,9.0
+INDORE,New India Assurance,10,,,,10.0
+AHMEDABAD,Bagic,9,,10.0,8.0,10.0
+INDORE,ICICI Lombard,9,9.0,,,
+PUNE,Aditya Birla Health,8,9.0,,,
+KOLKATA,Care Health,10,,9.0,9.0,9.0
+MUMBAI,Bagic,9,,,,9.0
+DELHI,Star Health,7,,5.0,8.0,8.0
+INDORE,Bagic,9,,,,8.0
+HYDERABAD,Aditya Birla Health,9,9.0,,,
+JAIPUR,HDFC Ergo,4,,5.0,5.0,6.0
+KANPUR,Care Health,10,,9.0,8.0,8.0
+PUNE,Aditya Birla Health,7,,,,8.0
+KANPUR,Care Health,8,,,,10.0
+MUMBAI,Bagic,9,,,,10.0
+BANGALORE,Care Health,8,,10.0,8.0,7.0
+JAIPUR,Care Health,9,,,,10.0
+INDORE,Care Health,6,,5.0,6.0,7.0
+CHENNAI,Aditya Birla Health,5,,6.0,4.0,2.0
+MUMBAI,Star Health,9,,9.0,9.0,9.0
+LUDHIANA,HDFC Ergo,8,,,,10.0
+DELHI,New India Assurance,6,,5.0,6.0,5.0
+INDORE,HDFC Ergo,7,,,,8.0
+LUDHIANA,Aditya Birla Health,10,,,,8.0
+CHENNAI,Aditya Birla Health,9,9.0,,,
+CHENNAI,Star Health,10,,10.0,9.0,9.0
+CHENNAI,Care Health,10,,,,9.0
+KANPUR,Aditya Birla Health,9,10.0,,,
+JAIPUR,Niva Bupa,6,,,,8.0
+JAIPUR,Star Health,6,,,,5.0
+AHMEDABAD,HDFC Ergo,10,,,,9.0
+BANGALORE,Niva Bupa,3,,,,4.0
+KANPUR,Niva Bupa,9,,,,10.0
+CHENNAI,Star Health,10,,,,9.0
+LUDHIANA,ICICI Lombard,6,,5.0,6.0,8.0
+HYDERABAD,Aditya Birla Health,10,,,,9.0
+KOLKATA,Star Health,10,,10.0,9.0,8.0
+CHENNAI,Niva Bupa,3,,,,2.0
+AHMEDABAD,New India Assurance,8,,,,9.0
+CHENNAI,New India Assurance,10,,9.0,10.0,8.0
+DELHI,HDFC Ergo,10,,9.0,10.0,9.0
+MUMBAI,Niva Bupa,9,10.0,10.0,9.0,
+DELHI,HDFC Ergo,6,,7.0,6.0,7.0
+JAIPUR,HDFC Ergo,9,,,,10.0
+CHENNAI,Niva Bupa,9,,,,9.0
+KOLKATA,HDFC Ergo,9,10.0,,,
+PUNE,New India Assurance,9,,10.0,9.0,9.0
+AHMEDABAD,HDFC Ergo,9,,10.0,9.0,8.0
+LUDHIANA,New India Assurance,10,,,,10.0
+DELHI,Niva Bupa,9,10.0,9.0,10.0,
+HYDERABAD,ICICI Lombard,9,,,,10.0
+BANGALORE,Niva Bupa,9,,,,9.0
+KOLKATA,Bagic,10,,10.0,9.0,9.0
+BANGALORE,ICICI Lombard,9,,,,9.0
+LUDHIANA,ICICI Lombard,7,7.0,,,
+KANPUR,Star Health,7,,,,6.0
+BANGALORE,HDFC Ergo,8,,9.0,10.0,10.0
+HYDERABAD,Niva Bupa,9,,,,10.0
+KANPUR,Star Health,7,,,,6.0
+HYDERABAD,HDFC Ergo,6,,,,5.0
+KOLKATA,ICICI Lombard,5,,,,5.0
+HYDERABAD,Niva Bupa,9,,9.0,10.0,10.0
+BANGALORE,Bagic,8,,,,10.0
+JAIPUR,Niva Bupa,9,,,,10.0
+INDORE,HDFC Ergo,10,,9.0,9.0,9.0
+MUMBAI,ICICI Lombard,9,9.0,10.0,10.0,
+LUDHIANA,ICICI Lombard,10,,10.0,9.0,9.0
+LUDHIANA,Bagic,9,,,,8.0
+DELHI,Niva Bupa,10,,,,9.0
+MUMBAI,Bagic,9,,,,10.0
+BANGALORE,HDFC Ergo,8,9.0,,,
+PUNE,ICICI Lombard,8,,7.0,9.0,10.0
+DELHI,New India Assurance,10,8.0,,,
+AHMEDABAD,New India Assurance,10,,,,8.0
+PUNE,Aditya Birla Health,9,10.0,9.0,10.0,
+PUNE,Aditya Birla Health,3,3.0,,,
+BANGALORE,Aditya Birla Health,9,,,,10.0
+AHMEDABAD,ICICI Lombard,9,,8.0,8.0,10.0
+KANPUR,New India Assurance,6,,6.0,7.0,8.0
+KOLKATA,ICICI Lombard,9,,,,10.0
+PUNE,Star Health,9,,10.0,9.0,9.0
+LUDHIANA,Star Health,10,,,,9.0
+DELHI,ICICI Lombard,9,,7.0,9.0,9.0
+KOLKATA,HDFC Ergo,10,,,,9.0
+PUNE,New India Assurance,10,,,,9.0
+AHMEDABAD,HDFC Ergo,8,,,,8.0
+PUNE,Star Health,9,,,,9.0
+JAIPUR,Niva Bupa,7,8.0,,,
+DELHI,Bagic,10,,,,9.0
+JAIPUR,Care Health,6,,,,7.0
+MUMBAI,Aditya Birla Health,7,7.0,7.0,8.0,
+MUMBAI,HDFC Ergo,4,,,,3.0
+DELHI,Niva Bupa,3,,,,5.0
+AHMEDABAD,New India Assurance,10,,,,9.0
+DELHI,Niva Bupa,9,,,,9.0
+INDORE,Care Health,7,9.0,,,
+CHENNAI,Care Health,9,,,,9.0
+KOLKATA,HDFC Ergo,3,,,,4.0
+JAIPUR,New India Assurance,2,,4.0,3.0,4.0
+MUMBAI,New India Assurance,10,,,,8.0
+DELHI,Aditya Birla Health,6,,,,4.0
+HYDERABAD,Bagic,9,,,,9.0
+BANGALORE,Care Health,7,,,,8.0
+HYDERABAD,Star Health,10,,,,9.0
+HYDERABAD,New India Assurance,9,,,,10.0
+INDORE,Star Health,9,,,,10.0
+KOLKATA,New India Assurance,8,,,,7.0
+KOLKATA,Aditya Birla Health,10,,,,9.0
+BANGALORE,Care Health,10,,,,9.0
+JAIPUR,ICICI Lombard,6,,,,3.0
+PUNE,Niva Bupa,7,,8.0,9.0,8.0
+BANGALORE,Aditya Birla Health,9,,7.0,9.0,10.0
+JAIPUR,New India Assurance,9,7.0,,,
+CHENNAI,Care Health,9,,,,10.0
+BANGALORE,HDFC Ergo,8,,,,10.0
+HYDERABAD,Star Health,10,,10.0,9.0,9.0
+AHMEDABAD,New India Assurance,2,,,,5.0
+CHENNAI,Bagic,8,10.0,,,
+DELHI,HDFC Ergo,10,,,,9.0
+LUDHIANA,Niva Bupa,10,,,,9.0
+HYDERABAD,Aditya Birla Health,10,,,,9.0
+INDORE,Star Health,9,,,,9.0
+JAIPUR,Niva Bupa,9,,,,9.0
+MUMBAI,New India Assurance,8,,,,6.0
+JAIPUR,Aditya Birla Health,7,,,,5.0
+LUDHIANA,ICICI Lombard,10,,,,9.0
+AHMEDABAD,Niva Bupa,9,,9.0,9.0,9.0
+KANPUR,Care Health,10,,,,9.0
+BANGALORE,Star Health,10,10.0,9.0,10.0,
+DELHI,Niva Bupa,9,,,,10.0
+CHENNAI,Niva Bupa,8,8.0,,,
+DELHI,Bagic,5,,5.0,6.0,6.0
+HYDERABAD,Bagic,9,,10.0,9.0,8.0
+KANPUR,HDFC Ergo,9,,,,9.0
+LUDHIANA,HDFC Ergo,9,9.0,7.0,8.0,
+AHMEDABAD,New India Assurance,8,,,,9.0
+INDORE,ICICI Lombard,10,,,,9.0
+KANPUR,Care Health,7,,,,6.0
+CHENNAI,Care Health,10,,,,9.0
+DELHI,Star Health,10,,,,9.0
+KANPUR,Bagic,9,,,,9.0
+BANGALORE,Niva Bupa,10,10.0,10.0,8.0,
+DELHI,Niva Bupa,8,,,,7.0
+KOLKATA,Bagic,10,,,,9.0
+CHENNAI,New India Assurance,9,,,,10.0
+JAIPUR,Star Health,8,9.0,,,
+HYDERABAD,Niva Bupa,5,,,,3.0
+JAIPUR,Care Health,7,,,,9.0
+HYDERABAD,Aditya Birla Health,9,,,,9.0
+DELHI,Care Health,10,,9.0,10.0,9.0
+PUNE,Niva Bupa,9,,,,9.0
+DELHI,Care Health,6,,,,8.0
+AHMEDABAD,ICICI Lombard,10,,,,9.0
+KOLKATA,ICICI Lombard,9,,,,9.0
+AHMEDABAD,New India Assurance,6,,,,4.0
+INDORE,Care Health,8,,10.0,7.0,10.0
+MUMBAI,ICICI Lombard,9,,8.0,8.0,10.0
+KOLKATA,HDFC Ergo,9,,,,10.0
+AHMEDABAD,Aditya Birla Health,9,,,,10.0
+JAIPUR,HDFC Ergo,10,,10.0,9.0,9.0
+BANGALORE,Star Health,8,,8.0,7.0,9.0
+AHMEDABAD,Star Health,7,,,,8.0
+JAIPUR,ICICI Lombard,9,,,,10.0
+PUNE,Niva Bupa,6,,,,7.0
+LUDHIANA,ICICI Lombard,9,,,,10.0
+KANPUR,Niva Bupa,6,,,,8.0
+MUMBAI,ICICI Lombard,10,,,,10.0
+CHENNAI,Aditya Birla Health,9,10.0,,,
+HYDERABAD,Care Health,6,,,,8.0
+HYDERABAD,Care Health,5,,,,3.0
+AHMEDABAD,Aditya Birla Health,9,9.0,,,
+MUMBAI,Star Health,10,10.0,,,
+INDORE,Niva Bupa,7,,,,7.0
+MUMBAI,Niva Bupa,9,,8.0,10.0,10.0
+HYDERABAD,HDFC Ergo,9,,9.0,10.0,10.0
+CHENNAI,Bagic,10,,,,9.0
+MUMBAI,Aditya Birla Health,9,,,,9.0
+KANPUR,ICICI Lombard,10,,,,9.0
+CHENNAI,Bagic,9,,,,10.0
+INDORE,Aditya Birla Health,10,,9.0,8.0,9.0
+LUDHIANA,ICICI Lombard,10,,,,10.0
+JAIPUR,Star Health,6,,,,7.0
+KOLKATA,Star Health,8,,,,7.0
+LUDHIANA,Niva Bupa,9,,,,9.0
+CHENNAI,Star Health,5,,,,4.0
+CHENNAI,Care Health,5,,4.0,7.0,4.0
+INDORE,ICICI Lombard,5,,,,3.0
+DELHI,Care Health,10,10.0,10.0,9.0,
+LUDHIANA,Niva Bupa,8,,9.0,10.0,10.0
+BANGALORE,HDFC Ergo,4,,,,4.0
+HYDERABAD,Niva Bupa,9,,,,10.0
+PUNE,Aditya Birla Health,5,,7.0,4.0,3.0
+PUNE,Niva Bupa,9,,10.0,10.0,10.0
+JAIPUR,ICICI Lombard,9,,,,10.0
+KANPUR,New India Assurance,9,,,,10.0
+DELHI,Niva Bupa,6,,4.0,4.0,8.0
+LUDHIANA,Star Health,8,,,,6.0
+MUMBAI,Aditya Birla Health,7,,,,7.0
+HYDERABAD,New India Assurance,6,,,,7.0
+INDORE,New India Assurance,6,6.0,,,
+BANGALORE,New India Assurance,7,,,,9.0
+MUMBAI,Star Health,9,9.0,,,
+CHENNAI,Niva Bupa,6,,,,7.0
+BANGALORE,ICICI Lombard,10,,,,9.0
+BANGALORE,Care Health,10,10.0,,,
+HYDERABAD,ICICI Lombard,10,,,,8.0
+LUDHIANA,Bagic,7,,,,5.0
+KOLKATA,Aditya Birla Health,7,,,,9.0
+MUMBAI,Niva Bupa,9,,,,10.0
+KANPUR,HDFC Ergo,9,,,,10.0
+INDORE,HDFC Ergo,7,10.0,,,
+PUNE,Star Health,8,,10.0,9.0,6.0
+CHENNAI,ICICI Lombard,6,,5.0,6.0,3.0
+INDORE,Aditya Birla Health,5,,8.0,6.0,6.0
+PUNE,New India Assurance,9,9.0,,,
+LUDHIANA,Care Health,8,,7.0,7.0,7.0
+BANGALORE,Star Health,8,,,,8.0
+INDORE,Star Health,10,,9.0,10.0,10.0
+INDORE,HDFC Ergo,7,,9.0,9.0,8.0
+KANPUR,Care Health,9,10.0,,,
+DELHI,New India Assurance,9,9.0,7.0,9.0,
+DELHI,Aditya Birla Health,9,,,,10.0
+KANPUR,Aditya Birla Health,8,,8.0,9.0,9.0
+LUDHIANA,Aditya Birla Health,9,,,,9.0
+CHENNAI,HDFC Ergo,9,,,,8.0
+LUDHIANA,New India Assurance,5,,5.0,4.0,2.0
+HYDERABAD,Bagic,9,9.0,,,
+AHMEDABAD,New India Assurance,10,,9.0,10.0,9.0
+LUDHIANA,HDFC Ergo,9,,,,9.0
+AHMEDABAD,ICICI Lombard,9,,,,9.0
+KOLKATA,Niva Bupa,10,,9.0,8.0,9.0
+AHMEDABAD,HDFC Ergo,7,,,,8.0
+KOLKATA,Care Health,10,,,,9.0
+INDORE,Care Health,10,,10.0,10.0,9.0
+CHENNAI,Star Health,10,,,,9.0
+INDORE,Star Health,10,,,,9.0
+KOLKATA,Aditya Birla Health,7,,5.0,7.0,9.0
+KANPUR,New India Assurance,3,,,,4.0
+INDORE,HDFC Ergo,10,,10.0,9.0,9.0
+CHENNAI,Star Health,10,,,,9.0
+MUMBAI,Niva Bupa,9,,,,9.0
+MUMBAI,ICICI Lombard,6,,,,8.0
+HYDERABAD,ICICI Lombard,9,,,,10.0
+JAIPUR,Star Health,8,,,,9.0
+LUDHIANA,Niva Bupa,6,,7.0,4.0,6.0
+BANGALORE,HDFC Ergo,10,,9.0,9.0,9.0
+KANPUR,ICICI Lombard,9,7.0,8.0,9.0,
+LUDHIANA,New India Assurance,3,3.0,,,
+KOLKATA,Aditya Birla Health,9,9.0,,,
+PUNE,New India Assurance,9,,,,10.0
+KOLKATA,New India Assurance,2,,4.0,4.0,5.0
+LUDHIANA,Aditya Birla Health,10,,,,8.0
+LUDHIANA,HDFC Ergo,5,,,,4.0
+JAIPUR,New India Assurance,10,10.0,9.0,8.0,
+KOLKATA,Aditya Birla Health,10,,10.0,9.0,9.0
+MUMBAI,ICICI Lombard,9,,,,10.0
+HYDERABAD,New India Assurance,8,10.0,10.0,9.0,
+AHMEDABAD,Aditya Birla Health,9,,,,10.0
+JAIPUR,Aditya Birla Health,10,,,,8.0
+INDORE,New India Assurance,9,,,,10.0
+INDORE,Niva Bupa,3,4.0,2.0,6.0,
+LUDHIANA,ICICI Lombard,9,10.0,,,
+JAIPUR,HDFC Ergo,9,,,,10.0
+DELHI,Niva Bupa,9,,10.0,10.0,10.0
+CHENNAI,New India Assurance,8,,,,10.0
+JAIPUR,Aditya Birla Health,7,,5.0,8.0,9.0
+JAIPUR,Star Health,4,,6.0,3.0,5.0
+KANPUR,HDFC Ergo,10,,,,9.0
+LUDHIANA,New India Assurance,10,,10.0,9.0,9.0
+KANPUR,Niva Bupa,8,,,,6.0
+DELHI,Bagic,9,,,,8.0
+CHENNAI,Bagic,7,,,,8.0
+LUDHIANA,Aditya Birla Health,8,,,,9.0
+CHENNAI,HDFC Ergo,9,,,,9.0
+HYDERABAD,Aditya Birla Health,8,,,,10.0
+AHMEDABAD,Bagic,9,,,,10.0
+CHENNAI,Bagic,9,,,,10.0
+AHMEDABAD,Care Health,10,,9.0,8.0,9.0
+INDORE,Niva Bupa,10,9.0,,,
+MUMBAI,HDFC Ergo,8,,,,9.0
+INDORE,Star Health,9,,,,10.0
+JAIPUR,ICICI Lombard,9,,,,10.0
+JAIPUR,Niva Bupa,8,,,,10.0
+BANGALORE,Niva Bupa,10,,,,9.0
+INDORE,New India Assurance,9,,,,10.0
+LUDHIANA,Aditya Birla Health,10,,,,8.0
+INDORE,New India Assurance,6,,,,8.0
+DELHI,Niva Bupa,9,9.0,,,
+KANPUR,New India Assurance,6,9.0,,,
+CHENNAI,Care Health,9,,,,9.0
+LUDHIANA,Niva Bupa,9,,,,10.0
+CHENNAI,Care Health,8,,7.0,8.0,9.0
+KOLKATA,New India Assurance,8,,,,10.0
+LUDHIANA,New India Assurance,9,,10.0,9.0,9.0
+KOLKATA,Aditya Birla Health,8,10.0,7.0,8.0,
+MUMBAI,New India Assurance,8,9.0,7.0,7.0,
+KOLKATA,Niva Bupa,9,,,,10.0
+JAIPUR,Bagic,4,5.0,6.0,2.0,
+CHENNAI,ICICI Lombard,8,,,,10.0
+CHENNAI,Niva Bupa,9,,9.0,10.0,8.0
+KOLKATA,Bagic,9,,10.0,10.0,10.0
+CHENNAI,Care Health,5,,,,4.0
+AHMEDABAD,Care Health,9,,,,10.0
+HYDERABAD,Bagic,4,,,,5.0
+LUDHIANA,Care Health,6,,,,8.0
+KANPUR,New India Assurance,10,,,,8.0
+HYDERABAD,ICICI Lombard,9,,,,10.0
+KOLKATA,Care Health,8,8.0,,,
+AHMEDABAD,ICICI Lombard,8,9.0,,,
+INDORE,Star Health,9,,,,9.0
+INDORE,Aditya Birla Health,8,,10.0,10.0,10.0
+CHENNAI,Care Health,6,,7.0,7.0,8.0
+JAIPUR,Niva Bupa,7,,,,8.0
+CHENNAI,Bagic,5,,6.0,4.0,5.0
+HYDERABAD,HDFC Ergo,9,,,,9.0
+KANPUR,ICICI Lombard,6,7.0,,,
+KANPUR,New India Assurance,6,,7.0,4.0,7.0
+LUDHIANA,Aditya Birla Health,10,,10.0,9.0,9.0
+LUDHIANA,HDFC Ergo,9,,,,9.0
+LUDHIANA,Care Health,10,,,,9.0
+CHENNAI,ICICI Lombard,4,,,,2.0
+LUDHIANA,Bagic,6,,,,4.0
+PUNE,Bagic,10,,9.0,10.0,9.0
+CHENNAI,New India Assurance,7,9.0,,,
+KOLKATA,New India Assurance,3,,,,4.0
+AHMEDABAD,Bagic,9,,,,9.0
+KOLKATA,HDFC Ergo,9,,,,9.0
+INDORE,Aditya Birla Health,8,,,,8.0
+MUMBAI,Bagic,9,10.0,,,
+BANGALORE,Aditya Birla Health,6,,,,3.0
+BANGALORE,HDFC Ergo,5,,6.0,4.0,4.0
+MUMBAI,HDFC Ergo,9,,,,10.0
+DELHI,Star Health,7,5.0,,,
+HYDERABAD,ICICI Lombard,9,,10.0,10.0,9.0
+MUMBAI,Star Health,9,,9.0,10.0,9.0
+AHMEDABAD,New India Assurance,9,,,,10.0
+LUDHIANA,ICICI Lombard,10,,10.0,9.0,9.0
+KOLKATA,Niva Bupa,4,,3.0,4.0,6.0
+DELHI,ICICI Lombard,9,,10.0,9.0,9.0
+KOLKATA,Niva Bupa,7,,,,6.0
+PUNE,Star Health,10,10.0,,,
+AHMEDABAD,Niva Bupa,9,9.0,,,
+INDORE,ICICI Lombard,10,,,,9.0
+HYDERABAD,Niva Bupa,6,,,,7.0
+HYDERABAD,Niva Bupa,9,,,,10.0
+HYDERABAD,Aditya Birla Health,10,,,,9.0
+MUMBAI,Care Health,9,,7.0,8.0,10.0
+AHMEDABAD,Aditya Birla Health,7,,,,9.0
+DELHI,Care Health,4,,,,3.0
+INDORE,Aditya Birla Health,2,,,,3.0
+INDORE,Niva Bupa,9,,,,10.0
+CHENNAI,ICICI Lombard,6,6.0,,,
+KANPUR,HDFC Ergo,10,,,,9.0
+CHENNAI,Care Health,7,9.0,,,
+CHENNAI,Aditya Birla Health,8,,9.0,10.0,9.0
+CHENNAI,HDFC Ergo,8,,,,9.0
+LUDHIANA,Bagic,9,7.0,9.0,10.0,
+LUDHIANA,Care Health,8,,,,9.0
+DELHI,Aditya Birla Health,10,,10.0,9.0,9.0
+HYDERABAD,HDFC Ergo,9,,10.0,9.0,10.0
+KANPUR,Aditya Birla Health,9,,,,8.0
+LUDHIANA,ICICI Lombard,7,9.0,,,
+LUDHIANA,Bagic,10,,,,9.0
+INDORE,Bagic,10,,,,9.0
+MUMBAI,Star Health,10,,,,9.0
+HYDERABAD,Star Health,6,6.0,4.0,5.0,
+JAIPUR,Niva Bupa,4,,,,5.0
+LUDHIANA,HDFC Ergo,4,,,,5.0
+BANGALORE,ICICI Lombard,9,,9.0,9.0,10.0
+LUDHIANA,New India Assurance,6,,,,8.0
+LUDHIANA,Care Health,7,,8.0,9.0,8.0
+DELHI,Aditya Birla Health,4,,,,5.0
+KANPUR,Niva Bupa,9,9.0,,,
+LUDHIANA,ICICI Lombard,9,,10.0,10.0,10.0
+KANPUR,Care Health,10,,,,9.0
+AHMEDABAD,Niva Bupa,9,,9.0,10.0,9.0
+DELHI,HDFC Ergo,9,,,,9.0
+KANPUR,Niva Bupa,9,,,,10.0
+KANPUR,Star Health,4,,,,3.0
+LUDHIANA,New India Assurance,6,9.0,,,
+JAIPUR,Star Health,10,10.0,10.0,8.0,
+KANPUR,ICICI Lombard,9,,,,10.0
+MUMBAI,Star Health,9,,,,10.0
+BANGALORE,Care Health,9,10.0,,,
+AHMEDABAD,Aditya Birla Health,8,,,,8.0
+CHENNAI,Bagic,9,,10.0,10.0,10.0
+KOLKATA,Niva Bupa,9,10.0,,,
+PUNE,Care Health,9,,,,10.0
+HYDERABAD,Care Health,10,10.0,9.0,9.0,
+BANGALORE,ICICI Lombard,10,,,,9.0
+AHMEDABAD,Bagic,10,,,,9.0
+LUDHIANA,Star Health,7,,,,8.0
+KANPUR,HDFC Ergo,9,,,,9.0
+CHENNAI,HDFC Ergo,7,,,,8.0
+INDORE,Aditya Birla Health,9,9.0,,,
+JAIPUR,ICICI Lombard,9,,8.0,8.0,10.0
+KANPUR,Aditya Birla Health,6,,7.0,7.0,8.0
+DELHI,Aditya Birla Health,10,,,,9.0
+JAIPUR,Star Health,9,,,,9.0
+HYDERABAD,Care Health,9,,,,10.0
+CHENNAI,ICICI Lombard,6,,,,7.0
+MUMBAI,Aditya Birla Health,9,,,,10.0
+HYDERABAD,ICICI Lombard,6,,,,5.0
+KANPUR,Star Health,10,,10.0,10.0,9.0
+AHMEDABAD,Niva Bupa,9,10.0,,,
+AHMEDABAD,Care Health,7,9.0,,,
+PUNE,Care Health,8,10.0,,,
+BANGALORE,New India Assurance,8,,,,9.0
+KANPUR,Care Health,7,,9.0,8.0,8.0
+AHMEDABAD,HDFC Ergo,5,,,,6.0
+MUMBAI,Care Health,7,,8.0,8.0,7.0
+MUMBAI,ICICI Lombard,8,,,,5.0
+LUDHIANA,Bagic,9,,,,9.0
+BANGALORE,Care Health,10,,10.0,8.0,9.0
+KOLKATA,Niva Bupa,2,,,,5.0
+KOLKATA,ICICI Lombard,8,,,,9.0
+LUDHIANA,New India Assurance,8,,,,9.0
+BANGALORE,Bagic,10,10.0,,,
+CHENNAI,New India Assurance,5,,,,7.0
+LUDHIANA,Care Health,9,,,,10.0
+BANGALORE,Star Health,8,,,,9.0
+LUDHIANA,New India Assurance,8,,,,9.0
+AHMEDABAD,HDFC Ergo,6,,,,7.0
+INDORE,Bagic,10,,,,9.0
+LUDHIANA,New India Assurance,9,,,,10.0
+PUNE,Bagic,5,,,,6.0
+HYDERABAD,Aditya Birla Health,9,,,,10.0
+KANPUR,Star Health,10,,,,9.0
+KOLKATA,New India Assurance,9,,,,10.0
+JAIPUR,Aditya Birla Health,10,,,,9.0
+KOLKATA,New India Assurance,6,,6.0,4.0,8.0
+AHMEDABAD,Niva Bupa,6,,,,4.0
+MUMBAI,Star Health,10,10.0,10.0,9.0,
+BANGALORE,Aditya Birla Health,8,8.0,,,
+HYDERABAD,Aditya Birla Health,10,10.0,,,
+DELHI,Care Health,7,,8.0,9.0,8.0
+CHENNAI,Niva Bupa,6,,5.0,5.0,5.0
+PUNE,Aditya Birla Health,9,10.0,,,
+DELHI,Care Health,10,,,,9.0
+MUMBAI,Care Health,10,,,,9.0
+INDORE,Bagic,9,,10.0,9.0,9.0
+KOLKATA,ICICI Lombard,10,,,,9.0
+CHENNAI,Bagic,10,,9.0,10.0,9.0
+INDORE,Bagic,10,,,,9.0
+PUNE,Care Health,8,,10.0,9.0,9.0
+MUMBAI,Star Health,4,,2.0,2.0,6.0
+MUMBAI,Star Health,5,,,,2.0
+LUDHIANA,Star Health,9,,,,9.0
+INDORE,Care Health,3,5.0,,,
+PUNE,Bagic,9,,,,10.0
+KANPUR,Niva Bupa,9,10.0,,,
+CHENNAI,New India Assurance,9,,,,10.0
+CHENNAI,New India Assurance,9,,,,10.0
+KANPUR,Star Health,6,,7.0,7.0,5.0
+HYDERABAD,Care Health,8,,,,9.0
+KOLKATA,Care Health,9,,,,10.0
+INDORE,Niva Bupa,2,,4.0,3.0,4.0
+JAIPUR,Niva Bupa,8,,,,7.0
+DELHI,Aditya Birla Health,8,,,,9.0
+LUDHIANA,Bagic,10,,,,8.0
+INDORE,HDFC Ergo,10,,10.0,9.0,9.0
+MUMBAI,Aditya Birla Health,10,,9.0,10.0,10.0
+JAIPUR,Care Health,8,,,,9.0
+MUMBAI,Care Health,9,,,,10.0
+DELHI,Niva Bupa,6,,,,3.0
+PUNE,Niva Bupa,9,9.0,,,
+LUDHIANA,New India Assurance,10,,,,9.0
+MUMBAI,Bagic,9,,8.0,8.0,10.0
+INDORE,Star Health,8,,,,10.0
+CHENNAI,ICICI Lombard,10,,,,8.0
+LUDHIANA,Care Health,7,,,,8.0
+PUNE,Aditya Birla Health,7,,,,9.0
+KOLKATA,HDFC Ergo,9,10.0,,,
+HYDERABAD,Care Health,6,,,,7.0
+JAIPUR,Niva Bupa,9,,,,10.0
+KANPUR,New India Assurance,8,,8.0,9.0,9.0
+HYDERABAD,Niva Bupa,9,,,,9.0
+CHENNAI,Bagic,9,,10.0,10.0,10.0
+KANPUR,Care Health,9,9.0,8.0,10.0,
+PUNE,New India Assurance,8,,8.0,9.0,9.0
+KANPUR,Niva Bupa,9,,10.0,8.0,10.0
+CHENNAI,HDFC Ergo,10,,,,9.0
+INDORE,Star Health,9,,,,9.0
+JAIPUR,New India Assurance,9,,,,9.0
+KANPUR,HDFC Ergo,9,,,,10.0
+MUMBAI,Aditya Birla Health,9,,,,10.0
+PUNE,Care Health,9,,,,10.0
+CHENNAI,Aditya Birla Health,9,,10.0,8.0,10.0
+PUNE,Care Health,8,,,,9.0
+KANPUR,New India Assurance,10,,,,8.0
+BANGALORE,Care Health,10,,,,9.0
+LUDHIANA,HDFC Ergo,10,,,,8.0
+AHMEDABAD,Star Health,10,,,,9.0
+DELHI,New India Assurance,9,,9.0,10.0,10.0
+CHENNAI,New India Assurance,4,,4.0,2.0,4.0
+INDORE,Star Health,8,,,,10.0
+DELHI,New India Assurance,9,,,,10.0
+KOLKATA,Bagic,3,,,,2.0
+INDORE,Bagic,9,,10.0,10.0,10.0
+HYDERABAD,Star Health,9,,,,10.0
+LUDHIANA,Star Health,5,,,,6.0
+KANPUR,Aditya Birla Health,9,,,,9.0
+BANGALORE,Star Health,10,,10.0,9.0,9.0
+JAIPUR,New India Assurance,3,,,,5.0
+BANGALORE,New India Assurance,8,,10.0,10.0,9.0
+PUNE,Aditya Birla Health,10,,,,10.0
+INDORE,New India Assurance,8,,,,9.0
+INDORE,HDFC Ergo,8,,,,9.0
+JAIPUR,HDFC Ergo,6,,,,4.0
+KANPUR,Aditya Birla Health,6,6.0,8.0,5.0,
+BANGALORE,ICICI Lombard,6,,,,8.0
+LUDHIANA,Star Health,9,10.0,,,
+CHENNAI,Aditya Birla Health,8,9.0,,,
+JAIPUR,Care Health,10,,,,9.0
+JAIPUR,ICICI Lombard,9,,,,10.0
+PUNE,New India Assurance,7,,,,5.0
+MUMBAI,Aditya Birla Health,9,,8.0,8.0,9.0
+INDORE,HDFC Ergo,6,,,,8.0
+HYDERABAD,Bagic,9,,,,10.0
+KOLKATA,HDFC Ergo,9,,,,10.0
+BANGALORE,Star Health,10,,,,9.0
+PUNE,ICICI Lombard,5,,,,2.0
+LUDHIANA,Bagic,10,,,,9.0
+LUDHIANA,Bagic,9,,,,10.0
+DELHI,Care Health,8,9.0,,,
+HYDERABAD,Aditya Birla Health,9,,,,8.0
+INDORE,Bagic,10,,,,9.0
+PUNE,Niva Bupa,6,,,,3.0
+DELHI,Bagic,7,,,,6.0
+AHMEDABAD,ICICI Lombard,9,,,,10.0
+MUMBAI,HDFC Ergo,6,6.0,4.0,7.0,
+CHENNAI,ICICI Lombard,9,10.0,,,
+HYDERABAD,New India Assurance,9,,10.0,10.0,10.0
+DELHI,Bagic,9,,,,10.0
+JAIPUR,Aditya Birla Health,10,,,,10.0
+PUNE,Bagic,9,,9.0,10.0,10.0
+INDORE,Aditya Birla Health,9,,9.0,10.0,8.0
+LUDHIANA,Bagic,3,4.0,,,
+BANGALORE,Niva Bupa,8,,,,7.0
+MUMBAI,Niva Bupa,6,,,,8.0
+JAIPUR,Aditya Birla Health,8,,,,9.0
+MUMBAI,New India Assurance,10,,,,9.0
+KANPUR,Aditya Birla Health,9,,,,10.0
+BANGALORE,Aditya Birla Health,10,7.0,,,
+PUNE,Care Health,1,,,,2.0
+DELHI,ICICI Lombard,7,,,,6.0
+JAIPUR,Star Health,9,,,,9.0
+LUDHIANA,Bagic,8,,,,7.0
+AHMEDABAD,New India Assurance,6,,,,8.0
+JAIPUR,New India Assurance,6,,,,7.0
+CHENNAI,New India Assurance,10,10.0,,,
+CHENNAI,HDFC Ergo,5,,,,4.0
+LUDHIANA,HDFC Ergo,10,,,,9.0
+INDORE,New India Assurance,8,10.0,,,
+INDORE,ICICI Lombard,5,,4.0,3.0,6.0
+CHENNAI,ICICI Lombard,10,,10.0,9.0,9.0
+LUDHIANA,Care Health,7,7.0,8.0,5.0,
+JAIPUR,Care Health,8,,,,9.0
+MUMBAI,Aditya Birla Health,7,,,,8.0
+BANGALORE,Bagic,9,,,,10.0
+KOLKATA,Aditya Birla Health,6,6.0,,,
+KANPUR,Niva Bupa,9,,,,10.0
+BANGALORE,ICICI Lombard,9,,,,8.0
+KOLKATA,HDFC Ergo,10,,,,8.0
+AHMEDABAD,New India Assurance,10,,10.0,9.0,9.0
+JAIPUR,Care Health,9,,,,8.0
+KANPUR,ICICI Lombard,9,10.0,,,
+INDORE,HDFC Ergo,10,,,,9.0
+KOLKATA,Star Health,9,,,,10.0
+JAIPUR,Care Health,10,10.0,,,
+LUDHIANA,Bagic,9,,7.0,8.0,8.0
+INDORE,Care Health,9,,,,10.0
+PUNE,Care Health,2,7.0,2.0,6.0,
+DELHI,Star Health,10,,,,9.0
+JAIPUR,HDFC Ergo,9,,,,9.0
+DELHI,Star Health,6,,,,4.0
+PUNE,ICICI Lombard,5,5.0,,,
+AHMEDABAD,Star Health,9,,,,10.0
+INDORE,Bagic,10,10.0,10.0,9.0,
+JAIPUR,HDFC Ergo,5,,,,3.0
+AHMEDABAD,ICICI Lombard,8,,,,9.0
+BANGALORE,Star Health,10,,,,9.0
+KANPUR,Care Health,5,,,,4.0
+HYDERABAD,Star Health,10,9.0,,,
+MUMBAI,Aditya Birla Health,5,,,,4.0
+DELHI,Care Health,2,,,,4.0
+DELHI,Care Health,8,,,,7.0
+JAIPUR,New India Assurance,6,,,,5.0
+MUMBAI,Niva Bupa,9,,,,10.0
+INDORE,HDFC Ergo,9,,,,10.0
+DELHI,HDFC Ergo,9,,,,9.0
+MUMBAI,Star Health,9,,,,10.0
+LUDHIANA,Niva Bupa,9,,10.0,8.0,10.0
+PUNE,New India Assurance,6,,4.0,5.0,8.0
+KOLKATA,New India Assurance,7,,8.0,8.0,8.0
+KANPUR,Care Health,9,,,,9.0
+AHMEDABAD,HDFC Ergo,9,10.0,10.0,10.0,
+BANGALORE,Niva Bupa,9,,,,10.0
+KANPUR,Star Health,8,,,,9.0
+KOLKATA,New India Assurance,9,,,,10.0
+MUMBAI,HDFC Ergo,10,,,,9.0
+KANPUR,HDFC Ergo,7,,,,8.0
+JAIPUR,New India Assurance,8,,,,9.0
+KOLKATA,Niva Bupa,10,,,,9.0
+DELHI,Aditya Birla Health,9,,,,10.0
+CHENNAI,Star Health,8,,9.0,10.0,9.0
+KOLKATA,Niva Bupa,9,,,,9.0
+LUDHIANA,New India Assurance,4,,,,6.0
+JAIPUR,Star Health,7,,,,5.0
+KOLKATA,ICICI Lombard,10,,,,9.0
+JAIPUR,Star Health,6,,,,7.0
+KOLKATA,Star Health,7,9.0,,,
+DELHI,Aditya Birla Health,8,,,,9.0
+JAIPUR,Care Health,8,,,,10.0
+KOLKATA,Niva Bupa,6,,5.0,7.0,7.0
+PUNE,HDFC Ergo,10,,,,9.0
+DELHI,Niva Bupa,9,,9.0,8.0,9.0
+INDORE,Star Health,9,,,,9.0
+KANPUR,Niva Bupa,9,,,,9.0
+KANPUR,Niva Bupa,9,9.0,9.0,9.0,
+LUDHIANA,New India Assurance,4,4.0,,,
+LUDHIANA,Bagic,7,,9.0,8.0,8.0
+HYDERABAD,New India Assurance,9,,10.0,9.0,10.0
+BANGALORE,Aditya Birla Health,8,,,,7.0
+DELHI,Care Health,10,,,,8.0
+INDORE,Bagic,6,,,,5.0
+KANPUR,Bagic,10,,,,9.0
+DELHI,ICICI Lombard,5,,,,4.0
+PUNE,HDFC Ergo,6,,,,8.0
+JAIPUR,ICICI Lombard,5,,,,4.0
+CHENNAI,Bagic,8,,9.0,10.0,7.0
+HYDERABAD,Aditya Birla Health,6,,7.0,5.0,4.0
+HYDERABAD,Niva Bupa,9,,,,10.0
+MUMBAI,ICICI Lombard,9,9.0,,,
+JAIPUR,Bagic,8,,10.0,9.0,7.0
+AHMEDABAD,HDFC Ergo,9,9.0,,,
+LUDHIANA,HDFC Ergo,7,,,,8.0
+KOLKATA,Care Health,10,,10.0,9.0,9.0
+JAIPUR,New India Assurance,9,,9.0,10.0,10.0
+HYDERABAD,Niva Bupa,9,,,,9.0
+HYDERABAD,New India Assurance,6,4.0,5.0,6.0,
+AHMEDABAD,ICICI Lombard,7,,,,6.0
+DELHI,Star Health,9,,,,10.0
+DELHI,ICICI Lombard,9,10.0,,,
+MUMBAI,Aditya Birla Health,9,,,,10.0
+BANGALORE,ICICI Lombard,5,,,,4.0
+AHMEDABAD,Star Health,9,9.0,,,
+PUNE,Niva Bupa,4,,,,6.0
+BANGALORE,Care Health,2,5.0,3.0,5.0,
+KANPUR,ICICI Lombard,7,,,,9.0
+BANGALORE,Care Health,8,8.0,,,
+KANPUR,New India Assurance,8,,,,6.0
+BANGALORE,New India Assurance,9,,,,10.0
+HYDERABAD,Bagic,9,,10.0,8.0,10.0
+JAIPUR,Star Health,9,,,,9.0
+HYDERABAD,New India Assurance,9,,,,10.0
+MUMBAI,Niva Bupa,9,,9.0,9.0,9.0
+BANGALORE,Aditya Birla Health,8,,,,9.0
+CHENNAI,New India Assurance,10,,,,8.0
+CHENNAI,New India Assurance,9,,8.0,8.0,10.0
+MUMBAI,HDFC Ergo,9,,,,10.0
+LUDHIANA,ICICI Lombard,9,,,,10.0
+BANGALORE,Bagic,10,,10.0,8.0,9.0
+INDORE,Bagic,6,6.0,5.0,6.0,
+JAIPUR,ICICI Lombard,8,,9.0,10.0,9.0
+INDORE,HDFC Ergo,8,,,,9.0
+DELHI,Care Health,9,10.0,,,
+BANGALORE,HDFC Ergo,10,,,,9.0
+DELHI,HDFC Ergo,6,,,,3.0
+INDORE,Niva Bupa,10,,,,9.0
+PUNE,ICICI Lombard,9,,,,10.0
+LUDHIANA,New India Assurance,9,,9.0,8.0,10.0
+PUNE,ICICI Lombard,9,,,,10.0
+BANGALORE,Aditya Birla Health,8,,7.0,8.0,9.0
+BANGALORE,Aditya Birla Health,9,,,,10.0
+KANPUR,HDFC Ergo,9,9.0,,,
+MUMBAI,Niva Bupa,9,9.0,10.0,8.0,
+PUNE,Aditya Birla Health,10,,,,9.0
+AHMEDABAD,Star Health,8,,,,10.0
+INDORE,Care Health,6,,8.0,5.0,7.0
+LUDHIANA,New India Assurance,10,,,,10.0
+INDORE,HDFC Ergo,9,,,,10.0
+INDORE,Care Health,2,,,,5.0
+JAIPUR,Star Health,7,10.0,,,
+INDORE,Care Health,10,,10.0,9.0,9.0
+AHMEDABAD,Care Health,6,,,,6.0
+MUMBAI,Niva Bupa,10,,,,9.0
+HYDERABAD,Niva Bupa,7,9.0,7.0,6.0,
+HYDERABAD,Niva Bupa,10,10.0,,,
+DELHI,HDFC Ergo,9,,10.0,9.0,10.0
+BANGALORE,HDFC Ergo,9,,,,10.0
+AHMEDABAD,Niva Bupa,9,9.0,10.0,9.0,
+KOLKATA,Care Health,10,,,,9.0
+AHMEDABAD,HDFC Ergo,9,,,,9.0
+INDORE,ICICI Lombard,5,,,,6.0
+AHMEDABAD,HDFC Ergo,9,,,,10.0
+KANPUR,ICICI Lombard,4,,3.0,3.0,3.0
+KANPUR,Bagic,10,,,,9.0
+INDORE,New India Assurance,8,10.0,,,
+PUNE,Aditya Birla Health,9,,,,10.0
+BANGALORE,Niva Bupa,9,,,,10.0
+DELHI,Care Health,9,,,,10.0
+DELHI,New India Assurance,7,,8.0,8.0,8.0
+JAIPUR,Niva Bupa,9,8.0,,,
+INDORE,Care Health,8,,,,9.0
+HYDERABAD,Star Health,9,,,,10.0
+INDORE,Aditya Birla Health,9,,,,9.0
+KANPUR,HDFC Ergo,10,,,,9.0
+CHENNAI,Star Health,7,,,,8.0
+KOLKATA,Care Health,4,,,,5.0
+DELHI,HDFC Ergo,9,,,,8.0
+KANPUR,Niva Bupa,7,7.0,,,
+KOLKATA,Care Health,8,,,,7.0
+KOLKATA,HDFC Ergo,9,,,,9.0
+JAIPUR,HDFC Ergo,9,,,,8.0
+JAIPUR,Bagic,10,,9.0,9.0,9.0
+BANGALORE,Star Health,9,,9.0,9.0,9.0
+CHENNAI,Niva Bupa,9,,,,9.0
+INDORE,ICICI Lombard,9,10.0,,,
+JAIPUR,New India Assurance,9,,9.0,8.0,10.0
+KOLKATA,Niva Bupa,9,,8.0,9.0,10.0
+DELHI,ICICI Lombard,9,,,,10.0
+BANGALORE,Aditya Birla Health,7,,,,8.0
+MUMBAI,Niva Bupa,7,,,,8.0
+KOLKATA,ICICI Lombard,9,,,,9.0
+PUNE,Care Health,5,,,,6.0
+AHMEDABAD,New India Assurance,9,,,,10.0
+KANPUR,HDFC Ergo,9,9.0,,,
+LUDHIANA,Care Health,9,,,,10.0
+MUMBAI,Care Health,10,,,,9.0
+JAIPUR,New India Assurance,9,10.0,9.0,10.0,
+BANGALORE,Niva Bupa,9,,,,10.0
+DELHI,Bagic,10,,9.0,9.0,10.0
+LUDHIANA,Care Health,8,,,,9.0
+HYDERABAD,Niva Bupa,10,,,,10.0
+MUMBAI,Aditya Birla Health,3,,,,5.0
+BANGALORE,Star Health,10,,,,9.0
+MUMBAI,ICICI Lombard,9,,10.0,10.0,10.0
+AHMEDABAD,New India Assurance,10,,,,8.0
+AHMEDABAD,New India Assurance,8,,9.0,9.0,10.0
+INDORE,Bagic,10,,9.0,10.0,9.0
+JAIPUR,HDFC Ergo,9,,10.0,8.0,9.0
+JAIPUR,Niva Bupa,7,,6.0,7.0,8.0
+PUNE,ICICI Lombard,9,,,,9.0
+KANPUR,Bagic,9,,,,8.0
+INDORE,Aditya Birla Health,8,,10.0,7.0,9.0
+BANGALORE,Star Health,6,,,,7.0
+HYDERABAD,New India Assurance,8,,9.0,9.0,9.0
+MUMBAI,Care Health,7,,,,6.0
+DELHI,HDFC Ergo,6,,8.0,9.0,6.0
+LUDHIANA,Niva Bupa,8,,,,7.0
+INDORE,New India Assurance,9,,,,10.0
+AHMEDABAD,Care Health,9,,,,10.0
+KOLKATA,Aditya Birla Health,8,,,,9.0
+CHENNAI,New India Assurance,2,,,,3.0
+MUMBAI,HDFC Ergo,9,,,,10.0
+JAIPUR,New India Assurance,8,,,,6.0
+CHENNAI,Care Health,10,,,,9.0
+MUMBAI,Care Health,10,9.0,,,
+CHENNAI,Aditya Birla Health,9,9.0,,,
+INDORE,Niva Bupa,9,,10.0,8.0,10.0
+JAIPUR,Bagic,9,,,,10.0
+PUNE,HDFC Ergo,9,,,,9.0
+BANGALORE,HDFC Ergo,10,,,,9.0
+JAIPUR,Bagic,10,,,,8.0
+LUDHIANA,Care Health,7,,,,7.0
+CHENNAI,HDFC Ergo,9,,,,8.0
+CHENNAI,HDFC Ergo,8,,,,9.0
+AHMEDABAD,Aditya Birla Health,10,,9.0,9.0,9.0
+PUNE,Care Health,4,,6.0,2.0,3.0
+BANGALORE,Star Health,10,,,,9.0
+JAIPUR,Care Health,6,,,,8.0
+BANGALORE,HDFC Ergo,8,,,,7.0
+HYDERABAD,New India Assurance,9,9.0,,,
+HYDERABAD,Star Health,8,,,,7.0
+PUNE,Star Health,7,8.0,,,
+PUNE,New India Assurance,9,,,,10.0
+AHMEDABAD,Niva Bupa,7,,8.0,5.0,8.0
+MUMBAI,New India Assurance,4,,,,2.0
+INDORE,New India Assurance,10,,,,9.0
+AHMEDABAD,Aditya Birla Health,10,,,,9.0
+BANGALORE,Aditya Birla Health,6,8.0,,,
+AHMEDABAD,Bagic,4,,,,2.0
+INDORE,Bagic,10,,,,9.0
+LUDHIANA,Care Health,9,,,,8.0
+PUNE,Star Health,10,,,,9.0
+JAIPUR,Niva Bupa,9,,,,10.0
+MUMBAI,ICICI Lombard,9,,10.0,9.0,10.0
+INDORE,Care Health,7,,,,8.0
+KANPUR,ICICI Lombard,9,,,,10.0
+DELHI,HDFC Ergo,8,,,,9.0
+AHMEDABAD,Bagic,5,7.0,7.0,6.0,
+DELHI,New India Assurance,9,,10.0,10.0,9.0
+MUMBAI,ICICI Lombard,6,,,,8.0
+HYDERABAD,Bagic,9,,10.0,10.0,10.0
+INDORE,Star Health,10,,,,9.0
+JAIPUR,Bagic,9,,10.0,10.0,9.0
+KANPUR,HDFC Ergo,9,,10.0,9.0,8.0
+AHMEDABAD,Niva Bupa,10,,,,10.0
+JAIPUR,HDFC Ergo,10,,,,9.0
+INDORE,ICICI Lombard,8,,,,10.0
+PUNE,New India Assurance,5,,,,7.0
+HYDERABAD,Bagic,10,10.0,,,
+MUMBAI,ICICI Lombard,9,,10.0,9.0,10.0
+INDORE,Niva Bupa,7,,6.0,9.0,6.0
+PUNE,Star Health,9,,,,9.0
+INDORE,Aditya Birla Health,10,,,,8.0
+LUDHIANA,Aditya Birla Health,10,,,,9.0
+MUMBAI,HDFC Ergo,9,,,,10.0
+PUNE,HDFC Ergo,9,8.0,,,
+BANGALORE,Care Health,9,,,,10.0
+HYDERABAD,New India Assurance,7,,,,9.0
+KOLKATA,Care Health,9,,,,9.0
+MUMBAI,New India Assurance,9,,,,10.0
+KOLKATA,Aditya Birla Health,8,10.0,,,
+INDORE,Aditya Birla Health,4,,,,2.0
+PUNE,Star Health,10,,10.0,10.0,9.0
+KANPUR,Star Health,9,7.0,9.0,10.0,
+MUMBAI,Star Health,10,,,,9.0
+LUDHIANA,Star Health,9,,,,10.0
+KANPUR,New India Assurance,7,,,,5.0
+HYDERABAD,Bagic,10,,,,9.0
+KANPUR,ICICI Lombard,10,,,,9.0
+DELHI,Care Health,6,,,,8.0
+BANGALORE,ICICI Lombard,9,,,,8.0
+KOLKATA,Star Health,9,,9.0,9.0,7.0
+MUMBAI,Star Health,10,9.0,,,
+CHENNAI,New India Assurance,9,,,,10.0
+JAIPUR,New India Assurance,9,10.0,,,
+AHMEDABAD,Aditya Birla Health,5,,,,6.0
+INDORE,Care Health,7,,,,8.0
+PUNE,Care Health,9,,,,10.0
+KOLKATA,HDFC Ergo,10,,,,9.0
+DELHI,Aditya Birla Health,9,10.0,9.0,10.0,
+AHMEDABAD,ICICI Lombard,8,,,,6.0
+BANGALORE,ICICI Lombard,7,10.0,,,
+INDORE,Care Health,8,,8.0,10.0,9.0
+KOLKATA,Aditya Birla Health,8,,,,7.0
+PUNE,Niva Bupa,9,,,,10.0
+LUDHIANA,Care Health,9,,,,10.0
+LUDHIANA,Aditya Birla Health,10,,,,9.0
+MUMBAI,HDFC Ergo,5,5.0,4.0,7.0,
+MUMBAI,Aditya Birla Health,9,,7.0,10.0,9.0
+AHMEDABAD,ICICI Lombard,9,,,,10.0
+KOLKATA,Care Health,9,,,,10.0
+KOLKATA,Bagic,9,,10.0,10.0,10.0
+PUNE,New India Assurance,10,,,,9.0
+HYDERABAD,HDFC Ergo,9,,,,10.0
+JAIPUR,New India Assurance,3,,,,2.0
+HYDERABAD,Niva Bupa,9,9.0,,,
+DELHI,Aditya Birla Health,9,,,,10.0
+JAIPUR,Niva Bupa,9,,,,10.0
+PUNE,ICICI Lombard,9,,,,10.0
+PUNE,New India Assurance,7,,,,8.0
+KANPUR,Bagic,10,,9.0,10.0,8.0
+PUNE,HDFC Ergo,10,10.0,,,
+KOLKATA,ICICI Lombard,9,9.0,10.0,10.0,
+MUMBAI,Aditya Birla Health,8,,,,9.0
+BANGALORE,Niva Bupa,9,,10.0,10.0,10.0
+CHENNAI,New India Assurance,7,,7.0,9.0,9.0
+DELHI,Care Health,9,,,,10.0
+AHMEDABAD,Bagic,9,10.0,,,
+AHMEDABAD,Care Health,9,,10.0,8.0,9.0
+KANPUR,Care Health,9,,,,10.0
+HYDERABAD,Care Health,8,,,,10.0
+BANGALORE,ICICI Lombard,10,,9.0,10.0,9.0
+DELHI,Aditya Birla Health,10,,,,9.0
+INDORE,HDFC Ergo,10,,,,9.0
+JAIPUR,Care Health,9,8.0,,,
+KOLKATA,Star Health,9,,9.0,10.0,9.0
+JAIPUR,Care Health,6,,6.0,7.0,8.0
+KANPUR,Niva Bupa,7,,,,9.0
+LUDHIANA,ICICI Lombard,7,4.0,5.0,7.0,
+KOLKATA,ICICI Lombard,2,,,,5.0
+DELHI,Niva Bupa,9,10.0,10.0,9.0,
+KOLKATA,Star Health,8,,,,6.0
+KANPUR,Care Health,7,10.0,9.0,9.0,
+PUNE,Bagic,9,10.0,10.0,9.0,
+DELHI,New India Assurance,9,,10.0,10.0,10.0
+DELHI,ICICI Lombard,9,,,,10.0
+MUMBAI,Niva Bupa,10,,10.0,9.0,9.0
+PUNE,Star Health,10,9.0,,,
+HYDERABAD,HDFC Ergo,9,,9.0,10.0,9.0
+MUMBAI,ICICI Lombard,10,,,,10.0
+KOLKATA,Bagic,5,,,,3.0
+PUNE,Bagic,10,,9.0,9.0,10.0
+INDORE,Niva Bupa,6,,7.0,7.0,3.0
+CHENNAI,Bagic,9,,9.0,9.0,10.0
+CHENNAI,ICICI Lombard,9,9.0,,,
+BANGALORE,New India Assurance,10,8.0,10.0,10.0,
+KOLKATA,ICICI Lombard,8,,9.0,10.0,6.0
+JAIPUR,Aditya Birla Health,8,,,,9.0
+PUNE,Aditya Birla Health,7,8.0,,,
+BANGALORE,Niva Bupa,6,,,,8.0
+KANPUR,HDFC Ergo,9,,,,9.0
+KOLKATA,Care Health,9,,,,10.0
+LUDHIANA,Bagic,9,,,,9.0
+CHENNAI,HDFC Ergo,7,,,,8.0
+KANPUR,Care Health,10,,,,8.0
+MUMBAI,Bagic,8,,9.0,10.0,10.0
+HYDERABAD,ICICI Lombard,10,,,,9.0
+DELHI,Niva Bupa,8,,9.0,7.0,6.0
+LUDHIANA,New India Assurance,2,3.0,,,
+MUMBAI,New India Assurance,8,,9.0,8.0,9.0
+HYDERABAD,Aditya Birla Health,10,,,,9.0
+AHMEDABAD,HDFC Ergo,10,9.0,,,
+CHENNAI,Care Health,3,,,,2.0
+KOLKATA,Niva Bupa,9,,,,9.0
+DELHI,Star Health,8,10.0,,,
+HYDERABAD,ICICI Lombard,10,,10.0,10.0,9.0
+KOLKATA,Niva Bupa,3,,5.0,6.0,5.0
+BANGALORE,Niva Bupa,8,,,,7.0
+AHMEDABAD,Star Health,10,10.0,,,
+INDORE,Care Health,10,,,,9.0
+KOLKATA,Star Health,8,,,,9.0
+JAIPUR,Niva Bupa,9,10.0,10.0,9.0,
+KANPUR,Bagic,10,10.0,,,
+CHENNAI,ICICI Lombard,9,,,,10.0
+INDORE,Star Health,9,,,,9.0
+KOLKATA,Aditya Birla Health,9,,,,8.0
+LUDHIANA,Aditya Birla Health,8,,,,9.0
+CHENNAI,New India Assurance,7,,,,9.0
+HYDERABAD,Star Health,9,,,,10.0
+CHENNAI,ICICI Lombard,10,10.0,,,
+PUNE,HDFC Ergo,9,,,,8.0
+AHMEDABAD,Niva Bupa,9,,,,10.0
+PUNE,Niva Bupa,9,,,,8.0
+CHENNAI,Star Health,6,,,,7.0
+PUNE,HDFC Ergo,9,,,,10.0
+JAIPUR,Care Health,6,,4.0,7.0,6.0
+AHMEDABAD,Star Health,10,,,,9.0
+DELHI,Star Health,10,,10.0,9.0,9.0
+AHMEDABAD,Care Health,10,,,,9.0
+BANGALORE,Bagic,9,,,,9.0
+KANPUR,Bagic,9,10.0,,,
+MUMBAI,Niva Bupa,6,,,,8.0
+INDORE,Care Health,10,,10.0,9.0,9.0
+LUDHIANA,ICICI Lombard,8,,,,7.0
+KANPUR,Star Health,9,,10.0,9.0,9.0
+HYDERABAD,Star Health,8,,,,6.0
+HYDERABAD,Niva Bupa,6,,,,3.0
+DELHI,ICICI Lombard,9,,,,8.0
+DELHI,New India Assurance,8,,10.0,10.0,9.0
+MUMBAI,HDFC Ergo,5,7.0,,,
+DELHI,New India Assurance,10,10.0,,,
+PUNE,New India Assurance,10,,,,9.0
+KOLKATA,Star Health,10,,,,10.0
+HYDERABAD,Bagic,9,,,,9.0
+LUDHIANA,Bagic,9,,,,8.0
+KANPUR,New India Assurance,8,5.0,9.0,10.0,
+DELHI,ICICI Lombard,9,,,,9.0
+INDORE,ICICI Lombard,9,,9.0,10.0,10.0
+PUNE,Care Health,10,,,,8.0
+CHENNAI,New India Assurance,9,,,,8.0
+BANGALORE,Aditya Birla Health,7,,,,9.0
+KANPUR,Aditya Birla Health,9,,,,10.0
+KANPUR,HDFC Ergo,10,,10.0,9.0,9.0
+HYDERABAD,Aditya Birla Health,10,,,,8.0
+DELHI,Bagic,10,,,,9.0
+HYDERABAD,Aditya Birla Health,7,,8.0,6.0,8.0
+CHENNAI,ICICI Lombard,8,,,,7.0
+HYDERABAD,Star Health,10,,,,9.0
+INDORE,Bagic,10,,,,9.0
+KOLKATA,HDFC Ergo,10,,10.0,10.0,9.0
+MUMBAI,Niva Bupa,9,,,,9.0
+LUDHIANA,Bagic,9,,9.0,10.0,10.0
+MUMBAI,Niva Bupa,9,,,,9.0
+JAIPUR,Niva Bupa,9,,,,10.0
+LUDHIANA,Care Health,6,,,,8.0
+KOLKATA,ICICI Lombard,9,5.0,,,
+DELHI,Niva Bupa,6,,7.0,7.0,7.0
+JAIPUR,Care Health,10,,9.0,9.0,9.0
+INDORE,Niva Bupa,3,,,,5.0
+AHMEDABAD,Aditya Birla Health,9,,,,10.0
+LUDHIANA,Niva Bupa,9,,,,10.0
+BANGALORE,Bagic,6,,,,8.0
+DELHI,ICICI Lombard,7,,,,8.0
+PUNE,Care Health,9,10.0,,,
+HYDERABAD,Star Health,8,,,,7.0
+MUMBAI,Care Health,8,10.0,,,
+INDORE,New India Assurance,8,,,,7.0
+CHENNAI,Aditya Birla Health,9,,,,10.0
+DELHI,New India Assurance,8,,,,7.0
+JAIPUR,Niva Bupa,9,,,,9.0
+BANGALORE,HDFC Ergo,8,,,,9.0
+LUDHIANA,Bagic,9,,,,9.0
+PUNE,Niva Bupa,9,,,,10.0
+KANPUR,Bagic,10,,,,9.0
+BANGALORE,HDFC Ergo,8,,,,9.0
+HYDERABAD,Aditya Birla Health,6,,,,8.0
+MUMBAI,New India Assurance,4,,,,2.0
+LUDHIANA,Aditya Birla Health,8,,,,7.0
+BANGALORE,New India Assurance,9,,8.0,9.0,10.0
+CHENNAI,Niva Bupa,10,,,,9.0
+PUNE,Niva Bupa,9,,,,9.0
+PUNE,Care Health,7,,5.0,5.0,8.0
+HYDERABAD,Star Health,6,,,,7.0
+KANPUR,HDFC Ergo,9,,10.0,9.0,9.0
+HYDERABAD,ICICI Lombard,10,,10.0,9.0,9.0
+CHENNAI,New India Assurance,7,,7.0,6.0,9.0
+PUNE,New India Assurance,9,,,,10.0
+MUMBAI,Care Health,9,,,,10.0
+JAIPUR,HDFC Ergo,9,,10.0,9.0,9.0
+AHMEDABAD,Bagic,9,9.0,,,
+BANGALORE,New India Assurance,6,,,,8.0
+KANPUR,New India Assurance,4,9.0,5.0,3.0,
+INDORE,Niva Bupa,5,,5.0,3.0,4.0
+CHENNAI,Star Health,9,,,,9.0
+MUMBAI,Star Health,9,,,,9.0
+CHENNAI,Care Health,4,,,,6.0
+CHENNAI,Niva Bupa,10,,10.0,9.0,9.0
+CHENNAI,HDFC Ergo,2,,,,3.0
+HYDERABAD,New India Assurance,9,10.0,,,
+INDORE,Star Health,8,,,,9.0
+DELHI,New India Assurance,10,,9.0,10.0,9.0
+JAIPUR,Bagic,9,9.0,,,
+JAIPUR,New India Assurance,9,,,,10.0
+AHMEDABAD,Care Health,8,,10.0,7.0,7.0
+BANGALORE,Star Health,7,4.0,8.0,9.0,
+DELHI,Aditya Birla Health,7,,,,9.0
+PUNE,New India Assurance,6,,,,7.0
+AHMEDABAD,Bagic,9,,,,10.0
+KOLKATA,ICICI Lombard,9,,,,9.0
+HYDERABAD,Star Health,9,,,,10.0
+PUNE,Niva Bupa,8,10.0,,,
+CHENNAI,Star Health,8,,,,7.0
+HYDERABAD,Bagic,9,,,,10.0
+PUNE,Aditya Birla Health,10,,,,9.0
+LUDHIANA,HDFC Ergo,8,,,,8.0
+KOLKATA,HDFC Ergo,3,,,,2.0
+KANPUR,New India Assurance,9,,,,10.0
+HYDERABAD,ICICI Lombard,10,,,,9.0
+INDORE,Bagic,9,,,,10.0
+BANGALORE,Aditya Birla Health,8,,,,8.0
+BANGALORE,Star Health,6,6.0,,,
+KOLKATA,Star Health,7,8.0,,,
+BANGALORE,Bagic,10,,,,9.0
+CHENNAI,Niva Bupa,4,,,,3.0
+CHENNAI,Niva Bupa,7,8.0,,,
+KOLKATA,Aditya Birla Health,8,,,,9.0
+JAIPUR,Star Health,9,10.0,,,
+HYDERABAD,Star Health,9,,7.0,9.0,10.0
+DELHI,Niva Bupa,6,9.0,6.0,5.0,
+HYDERABAD,ICICI Lombard,7,,,,6.0
+PUNE,Bagic,9,,,,8.0
+BANGALORE,Aditya Birla Health,8,,,,10.0
+MUMBAI,Star Health,7,,,,8.0
+AHMEDABAD,Niva Bupa,9,10.0,,,
+CHENNAI,Aditya Birla Health,6,,,,8.0
+HYDERABAD,HDFC Ergo,9,,,,10.0
+JAIPUR,ICICI Lombard,9,,,,10.0
+KANPUR,Niva Bupa,9,,10.0,9.0,10.0
+HYDERABAD,Care Health,9,,,,9.0
+BANGALORE,New India Assurance,8,,,,9.0
+AHMEDABAD,Star Health,9,9.0,,,
+MUMBAI,Bagic,10,,,,9.0
+CHENNAI,Aditya Birla Health,9,,,,10.0
+JAIPUR,Bagic,9,,10.0,9.0,10.0
+AHMEDABAD,Aditya Birla Health,9,10.0,,,
+LUDHIANA,Niva Bupa,6,,5.0,4.0,8.0
+HYDERABAD,HDFC Ergo,10,,9.0,9.0,9.0
+BANGALORE,Niva Bupa,9,,,,10.0
+LUDHIANA,Niva Bupa,9,,,,10.0
+INDORE,Bagic,9,,,,10.0
+BANGALORE,ICICI Lombard,8,,,,10.0
+PUNE,ICICI Lombard,8,8.0,,,
+KANPUR,Star Health,8,,,,9.0
+BANGALORE,Niva Bupa,10,,,,8.0
+CHENNAI,Star Health,10,,9.0,9.0,9.0
+DELHI,Care Health,8,,,,9.0
+DELHI,ICICI Lombard,9,,,,10.0
+MUMBAI,HDFC Ergo,10,,9.0,9.0,9.0
+PUNE,Care Health,9,,10.0,9.0,10.0
+HYDERABAD,Care Health,9,,,,10.0
+PUNE,HDFC Ergo,8,8.0,,,
+BANGALORE,Care Health,10,,9.0,10.0,9.0
+JAIPUR,Aditya Birla Health,3,,,,2.0
+LUDHIANA,Aditya Birla Health,10,,,,8.0
+HYDERABAD,ICICI Lombard,9,,7.0,9.0,9.0
+CHENNAI,Aditya Birla Health,9,,10.0,10.0,10.0
+DELHI,ICICI Lombard,9,10.0,8.0,10.0,
+KANPUR,New India Assurance,10,9.0,10.0,9.0,
+KOLKATA,Star Health,9,,10.0,9.0,8.0
+PUNE,HDFC Ergo,7,,9.0,10.0,8.0
+HYDERABAD,HDFC Ergo,7,,,,9.0
+CHENNAI,New India Assurance,9,,,,10.0
+KOLKATA,Bagic,9,10.0,,,
+KOLKATA,Care Health,7,,9.0,6.0,7.0
+HYDERABAD,HDFC Ergo,4,,,,5.0
+KOLKATA,Bagic,9,10.0,,,
+KANPUR,ICICI Lombard,10,,10.0,9.0,9.0
+DELHI,Care Health,10,8.0,,,
+KOLKATA,HDFC Ergo,9,,,,10.0
+JAIPUR,Niva Bupa,5,7.0,,,
+CHENNAI,Bagic,9,,10.0,9.0,10.0
+KANPUR,Star Health,10,10.0,,,
+JAIPUR,New India Assurance,8,9.0,,,
+JAIPUR,Star Health,9,,,,10.0
+HYDERABAD,Star Health,7,8.0,,,
+BANGALORE,HDFC Ergo,10,,,,8.0
+AHMEDABAD,Care Health,4,,6.0,5.0,3.0
+KOLKATA,Aditya Birla Health,9,,,,9.0
+CHENNAI,Star Health,9,10.0,9.0,10.0,
+CHENNAI,Care Health,7,,,,6.0
+JAIPUR,Care Health,10,,10.0,9.0,9.0
+INDORE,New India Assurance,10,9.0,10.0,9.0,
+KANPUR,New India Assurance,8,,,,9.0
+INDORE,New India Assurance,10,,,,9.0
+KANPUR,Bagic,9,,10.0,8.0,10.0
+HYDERABAD,Niva Bupa,9,,,,10.0
+INDORE,HDFC Ergo,9,9.0,,,
+JAIPUR,Bagic,10,,,,9.0
+CHENNAI,Bagic,9,,10.0,10.0,9.0
+JAIPUR,Bagic,9,,,,10.0
+BANGALORE,Aditya Birla Health,9,,10.0,9.0,10.0
+INDORE,HDFC Ergo,10,,,,10.0
+KOLKATA,Bagic,9,10.0,,,
+LUDHIANA,Niva Bupa,10,10.0,10.0,9.0,
+BANGALORE,Bagic,9,9.0,10.0,10.0,
+AHMEDABAD,ICICI Lombard,5,,7.0,4.0,2.0
+CHENNAI,Aditya Birla Health,9,,,,10.0
+KOLKATA,ICICI Lombard,7,,,,9.0
+MUMBAI,Bagic,9,,9.0,10.0,9.0
+CHENNAI,Niva Bupa,10,,,,9.0
+JAIPUR,Bagic,9,,,,10.0
+KANPUR,Star Health,9,,,,10.0
+AHMEDABAD,Bagic,9,,,,9.0
+AHMEDABAD,New India Assurance,9,10.0,,,
+KOLKATA,Care Health,9,,,,8.0
+LUDHIANA,ICICI Lombard,7,,,,9.0
+LUDHIANA,ICICI Lombard,9,,,,10.0
+PUNE,HDFC Ergo,4,5.0,,,
+LUDHIANA,Niva Bupa,10,,,,9.0
+BANGALORE,New India Assurance,4,,,,2.0
+PUNE,Bagic,8,,,,7.0
+HYDERABAD,Bagic,7,,10.0,9.0,6.0
+BANGALORE,Care Health,10,,,,10.0
+KANPUR,New India Assurance,9,,7.0,9.0,8.0
+INDORE,Care Health,7,,,,8.0
+HYDERABAD,HDFC Ergo,8,,,,9.0
+MUMBAI,Star Health,7,,,,5.0
+KOLKATA,New India Assurance,9,10.0,,,
+PUNE,Aditya Birla Health,8,,8.0,9.0,10.0
+INDORE,Bagic,9,,,,10.0
+KANPUR,Care Health,10,,,,9.0
+JAIPUR,Care Health,10,7.0,,,
+AHMEDABAD,Care Health,6,,5.0,4.0,6.0
+KOLKATA,ICICI Lombard,9,,9.0,10.0,9.0
+LUDHIANA,New India Assurance,10,,,,9.0
+PUNE,Care Health,10,,9.0,8.0,9.0
+INDORE,Care Health,10,,,,9.0
+KANPUR,Star Health,9,,9.0,10.0,10.0
+CHENNAI,HDFC Ergo,9,,,,9.0
+INDORE,Niva Bupa,9,,,,10.0
+KANPUR,HDFC Ergo,9,,,,8.0
+INDORE,Star Health,8,,,,7.0
+DELHI,ICICI Lombard,8,,,,10.0
+BANGALORE,ICICI Lombard,8,9.0,,,
+KOLKATA,Aditya Birla Health,9,,,,10.0
+LUDHIANA,ICICI Lombard,9,9.0,9.0,8.0,
+KOLKATA,Star Health,10,,9.0,8.0,9.0
+CHENNAI,Star Health,7,,5.0,6.0,6.0
+HYDERABAD,ICICI Lombard,10,,,,8.0
+PUNE,HDFC Ergo,7,9.0,,,
+AHMEDABAD,Bagic,9,,8.0,10.0,9.0
+INDORE,Care Health,3,8.0,,,
+MUMBAI,New India Assurance,7,,6.0,6.0,8.0
+HYDERABAD,Star Health,10,10.0,,,
+PUNE,HDFC Ergo,9,9.0,,,
+HYDERABAD,Bagic,9,9.0,,,
+AHMEDABAD,ICICI Lombard,9,,7.0,8.0,8.0
+MUMBAI,Niva Bupa,6,,,,7.0
+KANPUR,Star Health,10,,,,9.0
+JAIPUR,Bagic,9,,,,8.0
+MUMBAI,Bagic,8,,8.0,9.0,6.0
+HYDERABAD,Bagic,9,,,,10.0
+PUNE,Bagic,9,,9.0,8.0,10.0
+AHMEDABAD,HDFC Ergo,8,,,,7.0
+INDORE,Niva Bupa,7,,,,8.0
+JAIPUR,ICICI Lombard,9,8.0,10.0,10.0,
+KANPUR,Star Health,9,,,,9.0
+KANPUR,ICICI Lombard,9,9.0,,,
+JAIPUR,Star Health,9,,,,9.0
+PUNE,Star Health,6,,,,7.0
+INDORE,Care Health,10,,,,8.0
+AHMEDABAD,Niva Bupa,9,9.0,,,
+HYDERABAD,Niva Bupa,10,,,,9.0
+MUMBAI,ICICI Lombard,9,,,,10.0
+PUNE,Aditya Birla Health,9,,10.0,9.0,8.0
+MUMBAI,Star Health,9,,,,9.0
+MUMBAI,Aditya Birla Health,9,10.0,,,
+PUNE,Niva Bupa,9,,9.0,9.0,9.0
+KOLKATA,HDFC Ergo,9,,,,10.0
+DELHI,Aditya Birla Health,5,8.0,,,
+PUNE,New India Assurance,7,9.0,,,
+KOLKATA,New India Assurance,9,,,,10.0
+HYDERABAD,HDFC Ergo,10,,,,9.0
+KOLKATA,Bagic,9,,,,9.0
+KOLKATA,ICICI Lombard,6,,,,7.0
+KOLKATA,ICICI Lombard,9,,,,10.0
+KOLKATA,Niva Bupa,9,,,,10.0
+LUDHIANA,Star Health,6,,7.0,5.0,8.0
+PUNE,Niva Bupa,8,,8.0,9.0,7.0
+KANPUR,ICICI Lombard,9,,,,10.0
+MUMBAI,Care Health,7,,,,6.0
+CHENNAI,Care Health,9,,,,9.0
+HYDERABAD,Care Health,6,,,,8.0
+KOLKATA,Bagic,10,8.0,,,
+MUMBAI,New India Assurance,9,,10.0,10.0,8.0
+BANGALORE,HDFC Ergo,10,,9.0,9.0,8.0
+KANPUR,Niva Bupa,6,4.0,6.0,5.0,
+HYDERABAD,ICICI Lombard,9,9.0,,,
+BANGALORE,Care Health,6,,,,8.0
+MUMBAI,Star Health,10,,9.0,9.0,9.0
+CHENNAI,ICICI Lombard,6,7.0,,,
+KOLKATA,Niva Bupa,9,,10.0,9.0,10.0
+JAIPUR,HDFC Ergo,3,,,,4.0
+KOLKATA,ICICI Lombard,9,,,,10.0
+JAIPUR,New India Assurance,9,,10.0,10.0,10.0
+CHENNAI,HDFC Ergo,6,,,,8.0
+HYDERABAD,HDFC Ergo,3,,,,4.0
+AHMEDABAD,Niva Bupa,3,,,,5.0
+AHMEDABAD,ICICI Lombard,10,,10.0,8.0,9.0
+CHENNAI,ICICI Lombard,9,,,,10.0
+KOLKATA,Star Health,10,,9.0,9.0,9.0
+KOLKATA,Care Health,1,,,,5.0
+MUMBAI,New India Assurance,9,,7.0,8.0,10.0
+DELHI,Star Health,10,,10.0,9.0,9.0
+AHMEDABAD,New India Assurance,8,9.0,,,
+KANPUR,Niva Bupa,9,,,,9.0
+LUDHIANA,Star Health,9,,,,9.0
+INDORE,ICICI Lombard,8,,9.0,9.0,7.0
+MUMBAI,Star Health,8,,,,10.0
+KANPUR,Care Health,9,10.0,,,
+INDORE,New India Assurance,9,,,,10.0
+KOLKATA,Bagic,10,,10.0,8.0,10.0
+HYDERABAD,HDFC Ergo,9,,8.0,9.0,9.0
+MUMBAI,New India Assurance,8,,,,9.0
+CHENNAI,Star Health,9,9.0,9.0,10.0,
+HYDERABAD,Aditya Birla Health,9,10.0,9.0,8.0,
+AHMEDABAD,HDFC Ergo,7,,5.0,9.0,8.0
+INDORE,Star Health,9,10.0,,,
+BANGALORE,Aditya Birla Health,8,,,,10.0
+MUMBAI,Aditya Birla Health,9,,,,8.0
+JAIPUR,Aditya Birla Health,5,,,,3.0
+JAIPUR,HDFC Ergo,8,,10.0,9.0,6.0
+CHENNAI,HDFC Ergo,9,,,,10.0
+DELHI,New India Assurance,6,,4.0,6.0,8.0
+MUMBAI,HDFC Ergo,10,,,,9.0
+PUNE,Bagic,9,,,,10.0
+CHENNAI,Niva Bupa,9,,,,10.0
+PUNE,Aditya Birla Health,10,,,,9.0
+LUDHIANA,New India Assurance,6,,,,5.0
+DELHI,New India Assurance,8,,,,9.0
+CHENNAI,Care Health,10,,,,9.0
+AHMEDABAD,Bagic,9,,10.0,10.0,8.0
+KANPUR,Aditya Birla Health,10,,9.0,9.0,8.0
+CHENNAI,Care Health,7,6.0,5.0,9.0,
+AHMEDABAD,New India Assurance,7,,,,9.0
+JAIPUR,Aditya Birla Health,10,,,,9.0
+BANGALORE,Bagic,8,,,,6.0
+CHENNAI,Aditya Birla Health,5,,7.0,4.0,6.0
+CHENNAI,Care Health,8,,9.0,7.0,7.0
+KOLKATA,Bagic,9,,,,9.0
+LUDHIANA,Care Health,10,,10.0,9.0,9.0
+PUNE,Bagic,9,10.0,9.0,8.0,
+AHMEDABAD,HDFC Ergo,9,,,,10.0
+CHENNAI,Bagic,10,,,,9.0
+HYDERABAD,New India Assurance,8,,,,9.0
+LUDHIANA,Aditya Birla Health,10,,,,9.0
+PUNE,Star Health,10,8.0,,,
+KANPUR,ICICI Lombard,7,,,,5.0
+KOLKATA,New India Assurance,10,,9.0,8.0,9.0
+DELHI,Aditya Birla Health,7,,,,8.0
+BANGALORE,HDFC Ergo,9,,,,10.0
+MUMBAI,ICICI Lombard,6,,,,5.0
+JAIPUR,ICICI Lombard,6,8.0,,,
+INDORE,Aditya Birla Health,6,8.0,4.0,6.0,
+HYDERABAD,Niva Bupa,6,,,,8.0
+CHENNAI,ICICI Lombard,6,,,,8.0
+KOLKATA,New India Assurance,1,,,,2.0
+MUMBAI,Niva Bupa,10,,9.0,9.0,9.0
+JAIPUR,Aditya Birla Health,9,,,,9.0
+HYDERABAD,Aditya Birla Health,10,,,,8.0
+KOLKATA,Care Health,6,,,,7.0
+KANPUR,Aditya Birla Health,5,,,,6.0
+PUNE,Bagic,9,,,,9.0
+LUDHIANA,Care Health,2,6.0,,,
+PUNE,HDFC Ergo,9,,,,8.0
+KOLKATA,HDFC Ergo,7,,,,5.0
+DELHI,Star Health,9,,10.0,9.0,10.0
+LUDHIANA,ICICI Lombard,9,,9.0,10.0,10.0
+KANPUR,Care Health,8,,9.0,7.0,9.0
+HYDERABAD,Star Health,4,,,,5.0
+AHMEDABAD,HDFC Ergo,9,,,,10.0
+AHMEDABAD,Niva Bupa,9,,10.0,9.0,9.0
+MUMBAI,Niva Bupa,9,,,,9.0
+KANPUR,New India Assurance,9,,,,10.0
+PUNE,HDFC Ergo,5,7.0,,,
+BANGALORE,Bagic,8,,7.0,10.0,10.0
+CHENNAI,Star Health,8,8.0,,,
+CHENNAI,Star Health,10,,,,9.0
+CHENNAI,HDFC Ergo,9,,,,10.0
+INDORE,Niva Bupa,9,,10.0,8.0,10.0
+JAIPUR,Bagic,9,,10.0,9.0,9.0
+HYDERABAD,Bagic,10,,,,9.0
+KANPUR,Niva Bupa,9,,,,10.0
+PUNE,Aditya Birla Health,10,,10.0,9.0,9.0
+JAIPUR,Star Health,10,,,,9.0
+JAIPUR,Aditya Birla Health,9,,,,8.0
+PUNE,Niva Bupa,9,8.0,,,
+CHENNAI,Niva Bupa,9,,,,10.0
+INDORE,Bagic,9,,,,10.0
+CHENNAI,HDFC Ergo,9,,,,9.0
+JAIPUR,New India Assurance,7,10.0,8.0,9.0,
+DELHI,Bagic,8,,,,8.0
+HYDERABAD,Niva Bupa,5,,,,5.0
+INDORE,ICICI Lombard,10,,9.0,8.0,9.0
+KOLKATA,Care Health,7,,,,8.0
+CHENNAI,HDFC Ergo,7,,,,7.0
+KANPUR,ICICI Lombard,9,,,,9.0
+BANGALORE,ICICI Lombard,9,,,,10.0
+KOLKATA,Care Health,5,,,,3.0
+INDORE,Niva Bupa,10,,,,10.0
+AHMEDABAD,Aditya Birla Health,10,,,,9.0
+HYDERABAD,HDFC Ergo,8,,10.0,10.0,9.0
+MUMBAI,ICICI Lombard,9,,10.0,9.0,10.0
+KANPUR,Star Health,9,,,,10.0
+HYDERABAD,HDFC Ergo,9,,10.0,9.0,9.0
+KANPUR,Care Health,7,7.0,,,
+KOLKATA,Aditya Birla Health,8,,,,7.0
+KOLKATA,Niva Bupa,9,,,,10.0
+BANGALORE,ICICI Lombard,9,,,,9.0
+MUMBAI,Star Health,9,,,,10.0
+KANPUR,Bagic,8,,,,7.0
+LUDHIANA,Star Health,10,,,,9.0
+AHMEDABAD,Niva Bupa,8,,9.0,9.0,10.0
+BANGALORE,Star Health,9,10.0,,,
+KANPUR,Niva Bupa,9,,,,9.0
+HYDERABAD,ICICI Lombard,10,,10.0,8.0,9.0
+INDORE,Star Health,10,,,,9.0
+BANGALORE,Aditya Birla Health,9,,10.0,9.0,9.0
+KOLKATA,New India Assurance,4,,,,6.0
+INDORE,New India Assurance,8,,,,9.0
+KANPUR,Star Health,10,,,,7.0
+CHENNAI,Niva Bupa,9,,,,10.0
+MUMBAI,ICICI Lombard,10,,,,9.0
+MUMBAI,Star Health,6,,5.0,6.0,7.0
+DELHI,Bagic,9,,,,10.0
+KANPUR,ICICI Lombard,9,,,,10.0
+HYDERABAD,New India Assurance,9,10.0,,,
+PUNE,Star Health,5,,,,2.0
+CHENNAI,HDFC Ergo,9,9.0,10.0,10.0,
+INDORE,Bagic,6,,,,8.0
+BANGALORE,New India Assurance,9,,,,10.0
+KANPUR,HDFC Ergo,9,,,,10.0
+LUDHIANA,Aditya Birla Health,8,9.0,,,
+KOLKATA,ICICI Lombard,8,,,,9.0
+DELHI,New India Assurance,9,,,,9.0
+AHMEDABAD,New India Assurance,9,,10.0,9.0,10.0
+JAIPUR,Star Health,10,,10.0,9.0,9.0
+KANPUR,Niva Bupa,10,,,,9.0
+HYDERABAD,Star Health,9,,,,10.0
+HYDERABAD,Care Health,9,,,,9.0
+INDORE,Bagic,9,10.0,10.0,10.0,
+LUDHIANA,ICICI Lombard,7,,,,9.0
+JAIPUR,Star Health,6,7.0,,,
+PUNE,Niva Bupa,9,,,,10.0
+INDORE,New India Assurance,9,,8.0,9.0,10.0
+MUMBAI,New India Assurance,10,,10.0,10.0,10.0
+KOLKATA,Care Health,10,,,,9.0
+KANPUR,HDFC Ergo,7,,,,8.0
+HYDERABAD,Aditya Birla Health,9,,,,9.0
+KANPUR,Niva Bupa,10,,,,8.0
+MUMBAI,Bagic,9,,,,10.0
+DELHI,Star Health,6,,,,8.0
+AHMEDABAD,Aditya Birla Health,6,,,,5.0
+KANPUR,Bagic,9,,,,9.0
+BANGALORE,Bagic,9,9.0,,,
+DELHI,Niva Bupa,10,,10.0,8.0,9.0
+KOLKATA,New India Assurance,9,,10.0,9.0,8.0
+DELHI,New India Assurance,9,,10.0,10.0,10.0
+AHMEDABAD,HDFC Ergo,5,,6.0,5.0,4.0
+CHENNAI,Niva Bupa,7,,,,6.0
+HYDERABAD,Niva Bupa,9,,10.0,10.0,10.0
+AHMEDABAD,Care Health,10,,9.0,8.0,9.0
+KOLKATA,HDFC Ergo,6,,8.0,9.0,5.0
+JAIPUR,New India Assurance,9,,,,10.0
+JAIPUR,New India Assurance,10,,,,8.0
+BANGALORE,Star Health,10,10.0,,,
+JAIPUR,Care Health,8,,,,9.0
+DELHI,Aditya Birla Health,9,,10.0,10.0,10.0
+PUNE,Star Health,7,,8.0,5.0,9.0
+CHENNAI,New India Assurance,9,,,,9.0
+JAIPUR,HDFC Ergo,9,,,,9.0
+KANPUR,ICICI Lombard,9,,,,10.0
+LUDHIANA,Niva Bupa,5,,,,2.0
+KOLKATA,New India Assurance,10,9.0,10.0,9.0,
+DELHI,Niva Bupa,8,,8.0,9.0,9.0
+MUMBAI,Aditya Birla Health,4,6.0,2.0,6.0,
+DELHI,Star Health,10,,,,10.0
+MUMBAI,HDFC Ergo,9,,,,8.0
+PUNE,New India Assurance,10,,,,9.0
+INDORE,New India Assurance,7,9.0,7.0,8.0,
+AHMEDABAD,Aditya Birla Health,9,,,,9.0
+INDORE,Niva Bupa,9,,10.0,9.0,10.0
+AHMEDABAD,HDFC Ergo,10,,,,9.0
+HYDERABAD,ICICI Lombard,9,,,,8.0
+BANGALORE,New India Assurance,7,,8.0,8.0,9.0
+LUDHIANA,Bagic,9,,10.0,8.0,8.0
+KOLKATA,Care Health,9,,,,8.0
+CHENNAI,Niva Bupa,10,,10.0,8.0,9.0
+BANGALORE,Care Health,9,,10.0,9.0,10.0
+KANPUR,Niva Bupa,9,,7.0,9.0,10.0
+BANGALORE,HDFC Ergo,10,9.0,,,
+DELHI,HDFC Ergo,5,,,,3.0
+MUMBAI,New India Assurance,9,,,,10.0
+HYDERABAD,ICICI Lombard,9,,8.0,10.0,9.0
+DELHI,Star Health,4,4.0,5.0,6.0,
+AHMEDABAD,Niva Bupa,9,,,,10.0
+INDORE,Star Health,9,,7.0,10.0,9.0
+MUMBAI,Niva Bupa,8,,,,9.0
+MUMBAI,New India Assurance,4,8.0,,,
+MUMBAI,HDFC Ergo,8,,,,10.0
+MUMBAI,Bagic,9,,,,10.0
+INDORE,Care Health,9,,,,8.0
+CHENNAI,Aditya Birla Health,8,7.0,,,
+MUMBAI,New India Assurance,10,,,,8.0
+BANGALORE,HDFC Ergo,9,,10.0,10.0,10.0
+BANGALORE,ICICI Lombard,9,,,,10.0
+DELHI,HDFC Ergo,9,,,,10.0
+JAIPUR,ICICI Lombard,9,,10.0,9.0,10.0
+BANGALORE,ICICI Lombard,8,,10.0,10.0,9.0
+KANPUR,Star Health,9,10.0,9.0,9.0,
+INDORE,ICICI Lombard,10,,,,9.0
+MUMBAI,Bagic,7,,,,6.0
+CHENNAI,ICICI Lombard,8,10.0,10.0,9.0,
+LUDHIANA,Star Health,10,,,,7.0
+HYDERABAD,New India Assurance,6,,4.0,6.0,7.0
+KOLKATA,Star Health,8,,,,9.0
+KOLKATA,New India Assurance,8,,,,8.0
+LUDHIANA,Star Health,9,,,,9.0
+AHMEDABAD,Niva Bupa,8,10.0,,,
+KOLKATA,Niva Bupa,9,10.0,,,
+AHMEDABAD,Niva Bupa,7,9.0,,,
+DELHI,Bagic,9,,,,8.0
+KANPUR,Niva Bupa,9,,9.0,9.0,10.0
+JAIPUR,ICICI Lombard,10,,,,8.0
+PUNE,Aditya Birla Health,9,,,,8.0
+KOLKATA,New India Assurance,9,,,,10.0
+JAIPUR,Aditya Birla Health,6,,,,3.0
+MUMBAI,New India Assurance,9,7.0,,,
+INDORE,Aditya Birla Health,8,,10.0,10.0,7.0
+MUMBAI,Bagic,10,10.0,9.0,10.0,
+AHMEDABAD,Star Health,8,,7.0,10.0,10.0
+MUMBAI,HDFC Ergo,7,,7.0,9.0,8.0
+KOLKATA,New India Assurance,9,,,,9.0
+BANGALORE,HDFC Ergo,9,,,,8.0
+BANGALORE,Aditya Birla Health,9,,,,10.0
+PUNE,Star Health,9,,,,9.0
+INDORE,Care Health,7,,,,6.0
+LUDHIANA,Care Health,5,,,,1.0
+DELHI,Niva Bupa,9,10.0,,,
+LUDHIANA,HDFC Ergo,9,,10.0,10.0,9.0
+BANGALORE,New India Assurance,8,8.0,,,
+AHMEDABAD,HDFC Ergo,9,,,,10.0
+PUNE,ICICI Lombard,7,,,,8.0
+DELHI,Aditya Birla Health,10,,,,9.0
+PUNE,New India Assurance,9,9.0,10.0,10.0,
+INDORE,HDFC Ergo,9,,,,10.0
+CHENNAI,New India Assurance,3,,,,4.0
+MUMBAI,Star Health,10,,,,9.0
+CHENNAI,Star Health,7,,5.0,6.0,9.0
+INDORE,ICICI Lombard,10,,,,10.0
+AHMEDABAD,Bagic,9,,,,10.0
+CHENNAI,Niva Bupa,10,,,,9.0
+KOLKATA,Care Health,7,7.0,,,
+KANPUR,HDFC Ergo,10,,9.0,8.0,8.0
+BANGALORE,Aditya Birla Health,7,,,,5.0
+HYDERABAD,New India Assurance,6,,,,4.0
+KANPUR,HDFC Ergo,9,,10.0,9.0,10.0
+DELHI,HDFC Ergo,10,,,,9.0
+HYDERABAD,Bagic,9,,,,10.0
+INDORE,Care Health,9,9.0,,,
+MUMBAI,Niva Bupa,10,,,,9.0
+PUNE,Aditya Birla Health,7,,,,9.0
+HYDERABAD,Star Health,10,,10.0,9.0,9.0
+MUMBAI,Care Health,8,,,,10.0
+INDORE,HDFC Ergo,9,,10.0,9.0,10.0
+PUNE,Care Health,5,,,,4.0
+AHMEDABAD,Bagic,9,,8.0,10.0,10.0
+LUDHIANA,Niva Bupa,10,,,,9.0
+INDORE,Aditya Birla Health,8,6.0,,,
+HYDERABAD,Aditya Birla Health,8,,,,7.0
+KANPUR,Aditya Birla Health,8,,9.0,10.0,7.0
+DELHI,Bagic,9,,,,10.0
+LUDHIANA,Bagic,9,,8.0,10.0,10.0
+INDORE,ICICI Lombard,10,,,,9.0
+DELHI,Aditya Birla Health,7,,,,9.0
+LUDHIANA,ICICI Lombard,8,,,,8.0
+HYDERABAD,Star Health,7,,,,6.0
+BANGALORE,Aditya Birla Health,8,,,,9.0
+INDORE,Care Health,9,,10.0,9.0,10.0
+HYDERABAD,Star Health,9,,,,9.0
+DELHI,Niva Bupa,10,,,,9.0
+HYDERABAD,ICICI Lombard,10,,,,9.0
+KOLKATA,Bagic,9,,10.0,9.0,9.0
+HYDERABAD,Bagic,9,,10.0,9.0,9.0
+CHENNAI,HDFC Ergo,6,,,,6.0
+KOLKATA,Niva Bupa,7,,6.0,5.0,8.0
+PUNE,ICICI Lombard,10,,9.0,10.0,9.0
+KOLKATA,HDFC Ergo,10,8.0,,,
+LUDHIANA,New India Assurance,8,,,,10.0
+KANPUR,New India Assurance,8,,8.0,9.0,7.0
+KANPUR,ICICI Lombard,7,,,,6.0
+MUMBAI,HDFC Ergo,9,9.0,,,
+JAIPUR,Aditya Birla Health,10,,,,8.0
+MUMBAI,Star Health,8,,,,8.0
+AHMEDABAD,Niva Bupa,7,,8.0,7.0,8.0
+DELHI,Bagic,9,,,,10.0
+BANGALORE,Niva Bupa,10,,,,9.0
+JAIPUR,Bagic,9,,,,10.0
+PUNE,Bagic,4,,,,6.0
+PUNE,New India Assurance,8,,8.0,8.0,8.0
+MUMBAI,HDFC Ergo,9,,,,9.0
+PUNE,HDFC Ergo,7,,,,6.0
+HYDERABAD,HDFC Ergo,9,,,,9.0
+BANGALORE,Care Health,9,,9.0,9.0,8.0
+MUMBAI,Care Health,9,,10.0,10.0,9.0
+AHMEDABAD,Aditya Birla Health,10,,,,9.0
+DELHI,HDFC Ergo,8,,,,9.0
+HYDERABAD,New India Assurance,4,4.0,,,
+INDORE,Star Health,10,,9.0,9.0,10.0
+HYDERABAD,Bagic,2,,,,5.0
+DELHI,New India Assurance,10,,,,8.0
+HYDERABAD,HDFC Ergo,8,,,,7.0
+MUMBAI,New India Assurance,9,,,,10.0
+AHMEDABAD,ICICI Lombard,9,,,,10.0
+LUDHIANA,New India Assurance,7,,,,6.0
+PUNE,Bagic,10,,,,9.0
+INDORE,Care Health,10,10.0,,,
+CHENNAI,Niva Bupa,9,,,,9.0
+AHMEDABAD,Star Health,10,,,,9.0
+INDORE,HDFC Ergo,10,,,,10.0
+KOLKATA,Niva Bupa,9,,,,10.0
+CHENNAI,Care Health,10,,,,8.0
+KOLKATA,Bagic,10,9.0,9.0,10.0,
+AHMEDABAD,New India Assurance,3,,,,3.0
+KOLKATA,Aditya Birla Health,9,,,,10.0
+DELHI,HDFC Ergo,9,10.0,9.0,10.0,
+DELHI,Star Health,5,,,,4.0
+LUDHIANA,Aditya Birla Health,9,,,,9.0
+JAIPUR,New India Assurance,7,,8.0,9.0,9.0
+PUNE,Bagic,9,,9.0,10.0,10.0
+KANPUR,New India Assurance,9,9.0,,,
+CHENNAI,Niva Bupa,10,10.0,,,
+LUDHIANA,Aditya Birla Health,8,5.0,,,
+LUDHIANA,Care Health,9,,,,9.0
+DELHI,ICICI Lombard,10,,9.0,9.0,9.0
+LUDHIANA,Aditya Birla Health,10,,,,9.0
+DELHI,Star Health,10,,,,10.0
+CHENNAI,ICICI Lombard,9,,,,10.0
+DELHI,HDFC Ergo,6,,,,8.0
+AHMEDABAD,Niva Bupa,10,,,,9.0
+LUDHIANA,ICICI Lombard,9,,,,10.0
+JAIPUR,Care Health,8,,8.0,10.0,8.0
+BANGALORE,Niva Bupa,10,,,,10.0
+JAIPUR,Care Health,8,,,,9.0
+LUDHIANA,Care Health,9,,,,10.0
+BANGALORE,Star Health,9,,,,8.0
+AHMEDABAD,Care Health,8,,,,7.0
+KANPUR,Aditya Birla Health,9,,,,9.0
+AHMEDABAD,Bagic,10,,,,9.0
+DELHI,Care Health,10,,,,10.0
+KANPUR,ICICI Lombard,10,,,,9.0
+KOLKATA,Bagic,8,9.0,,,
+CHENNAI,Aditya Birla Health,9,,10.0,9.0,10.0
+BANGALORE,Niva Bupa,9,,10.0,8.0,10.0
+CHENNAI,HDFC Ergo,8,,,,9.0
+LUDHIANA,New India Assurance,9,9.0,,,
+DELHI,Care Health,10,,10.0,8.0,9.0
+LUDHIANA,Niva Bupa,9,,,,10.0
+KOLKATA,Niva Bupa,7,8.0,,,
+CHENNAI,Aditya Birla Health,7,7.0,6.0,6.0,
+JAIPUR,ICICI Lombard,8,,10.0,7.0,6.0
+BANGALORE,New India Assurance,9,,10.0,9.0,10.0
+KOLKATA,ICICI Lombard,10,,,,9.0
+KOLKATA,Care Health,7,,,,7.0
+KOLKATA,Bagic,9,,,,8.0
+KOLKATA,HDFC Ergo,4,,5.0,4.0,5.0
+DELHI,Star Health,10,,,,9.0
+DELHI,Star Health,8,,,,6.0
+KANPUR,Star Health,9,,9.0,9.0,9.0
+CHENNAI,HDFC Ergo,7,,,,5.0
+PUNE,Star Health,9,,,,7.0
+HYDERABAD,ICICI Lombard,10,,9.0,10.0,8.0
+JAIPUR,HDFC Ergo,8,,,,9.0
+INDORE,HDFC Ergo,9,,10.0,8.0,10.0
+KANPUR,Care Health,9,,,,8.0
+BANGALORE,HDFC Ergo,9,,,,10.0
+PUNE,ICICI Lombard,10,,,,9.0
+DELHI,ICICI Lombard,9,,8.0,9.0,10.0
+CHENNAI,Care Health,8,,,,9.0
+HYDERABAD,New India Assurance,6,5.0,,,
+INDORE,Niva Bupa,7,,,,8.0
+LUDHIANA,ICICI Lombard,10,9.0,9.0,8.0,
+JAIPUR,ICICI Lombard,10,,,,10.0
+HYDERABAD,ICICI Lombard,9,,10.0,10.0,10.0
+KOLKATA,Star Health,9,,,,10.0
+MUMBAI,Bagic,9,,,,10.0
+KANPUR,ICICI Lombard,10,,,,8.0
+KANPUR,ICICI Lombard,10,,,,9.0
+DELHI,Bagic,9,,,,9.0
+INDORE,Aditya Birla Health,4,,,,6.0
+KOLKATA,New India Assurance,10,8.0,9.0,10.0,
+KOLKATA,Bagic,9,10.0,,,
+PUNE,Star Health,9,,10.0,9.0,10.0
+AHMEDABAD,HDFC Ergo,7,,,,8.0
+PUNE,ICICI Lombard,10,,,,9.0
+INDORE,Star Health,9,,,,9.0
+DELHI,Care Health,9,,,,10.0
+CHENNAI,ICICI Lombard,10,,,,9.0
+KOLKATA,Star Health,8,,,,10.0
+KANPUR,Niva Bupa,9,,,,10.0
+PUNE,Care Health,9,,10.0,9.0,10.0
+PUNE,HDFC Ergo,10,,,,9.0
+KOLKATA,Niva Bupa,9,9.0,,,
+KOLKATA,Aditya Birla Health,10,,,,9.0
+DELHI,ICICI Lombard,8,,,,7.0
+DELHI,Aditya Birla Health,10,7.0,9.0,9.0,
+CHENNAI,ICICI Lombard,8,9.0,,,
+HYDERABAD,Star Health,9,,,,9.0
+DELHI,Aditya Birla Health,10,8.0,9.0,10.0,
+CHENNAI,HDFC Ergo,10,,,,9.0
+HYDERABAD,Care Health,8,,,,7.0
+LUDHIANA,HDFC Ergo,10,,,,9.0
+LUDHIANA,Niva Bupa,10,,,,9.0
+JAIPUR,Aditya Birla Health,10,,10.0,9.0,9.0
+KOLKATA,Star Health,8,,,,9.0
+JAIPUR,Bagic,10,,,,9.0
+JAIPUR,Care Health,7,,,,8.0
+JAIPUR,New India Assurance,9,,,,8.0
+HYDERABAD,HDFC Ergo,6,6.0,,,
+AHMEDABAD,Aditya Birla Health,10,,,,8.0
+KANPUR,Aditya Birla Health,10,,,,10.0
+LUDHIANA,ICICI Lombard,8,,,,6.0
+JAIPUR,Bagic,9,8.0,,,
+HYDERABAD,New India Assurance,9,9.0,10.0,8.0,
+BANGALORE,ICICI Lombard,7,,,,6.0
+KOLKATA,Niva Bupa,9,,,,9.0
+KANPUR,Bagic,7,,,,9.0
+JAIPUR,Star Health,10,,,,9.0
+BANGALORE,Bagic,9,,,,10.0
+JAIPUR,Star Health,9,10.0,10.0,9.0,
+DELHI,Bagic,9,,,,8.0
+LUDHIANA,Star Health,10,9.0,,,
+DELHI,Care Health,8,,10.0,8.0,7.0
+HYDERABAD,ICICI Lombard,6,,,,3.0
+PUNE,Niva Bupa,7,,8.0,6.0,9.0
+DELHI,Niva Bupa,9,,,,9.0
+DELHI,Bagic,9,,,,10.0
+KANPUR,Aditya Birla Health,8,,8.0,10.0,9.0
+KOLKATA,Aditya Birla Health,10,10.0,10.0,9.0,
+CHENNAI,Niva Bupa,7,,7.0,9.0,8.0
+AHMEDABAD,Star Health,10,10.0,,,
+PUNE,Care Health,5,,,,5.0
+LUDHIANA,Niva Bupa,8,,9.0,9.0,9.0
+DELHI,Aditya Birla Health,9,,9.0,8.0,8.0
+LUDHIANA,Bagic,7,,,,5.0
+PUNE,ICICI Lombard,8,,,,10.0
+INDORE,HDFC Ergo,9,,,,10.0
+HYDERABAD,Star Health,9,,10.0,9.0,10.0
+HYDERABAD,HDFC Ergo,10,10.0,,,
+KOLKATA,Niva Bupa,7,,,,9.0
+PUNE,Care Health,9,,,,10.0
+AHMEDABAD,Star Health,9,,,,10.0
+INDORE,New India Assurance,9,,,,10.0
+KOLKATA,ICICI Lombard,8,,,,8.0
+BANGALORE,HDFC Ergo,10,,,,9.0
+CHENNAI,HDFC Ergo,7,,,,8.0
+PUNE,ICICI Lombard,9,10.0,,,
+CHENNAI,Star Health,10,,,,9.0
+PUNE,Care Health,4,,,,3.0
+AHMEDABAD,Star Health,7,,,,9.0
+PUNE,Star Health,10,10.0,,,
+HYDERABAD,Star Health,9,,10.0,10.0,9.0
+PUNE,Niva Bupa,6,6.0,7.0,4.0,
+KOLKATA,New India Assurance,10,,,,9.0
+INDORE,ICICI Lombard,9,,,,10.0
+DELHI,Star Health,8,9.0,,,
+BANGALORE,Bagic,9,,,,10.0
+BANGALORE,New India Assurance,9,,,,9.0
+PUNE,Aditya Birla Health,9,,,,9.0
+BANGALORE,ICICI Lombard,9,,,,10.0
+KANPUR,ICICI Lombard,7,,,,5.0
+BANGALORE,Star Health,10,,,,9.0
+PUNE,ICICI Lombard,7,,,,6.0
+DELHI,Care Health,5,,,,4.0
+JAIPUR,HDFC Ergo,9,,7.0,10.0,10.0
+KANPUR,Niva Bupa,8,,,,9.0
+DELHI,New India Assurance,6,,,,8.0
+KANPUR,Niva Bupa,9,,,,8.0
+CHENNAI,ICICI Lombard,9,,,,10.0
+HYDERABAD,HDFC Ergo,9,,,,10.0
+HYDERABAD,HDFC Ergo,8,,,,8.0
+LUDHIANA,Bagic,9,,,,10.0
+JAIPUR,Bagic,9,10.0,,,
+INDORE,Star Health,9,10.0,10.0,9.0,
+KANPUR,Niva Bupa,3,,,,4.0
+DELHI,Star Health,9,,10.0,9.0,10.0
+AHMEDABAD,Niva Bupa,7,,,,7.0
+HYDERABAD,HDFC Ergo,4,4.0,,,
+KANPUR,Bagic,9,,10.0,9.0,10.0
+CHENNAI,Star Health,9,,,,9.0
+PUNE,HDFC Ergo,8,,,,10.0
+KANPUR,Aditya Birla Health,9,,,,8.0
+PUNE,Care Health,7,,8.0,7.0,7.0
+CHENNAI,Bagic,9,,,,10.0
+KANPUR,ICICI Lombard,9,,,,10.0
+KANPUR,Bagic,4,,,,3.0
+CHENNAI,Niva Bupa,9,,,,10.0
+LUDHIANA,Niva Bupa,9,,,,10.0
+JAIPUR,Star Health,9,,,,9.0
+JAIPUR,ICICI Lombard,7,,8.0,6.0,8.0
+AHMEDABAD,ICICI Lombard,9,,,,9.0
+JAIPUR,New India Assurance,9,,9.0,10.0,10.0
+BANGALORE,Bagic,8,,,,10.0
+KOLKATA,Care Health,6,,,,7.0
+AHMEDABAD,Aditya Birla Health,10,,10.0,9.0,10.0
+DELHI,Aditya Birla Health,10,,,,9.0
+KANPUR,Aditya Birla Health,9,,,,10.0
+LUDHIANA,ICICI Lombard,8,,,,7.0
+CHENNAI,Care Health,6,,,,8.0
+AHMEDABAD,Bagic,10,,,,9.0
+JAIPUR,New India Assurance,9,,9.0,10.0,10.0
+INDORE,Aditya Birla Health,9,,,,10.0
+HYDERABAD,Niva Bupa,10,10.0,,,
+MUMBAI,New India Assurance,9,,,,10.0
+LUDHIANA,HDFC Ergo,6,,,,8.0
+HYDERABAD,Niva Bupa,9,9.0,7.0,10.0,
+KOLKATA,Care Health,2,6.0,3.0,4.0,
+MUMBAI,Star Health,10,,,,9.0
+LUDHIANA,Aditya Birla Health,9,,,,8.0
+MUMBAI,Star Health,9,,,,10.0
+CHENNAI,New India Assurance,8,,,,9.0
+INDORE,Star Health,6,7.0,6.0,6.0,
+KOLKATA,Aditya Birla Health,10,,,,9.0
+HYDERABAD,Niva Bupa,10,,10.0,9.0,9.0
+INDORE,ICICI Lombard,8,,,,7.0
+HYDERABAD,ICICI Lombard,8,,,,9.0
+JAIPUR,HDFC Ergo,10,10.0,,,
+KOLKATA,HDFC Ergo,9,,10.0,9.0,9.0
+AHMEDABAD,ICICI Lombard,9,,,,10.0
+CHENNAI,Aditya Birla Health,8,,7.0,7.0,7.0
+CHENNAI,HDFC Ergo,9,9.0,9.0,8.0,
+HYDERABAD,HDFC Ergo,9,9.0,,,
+AHMEDABAD,Aditya Birla Health,6,,,,8.0
+INDORE,ICICI Lombard,6,,,,5.0
+MUMBAI,Star Health,10,10.0,,,
+BANGALORE,New India Assurance,10,8.0,9.0,9.0,
+DELHI,Care Health,8,,,,8.0
+PUNE,Niva Bupa,9,,,,10.0
+KANPUR,Niva Bupa,9,9.0,7.0,8.0,
+CHENNAI,Niva Bupa,9,,,,10.0
+KOLKATA,Niva Bupa,9,,,,8.0
+AHMEDABAD,Niva Bupa,9,,,,10.0
+HYDERABAD,Star Health,9,,10.0,10.0,10.0
+PUNE,Aditya Birla Health,10,,,,9.0
+MUMBAI,Aditya Birla Health,10,,,,9.0
+HYDERABAD,HDFC Ergo,10,,,,9.0
+BANGALORE,HDFC Ergo,9,,10.0,10.0,9.0
+KANPUR,Aditya Birla Health,10,,,,9.0
+MUMBAI,Aditya Birla Health,9,,7.0,9.0,10.0
+INDORE,Star Health,8,,,,7.0
+DELHI,ICICI Lombard,7,,,,8.0
+CHENNAI,HDFC Ergo,9,,,,10.0
+KANPUR,Star Health,8,,,,9.0
+BANGALORE,Care Health,9,,10.0,8.0,10.0
+DELHI,ICICI Lombard,10,,,,9.0
+MUMBAI,New India Assurance,10,9.0,10.0,9.0,
+INDORE,Bagic,9,9.0,9.0,10.0,
+LUDHIANA,Care Health,2,1.0,,,
+DELHI,HDFC Ergo,8,,,,9.0
+AHMEDABAD,Care Health,9,,,,8.0
+LUDHIANA,New India Assurance,10,,10.0,9.0,9.0
+PUNE,Care Health,9,,10.0,8.0,9.0
+PUNE,New India Assurance,3,,,,4.0
+DELHI,Star Health,10,,,,9.0
+DELHI,HDFC Ergo,5,,,,6.0
+LUDHIANA,Niva Bupa,9,,,,10.0
+BANGALORE,Aditya Birla Health,7,,,,6.0
+AHMEDABAD,Star Health,10,,9.0,9.0,9.0
+HYDERABAD,Aditya Birla Health,10,10.0,,,
+JAIPUR,Star Health,10,,9.0,10.0,9.0
+KANPUR,ICICI Lombard,9,,,,10.0
+DELHI,Bagic,8,,,,9.0
+AHMEDABAD,ICICI Lombard,10,,,,9.0
+KANPUR,ICICI Lombard,9,,,,9.0
+CHENNAI,Niva Bupa,9,,,,9.0
+INDORE,Aditya Birla Health,6,,,,5.0
+INDORE,ICICI Lombard,9,,,,10.0
+KOLKATA,ICICI Lombard,10,7.0,,,
+PUNE,HDFC Ergo,8,,,,10.0
+BANGALORE,Star Health,5,,4.0,5.0,5.0
+JAIPUR,Aditya Birla Health,8,,,,9.0
+KANPUR,New India Assurance,6,,,,3.0
+CHENNAI,Bagic,7,,,,9.0
+BANGALORE,HDFC Ergo,7,8.0,8.0,6.0,
+DELHI,Aditya Birla Health,10,,10.0,9.0,8.0
+PUNE,Care Health,9,,,,9.0
+LUDHIANA,Star Health,8,,,,7.0
+KOLKATA,New India Assurance,7,,,,5.0
+AHMEDABAD,ICICI Lombard,9,,10.0,9.0,10.0
+INDORE,Bagic,9,,,,9.0
+DELHI,Bagic,2,,,,3.0
+JAIPUR,Care Health,3,,4.0,4.0,4.0
+HYDERABAD,Care Health,10,,,,9.0
+LUDHIANA,ICICI Lombard,9,,,,8.0
+PUNE,New India Assurance,9,,10.0,9.0,10.0
+MUMBAI,Aditya Birla Health,9,,,,10.0
+MUMBAI,ICICI Lombard,9,,10.0,8.0,10.0
+HYDERABAD,ICICI Lombard,8,,,,9.0
+MUMBAI,New India Assurance,9,10.0,,,
+PUNE,HDFC Ergo,10,,,,8.0
+INDORE,Bagic,7,,,,9.0
+HYDERABAD,Aditya Birla Health,9,9.0,,,
+DELHI,Aditya Birla Health,10,,10.0,9.0,9.0
+INDORE,New India Assurance,9,,,,10.0
+INDORE,Niva Bupa,9,,10.0,10.0,10.0
+INDORE,Star Health,9,,,,10.0
+CHENNAI,HDFC Ergo,7,,7.0,9.0,8.0
+INDORE,Bagic,9,,,,10.0
+BANGALORE,Bagic,8,,,,7.0
+LUDHIANA,Niva Bupa,9,,,,10.0
+KOLKATA,Bagic,9,10.0,,,
+BANGALORE,Star Health,9,,,,10.0
+MUMBAI,Care Health,8,,,,7.0
+BANGALORE,ICICI Lombard,9,9.0,,,
+AHMEDABAD,HDFC Ergo,8,,,,7.0
+PUNE,Aditya Birla Health,9,9.0,,,
+LUDHIANA,Care Health,9,9.0,,,
+AHMEDABAD,Care Health,7,,8.0,9.0,8.0
+INDORE,Bagic,7,,,,8.0
+JAIPUR,Aditya Birla Health,8,,,,9.0
+INDORE,Star Health,7,,5.0,7.0,6.0
+JAIPUR,HDFC Ergo,9,,,,9.0
+JAIPUR,Niva Bupa,9,,,,10.0
+BANGALORE,ICICI Lombard,8,9.0,,,
+AHMEDABAD,Star Health,5,,,,4.0
+HYDERABAD,New India Assurance,9,,,,10.0
+KANPUR,Care Health,8,,,,9.0
+KANPUR,ICICI Lombard,8,,7.0,7.0,9.0
+KOLKATA,Star Health,10,,,,9.0
+KOLKATA,ICICI Lombard,10,,,,9.0
+AHMEDABAD,Care Health,10,,9.0,9.0,9.0
+LUDHIANA,Niva Bupa,10,,,,9.0
+CHENNAI,Care Health,10,,9.0,8.0,9.0
+JAIPUR,ICICI Lombard,9,,,,10.0
+INDORE,HDFC Ergo,10,,9.0,10.0,9.0
+HYDERABAD,Care Health,8,,9.0,10.0,7.0
+DELHI,Bagic,9,,10.0,10.0,10.0
+AHMEDABAD,New India Assurance,9,,,,10.0
+MUMBAI,Care Health,9,,10.0,9.0,10.0
+AHMEDABAD,New India Assurance,5,,,,8.0
+BANGALORE,Care Health,3,5.0,,,
+KANPUR,Aditya Birla Health,9,,10.0,8.0,10.0
+AHMEDABAD,Care Health,10,10.0,,,
+AHMEDABAD,Care Health,6,,7.0,5.0,8.0
+JAIPUR,Care Health,9,,,,10.0
+INDORE,Bagic,9,,,,9.0
+BANGALORE,Bagic,9,,,,9.0
+KOLKATA,Care Health,9,,,,9.0
+CHENNAI,Care Health,8,,,,7.0
+KOLKATA,Care Health,9,,10.0,9.0,10.0
+CHENNAI,New India Assurance,9,,,,9.0
+AHMEDABAD,Niva Bupa,10,9.0,,,
+INDORE,Aditya Birla Health,10,,,,8.0
+JAIPUR,ICICI Lombard,10,,,,9.0
+DELHI,Bagic,9,,10.0,10.0,10.0
+BANGALORE,HDFC Ergo,9,,,,9.0
+KOLKATA,Star Health,7,,,,5.0
+HYDERABAD,Care Health,5,,4.0,6.0,5.0
+LUDHIANA,HDFC Ergo,5,,,,2.0
+KOLKATA,New India Assurance,10,10.0,,,
+CHENNAI,New India Assurance,10,,,,9.0
+PUNE,HDFC Ergo,9,10.0,8.0,10.0,
+LUDHIANA,Bagic,9,,,,10.0
+BANGALORE,New India Assurance,9,,,,10.0
+CHENNAI,ICICI Lombard,9,,10.0,8.0,9.0
+CHENNAI,Star Health,9,9.0,,,
+JAIPUR,Aditya Birla Health,9,,9.0,10.0,10.0
+DELHI,New India Assurance,5,,4.0,4.0,7.0
+JAIPUR,Care Health,9,,,,10.0
+JAIPUR,Bagic,10,,,,9.0
+LUDHIANA,New India Assurance,9,,10.0,10.0,10.0
+HYDERABAD,ICICI Lombard,10,,9.0,8.0,9.0
+AHMEDABAD,HDFC Ergo,5,,,,6.0
+CHENNAI,Aditya Birla Health,10,,9.0,10.0,9.0
+DELHI,HDFC Ergo,9,,,,10.0
+MUMBAI,HDFC Ergo,10,,,,10.0
+KANPUR,New India Assurance,6,,,,7.0
+LUDHIANA,Star Health,9,,10.0,9.0,10.0
+CHENNAI,Star Health,9,,,,9.0
+HYDERABAD,Care Health,9,,,,9.0
+LUDHIANA,Niva Bupa,9,,,,8.0
+HYDERABAD,ICICI Lombard,5,,4.0,7.0,5.0
+CHENNAI,Bagic,9,,,,8.0
+CHENNAI,Care Health,7,,8.0,5.0,8.0
+AHMEDABAD,HDFC Ergo,9,10.0,10.0,9.0,
+KOLKATA,New India Assurance,7,,,,9.0
+HYDERABAD,Star Health,10,,,,9.0
+LUDHIANA,Star Health,10,9.0,,,
+JAIPUR,Niva Bupa,9,,,,7.0
+LUDHIANA,New India Assurance,10,,9.0,8.0,9.0
+MUMBAI,Niva Bupa,6,,,,7.0
+KOLKATA,Aditya Birla Health,8,,,,8.0
+LUDHIANA,Niva Bupa,5,,6.0,6.0,2.0
+INDORE,New India Assurance,9,,9.0,10.0,9.0
+AHMEDABAD,Care Health,9,10.0,,,
+CHENNAI,ICICI Lombard,9,,,,9.0
+CHENNAI,New India Assurance,6,,,,7.0
+AHMEDABAD,Niva Bupa,9,,10.0,8.0,10.0
+BANGALORE,ICICI Lombard,7,,6.0,8.0,9.0
+KOLKATA,New India Assurance,10,10.0,,,
+KANPUR,Star Health,5,,,,4.0
+HYDERABAD,New India Assurance,10,8.0,9.0,10.0,
+MUMBAI,Care Health,9,,,,10.0
+KANPUR,HDFC Ergo,10,,,,9.0
+KANPUR,ICICI Lombard,9,,,,9.0
+PUNE,New India Assurance,9,,10.0,9.0,8.0
+LUDHIANA,Star Health,10,,10.0,9.0,9.0
+AHMEDABAD,Aditya Birla Health,9,,,,10.0
+PUNE,ICICI Lombard,9,,7.0,10.0,10.0
+INDORE,Aditya Birla Health,8,,9.0,8.0,7.0
+KOLKATA,Bagic,10,,10.0,9.0,9.0
+MUMBAI,New India Assurance,4,,3.0,5.0,5.0
+PUNE,Aditya Birla Health,6,6.0,,,
+CHENNAI,HDFC Ergo,4,,,,5.0
+KOLKATA,Star Health,9,,,,9.0
+CHENNAI,Star Health,10,,9.0,9.0,9.0
+PUNE,Bagic,10,,,,9.0
+KOLKATA,Niva Bupa,10,10.0,10.0,9.0,
+DELHI,Bagic,9,,10.0,10.0,10.0
+AHMEDABAD,HDFC Ergo,7,,,,8.0
+DELHI,Bagic,9,,,,10.0
+BANGALORE,HDFC Ergo,10,9.0,9.0,9.0,
+DELHI,Aditya Birla Health,9,,,,9.0
+HYDERABAD,Bagic,10,,,,9.0
+MUMBAI,Aditya Birla Health,6,,,,6.0
+MUMBAI,Aditya Birla Health,9,,,,10.0
+JAIPUR,Care Health,7,,,,9.0
+CHENNAI,New India Assurance,9,,,,10.0
+AHMEDABAD,Care Health,10,7.0,,,
+LUDHIANA,Aditya Birla Health,8,,,,10.0
+JAIPUR,Aditya Birla Health,10,,,,9.0
+INDORE,Care Health,9,,,,10.0
+BANGALORE,New India Assurance,10,,,,8.0
+KOLKATA,Aditya Birla Health,9,10.0,,,
+KOLKATA,Bagic,9,10.0,,,
+PUNE,Star Health,8,,6.0,7.0,8.0
+KOLKATA,Bagic,9,10.0,,,
+LUDHIANA,HDFC Ergo,9,,,,8.0
+KOLKATA,ICICI Lombard,10,,,,9.0
+MUMBAI,Bagic,9,,,,10.0
+LUDHIANA,Star Health,9,,9.0,9.0,10.0
+MUMBAI,New India Assurance,10,,,,9.0
+KANPUR,New India Assurance,6,,,,5.0
+KOLKATA,Star Health,8,7.0,,,
+KANPUR,ICICI Lombard,10,,,,8.0
+LUDHIANA,HDFC Ergo,6,,,,3.0
+INDORE,Niva Bupa,9,,,,10.0
+JAIPUR,ICICI Lombard,9,,,,9.0
+DELHI,Niva Bupa,9,,10.0,10.0,10.0
+KANPUR,New India Assurance,9,,,,8.0
+PUNE,Niva Bupa,7,,7.0,9.0,8.0
+KANPUR,ICICI Lombard,8,,,,7.0
+KANPUR,Star Health,6,,,,8.0
+JAIPUR,New India Assurance,5,,4.0,6.0,7.0
+AHMEDABAD,Aditya Birla Health,10,,,,9.0
+BANGALORE,New India Assurance,9,,,,10.0
+PUNE,Bagic,10,,,,9.0
+LUDHIANA,Aditya Birla Health,6,,,,4.0
+LUDHIANA,Care Health,7,,,,7.0
+HYDERABAD,Aditya Birla Health,7,,6.0,5.0,9.0
+MUMBAI,ICICI Lombard,10,,,,9.0
+DELHI,HDFC Ergo,4,,,,6.0
+JAIPUR,Aditya Birla Health,10,,9.0,10.0,9.0
+CHENNAI,New India Assurance,9,,,,10.0
+LUDHIANA,Star Health,10,10.0,9.0,9.0,
+INDORE,Niva Bupa,9,,,,10.0
+JAIPUR,HDFC Ergo,9,,,,10.0
+INDORE,New India Assurance,8,,,,9.0
+CHENNAI,Care Health,3,,,,2.0
+CHENNAI,New India Assurance,6,,,,8.0
+PUNE,Bagic,10,,,,9.0
+AHMEDABAD,HDFC Ergo,8,10.0,,,
+MUMBAI,Care Health,8,,8.0,9.0,7.0
+KANPUR,Star Health,9,,9.0,10.0,9.0
+PUNE,Aditya Birla Health,8,,8.0,4.0,7.0
+LUDHIANA,Star Health,9,9.0,,,
+DELHI,Aditya Birla Health,8,,,,8.0
+HYDERABAD,HDFC Ergo,10,,,,9.0
+MUMBAI,Star Health,7,,,,9.0
+KANPUR,New India Assurance,8,,,,10.0
+HYDERABAD,Bagic,7,9.0,,,
+INDORE,Aditya Birla Health,8,,,,7.0
+MUMBAI,Niva Bupa,9,,,,9.0
+INDORE,HDFC Ergo,7,,7.0,8.0,9.0
+LUDHIANA,ICICI Lombard,7,,8.0,5.0,5.0
+AHMEDABAD,ICICI Lombard,8,,,,9.0
+DELHI,Bagic,9,10.0,9.0,10.0,
+BANGALORE,Niva Bupa,7,,7.0,6.0,8.0
+MUMBAI,ICICI Lombard,6,5.0,,,
+CHENNAI,Star Health,10,10.0,10.0,8.0,
+DELHI,Star Health,9,,,,10.0
+KOLKATA,Care Health,6,,,,8.0
+KOLKATA,New India Assurance,9,,,,10.0
+HYDERABAD,ICICI Lombard,9,,,,10.0
+LUDHIANA,Star Health,9,,,,10.0
+MUMBAI,HDFC Ergo,6,,,,8.0
+MUMBAI,Aditya Birla Health,10,,,,8.0
+DELHI,Star Health,9,9.0,9.0,10.0,
+INDORE,New India Assurance,9,,,,9.0
+KOLKATA,Bagic,6,,7.0,6.0,5.0
+PUNE,ICICI Lombard,9,,,,8.0
+PUNE,ICICI Lombard,9,,7.0,8.0,10.0
+CHENNAI,Niva Bupa,10,,,,9.0
+LUDHIANA,New India Assurance,1,,,,4.0
+BANGALORE,ICICI Lombard,9,,,,10.0
+KOLKATA,HDFC Ergo,9,,9.0,10.0,10.0
+JAIPUR,HDFC Ergo,6,,,,3.0
+DELHI,ICICI Lombard,9,,,,9.0
+DELHI,Aditya Birla Health,9,,,,10.0
+KOLKATA,Care Health,3,3.0,,,
+AHMEDABAD,Bagic,9,,,,10.0
+KOLKATA,HDFC Ergo,9,,10.0,10.0,10.0
+CHENNAI,Bagic,9,,,,9.0
+LUDHIANA,HDFC Ergo,9,,,,9.0
+BANGALORE,Bagic,10,,,,10.0
+KOLKATA,Care Health,9,,10.0,8.0,10.0
+HYDERABAD,Aditya Birla Health,8,,,,7.0
+DELHI,Star Health,7,,5.0,9.0,8.0
+DELHI,ICICI Lombard,9,,7.0,8.0,10.0
+KANPUR,Aditya Birla Health,9,,,,9.0
+INDORE,Bagic,4,,,,4.0
+INDORE,Bagic,10,10.0,,,
+DELHI,Care Health,7,,,,8.0
+CHENNAI,New India Assurance,9,9.0,,,
+JAIPUR,Care Health,7,,,,7.0
+KOLKATA,Star Health,7,,,,9.0
+AHMEDABAD,Bagic,9,,10.0,10.0,10.0
+JAIPUR,Aditya Birla Health,3,,,,5.0
+PUNE,Niva Bupa,7,,7.0,7.0,9.0
+LUDHIANA,Aditya Birla Health,7,,5.0,8.0,5.0
+LUDHIANA,HDFC Ergo,3,,,,4.0
+JAIPUR,New India Assurance,3,,,,4.0
+CHENNAI,Star Health,9,,10.0,10.0,10.0
+LUDHIANA,Aditya Birla Health,9,,,,9.0
+HYDERABAD,ICICI Lombard,7,,,,6.0
+JAIPUR,Care Health,7,,,,8.0
+AHMEDABAD,HDFC Ergo,7,,,,8.0
+JAIPUR,ICICI Lombard,9,,,,10.0
+BANGALORE,Niva Bupa,10,,,,10.0
+AHMEDABAD,HDFC Ergo,10,,,,9.0
+KANPUR,Bagic,7,,,,8.0
+KANPUR,New India Assurance,9,,,,9.0
+BANGALORE,ICICI Lombard,9,,,,10.0
+JAIPUR,Star Health,10,,,,9.0
+DELHI,HDFC Ergo,10,,,,9.0
+CHENNAI,Aditya Birla Health,7,,6.0,9.0,8.0
+DELHI,ICICI Lombard,8,,9.0,9.0,10.0
+JAIPUR,Star Health,6,7.0,6.0,4.0,
+MUMBAI,Care Health,6,,,,7.0
+CHENNAI,Aditya Birla Health,9,,,,9.0
+MUMBAI,HDFC Ergo,8,,9.0,10.0,8.0
+BANGALORE,Aditya Birla Health,9,10.0,9.0,10.0,
+INDORE,ICICI Lombard,9,,,,10.0
+KANPUR,Aditya Birla Health,8,,,,7.0
+HYDERABAD,Aditya Birla Health,7,,,,8.0
+CHENNAI,Star Health,8,,,,10.0
+MUMBAI,Care Health,10,,,,10.0
+DELHI,Care Health,9,,,,10.0
+CHENNAI,ICICI Lombard,9,9.0,10.0,8.0,
+JAIPUR,Bagic,9,,,,10.0
+BANGALORE,Star Health,10,,,,9.0
+BANGALORE,Niva Bupa,8,9.0,9.0,8.0,
+CHENNAI,Niva Bupa,7,9.0,6.0,8.0,
+HYDERABAD,Care Health,10,,,,10.0
+DELHI,Star Health,10,,,,9.0
+BANGALORE,Bagic,4,,,,3.0
+JAIPUR,Bagic,10,,,,9.0
+BANGALORE,Star Health,9,,10.0,9.0,10.0
+DELHI,HDFC Ergo,9,,,,10.0
+CHENNAI,Star Health,6,,7.0,5.0,7.0
+KOLKATA,ICICI Lombard,9,,,,10.0
+KANPUR,Bagic,10,,,,9.0
+CHENNAI,ICICI Lombard,8,,10.0,8.0,9.0
+KANPUR,Bagic,9,,10.0,10.0,10.0
+HYDERABAD,Bagic,9,9.0,,,
+BANGALORE,Niva Bupa,6,,,,7.0
+KANPUR,New India Assurance,10,,,,9.0
+MUMBAI,Star Health,10,,10.0,9.0,9.0
+CHENNAI,Niva Bupa,9,,,,10.0
+LUDHIANA,Care Health,8,,9.0,7.0,9.0
+JAIPUR,ICICI Lombard,10,10.0,,,
+MUMBAI,Bagic,10,,,,9.0
+KANPUR,ICICI Lombard,9,,,,10.0
+LUDHIANA,Star Health,10,,,,9.0
+INDORE,HDFC Ergo,6,,,,7.0
+JAIPUR,HDFC Ergo,9,9.0,10.0,10.0,
+BANGALORE,Bagic,10,,9.0,10.0,9.0
+AHMEDABAD,New India Assurance,10,,9.0,8.0,9.0
+KOLKATA,HDFC Ergo,7,,9.0,9.0,5.0
+DELHI,Aditya Birla Health,9,,,,8.0
+KOLKATA,ICICI Lombard,9,,,,10.0
+INDORE,Care Health,10,,,,9.0
+PUNE,HDFC Ergo,10,10.0,,,
+INDORE,New India Assurance,10,,,,9.0
+JAIPUR,HDFC Ergo,5,,,,6.0
+AHMEDABAD,Star Health,9,,,,10.0
+AHMEDABAD,New India Assurance,10,,9.0,9.0,10.0
+DELHI,Bagic,5,,,,4.0
+CHENNAI,Niva Bupa,9,10.0,9.0,10.0,
+PUNE,Star Health,9,,10.0,8.0,10.0
+KOLKATA,Niva Bupa,10,9.0,,,
+HYDERABAD,Niva Bupa,9,,9.0,10.0,10.0
+KANPUR,Bagic,9,,,,9.0
+MUMBAI,Star Health,8,,,,7.0
+JAIPUR,New India Assurance,8,,10.0,9.0,9.0
+INDORE,ICICI Lombard,9,10.0,9.0,10.0,
+KANPUR,Star Health,7,9.0,,,
+JAIPUR,Niva Bupa,9,8.0,9.0,10.0,
+HYDERABAD,Care Health,5,,,,2.0
+BANGALORE,ICICI Lombard,9,,,,10.0
+HYDERABAD,New India Assurance,8,,,,9.0
+AHMEDABAD,Care Health,9,,,,10.0
+KOLKATA,ICICI Lombard,10,,,,8.0
+AHMEDABAD,ICICI Lombard,8,,,,7.0
+MUMBAI,Star Health,10,,9.0,9.0,9.0
+LUDHIANA,Bagic,9,,,,10.0
+DELHI,ICICI Lombard,7,8.0,,,
+HYDERABAD,New India Assurance,10,,10.0,9.0,9.0
+HYDERABAD,ICICI Lombard,10,,,,9.0
+BANGALORE,Aditya Birla Health,10,,,,9.0
+PUNE,Bagic,7,,,,9.0
+JAIPUR,Bagic,9,,9.0,10.0,10.0
+PUNE,HDFC Ergo,5,,,,4.0
+CHENNAI,ICICI Lombard,9,,,,10.0
+LUDHIANA,Bagic,9,,,,8.0
+BANGALORE,Niva Bupa,9,,,,10.0
+KANPUR,HDFC Ergo,7,4.0,9.0,9.0,
+LUDHIANA,Care Health,8,,7.0,10.0,7.0
+PUNE,Care Health,7,,,,8.0
+CHENNAI,Bagic,9,,,,10.0
+AHMEDABAD,ICICI Lombard,6,8.0,7.0,6.0,
+HYDERABAD,Aditya Birla Health,4,,,,5.0
+DELHI,ICICI Lombard,10,,,,9.0
+BANGALORE,Care Health,9,,7.0,9.0,9.0
+CHENNAI,ICICI Lombard,6,,6.0,5.0,6.0
+PUNE,HDFC Ergo,10,,,,9.0
+KOLKATA,Aditya Birla Health,9,,,,8.0
+PUNE,New India Assurance,9,,,,8.0
+HYDERABAD,ICICI Lombard,8,,,,9.0
+MUMBAI,Star Health,8,,7.0,9.0,7.0
+JAIPUR,Niva Bupa,9,,8.0,9.0,10.0
+MUMBAI,Care Health,9,,,,9.0
+AHMEDABAD,Care Health,6,,6.0,5.0,8.0
+JAIPUR,Bagic,10,,,,9.0
+HYDERABAD,Care Health,9,,,,8.0
+PUNE,HDFC Ergo,6,,,,5.0
+INDORE,Care Health,8,9.0,7.0,10.0,
+AHMEDABAD,Aditya Birla Health,8,,,,7.0
+KANPUR,ICICI Lombard,10,10.0,,,
+HYDERABAD,ICICI Lombard,9,,,,10.0
+INDORE,Aditya Birla Health,9,7.0,10.0,10.0,
+KANPUR,Aditya Birla Health,9,8.0,,,
+INDORE,Niva Bupa,9,,,,10.0
+LUDHIANA,Star Health,8,,,,10.0
+KOLKATA,Bagic,8,,,,10.0
+BANGALORE,New India Assurance,9,9.0,,,
+KOLKATA,Aditya Birla Health,9,,,,9.0
+JAIPUR,Bagic,6,,,,8.0
+KOLKATA,New India Assurance,9,,,,10.0
+AHMEDABAD,Star Health,9,10.0,10.0,10.0,
+HYDERABAD,ICICI Lombard,8,,,,9.0
+AHMEDABAD,Care Health,9,10.0,10.0,9.0,
+KOLKATA,Star Health,8,,9.0,9.0,7.0
+INDORE,Niva Bupa,10,7.0,10.0,8.0,
+MUMBAI,HDFC Ergo,1,,,,3.0
+CHENNAI,Niva Bupa,9,,10.0,9.0,10.0
+KANPUR,Star Health,7,,,,6.0
+JAIPUR,Aditya Birla Health,6,,4.0,4.0,5.0
+MUMBAI,New India Assurance,8,7.0,,,
+MUMBAI,Care Health,9,,,,8.0
+DELHI,Care Health,9,,,,9.0
+MUMBAI,ICICI Lombard,10,,10.0,9.0,9.0
+BANGALORE,New India Assurance,9,,,,9.0
+JAIPUR,Aditya Birla Health,8,,,,9.0
+MUMBAI,Care Health,9,,,,10.0
+KANPUR,ICICI Lombard,3,,,,2.0
+BANGALORE,Care Health,9,,8.0,8.0,9.0
+HYDERABAD,Aditya Birla Health,10,,10.0,9.0,9.0
+AHMEDABAD,Niva Bupa,9,,,,8.0
+KOLKATA,New India Assurance,8,,,,9.0
+KOLKATA,Star Health,5,,,,3.0
+BANGALORE,HDFC Ergo,9,9.0,,,
+INDORE,Niva Bupa,9,,,,10.0
